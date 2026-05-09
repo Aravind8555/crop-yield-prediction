@@ -1,0 +1,3600 @@
+district,year,month,rainfall,season
+Adilabad,2019.0,4.0,151.5,Zaid
+Adilabad,2019.0,5.0,42.5,Zaid
+Adilabad,2019.0,6.0,2473.5,Kharif
+Bhadradri-Kothagudem,2019.0,4.0,286.1,Zaid
+Bhadradri-Kothagudem,2019.0,5.0,658.9,Zaid
+Bhadradri-Kothagudem,2019.0,6.0,1442.1,Kharif
+Hyderabad,2019.0,4.0,1687.5,Zaid
+Hyderabad,2019.0,5.0,369.1,Zaid
+Hyderabad,2019.0,6.0,1459.6,Kharif
+Jagtial,2019.0,4.0,126.7,Zaid
+Jagtial,2019.0,5.0,77.4,Zaid
+Jagtial,2019.0,6.0,2601.0,Kharif
+Jangaon,2019.0,4.0,829.0,Zaid
+Jangaon,2019.0,5.0,260.3,Zaid
+Jangaon,2019.0,6.0,1112.5,Kharif
+Jayashankar-Bhupalpally,2019.0,4.0,298.3,Zaid
+Jayashankar-Bhupalpally,2019.0,5.0,280.1,Zaid
+Jayashankar-Bhupalpally,2019.0,6.0,956.8,Kharif
+Jogulamba-Gadwal,2019.0,4.0,73.1,Zaid
+Jogulamba-Gadwal,2019.0,5.0,485.9,Zaid
+Jogulamba-Gadwal,2019.0,6.0,612.6,Kharif
+Kamareddy,2019.0,4.0,95.8,Zaid
+Kamareddy,2019.0,5.0,137.8,Zaid
+Kamareddy,2019.0,6.0,2792.5,Kharif
+Karimnagar,2019.0,4.0,250.0,Zaid
+Karimnagar,2019.0,5.0,170.8,Zaid
+Karimnagar,2019.0,6.0,1372.5,Kharif
+Khammam,2019.0,4.0,409.2,Zaid
+Khammam,2019.0,5.0,1329.5,Zaid
+Khammam,2019.0,6.0,914.6,Kharif
+Kumuram Bheem - Asifabad,2019.0,4.0,197.3,Zaid
+Kumuram Bheem - Asifabad,2019.0,5.0,83.5,Zaid
+Kumuram Bheem - Asifabad,2019.0,6.0,1985.7,Kharif
+Mahabubabad,2019.0,4.0,216.3,Zaid
+Mahabubabad,2019.0,5.0,404.7,Zaid
+Mahabubabad,2019.0,6.0,1025.6,Kharif
+Mahabubnagar,2019.0,4.0,311.3,Zaid
+Mahabubnagar,2019.0,5.0,616.0,Zaid
+Mahabubnagar,2019.0,6.0,1243.1,Kharif
+Mancherial,2019.0,4.0,192.6,Zaid
+Mancherial,2019.0,5.0,96.0,Zaid
+Mancherial,2019.0,6.0,1491.5,Kharif
+Medak,2019.0,4.0,195.1,Zaid
+Medak,2019.0,5.0,449.5,Zaid
+Medak,2019.0,6.0,2268.2,Kharif
+Medchal-Malkajgiri,2019.0,4.0,945.5,Zaid
+Medchal-Malkajgiri,2019.0,5.0,710.1,Zaid
+Medchal-Malkajgiri,2019.0,6.0,1257.1,Kharif
+Mulug,2019.0,6.0,636.3000000000001,Kharif
+Nagarkurnool,2019.0,4.0,441.2,Zaid
+Nagarkurnool,2019.0,5.0,723.1,Zaid
+Nagarkurnool,2019.0,6.0,1676.9,Kharif
+Nalgonda,2019.0,4.0,988.4,Zaid
+Nalgonda,2019.0,5.0,250.8,Zaid
+Nalgonda,2019.0,6.0,1296.4,Kharif
+Narayanpet,2019.0,6.0,686.3,Kharif
+Nirmal,2019.0,4.0,167.1,Zaid
+Nirmal,2019.0,5.0,26.099999999999998,Zaid
+Nirmal,2019.0,6.0,2226.2,Kharif
+Nizamabad,2019.0,4.0,95.6,Zaid
+Nizamabad,2019.0,5.0,119.6,Zaid
+Nizamabad,2019.0,6.0,2930.7,Kharif
+Peddapalli,2019.0,4.0,201.9,Zaid
+Peddapalli,2019.0,5.0,51.5,Zaid
+Peddapalli,2019.0,6.0,1535.0,Kharif
+Rajanna-Siricilla,2019.0,4.0,171.1,Zaid
+Rajanna-Siricilla,2019.0,5.0,90.1,Zaid
+Rajanna-Siricilla,2019.0,6.0,1194.4,Kharif
+Rangareddy,2019.0,4.0,1856.8,Zaid
+Rangareddy,2019.0,5.0,773.9,Zaid
+Rangareddy,2019.0,6.0,2464.1,Kharif
+Sangareddy,2019.0,4.0,458.6,Zaid
+Sangareddy,2019.0,5.0,488.9,Zaid
+Sangareddy,2019.0,6.0,2721.5,Kharif
+Siddipet,2019.0,4.0,782.9,Zaid
+Siddipet,2019.0,5.0,265.2,Zaid
+Siddipet,2019.0,6.0,2123.3,Kharif
+Suryapet,2019.0,4.0,264.6,Zaid
+Suryapet,2019.0,5.0,334.5,Zaid
+Suryapet,2019.0,6.0,1066.6,Kharif
+Vikarabad,2019.0,4.0,383.6,Zaid
+Vikarabad,2019.0,5.0,583.6,Zaid
+Vikarabad,2019.0,6.0,1695.6000000000001,Kharif
+Wanaparthy,2019.0,4.0,93.0,Zaid
+Wanaparthy,2019.0,5.0,297.8,Zaid
+Wanaparthy,2019.0,6.0,754.4,Kharif
+Warangal (R),2019.0,4.0,381.7,Zaid
+Warangal (R),2019.0,5.0,192.9,Zaid
+Warangal (R),2019.0,6.0,1337.6,Kharif
+Warangal (U),2019.0,4.0,444.3,Zaid
+Warangal (U),2019.0,5.0,72.0,Zaid
+Warangal (U),2019.0,6.0,996.7,Kharif
+Yadadri-Bhongir,2019.0,4.0,445.2,Zaid
+Yadadri-Bhongir,2019.0,5.0,181.9,Zaid
+Yadadri-Bhongir,2019.0,6.0,960.3,Kharif
+Adilabad,2020.0,1.0,446.1,Rabi
+Adilabad,2020.0,2.0,70.1,Rabi
+Adilabad,2020.0,3.0,600.9,Zaid
+Bhadradri-Kothagudem,2020.0,1.0,66.2,Rabi
+Bhadradri-Kothagudem,2020.0,2.0,29.7,Rabi
+Bhadradri-Kothagudem,2020.0,3.0,330.3,Zaid
+Hyderabad,2020.0,1.0,229.2,Rabi
+Hyderabad,2020.0,2.0,63.5,Rabi
+Hyderabad,2020.0,3.0,202.0,Zaid
+Jagtial,2020.0,1.0,193.0,Rabi
+Jagtial,2020.0,2.0,249.6,Rabi
+Jagtial,2020.0,3.0,131.70000000000002,Zaid
+Jangaon,2020.0,1.0,0.5,Rabi
+Jangaon,2020.0,2.0,160.9,Rabi
+Jangaon,2020.0,3.0,144.0,Zaid
+Jayashankar-Bhupalpally,2020.0,1.0,21.3,Rabi
+Jayashankar-Bhupalpally,2020.0,2.0,376.2,Rabi
+Jayashankar-Bhupalpally,2020.0,3.0,128.4,Zaid
+Jogulamba-Gadwal,2020.0,1.0,2.0,Rabi
+Jogulamba-Gadwal,2020.0,2.0,1.0,Rabi
+Jogulamba-Gadwal,2020.0,3.0,30.2,Zaid
+Kamareddy,2020.0,1.0,276.1,Rabi
+Kamareddy,2020.0,2.0,242.10000000000002,Rabi
+Kamareddy,2020.0,3.0,663.4,Zaid
+Karimnagar,2020.0,1.0,81.0,Rabi
+Karimnagar,2020.0,2.0,254.79999999999998,Rabi
+Karimnagar,2020.0,3.0,336.0,Zaid
+Khammam,2020.0,1.0,53.4,Rabi
+Khammam,2020.0,2.0,116.99999999999999,Rabi
+Khammam,2020.0,3.0,202.0,Zaid
+Kumuram Bheem,2020.0,1.0,219.4,Rabi
+Kumuram Bheem,2020.0,2.0,148.4,Rabi
+Kumuram Bheem,2020.0,3.0,632.3,Zaid
+Mahabubabad,2020.0,1.0,12.3,Rabi
+Mahabubabad,2020.0,2.0,162.4,Rabi
+Mahabubabad,2020.0,3.0,40.2,Zaid
+Mahabubnagar,2020.0,1.0,168.9,Rabi
+Mahabubnagar,2020.0,2.0,13.7,Rabi
+Mahabubnagar,2020.0,3.0,51.9,Zaid
+Mancherial,2020.0,1.0,147.1,Rabi
+Mancherial,2020.0,2.0,391.3,Rabi
+Mancherial,2020.0,3.0,139.8,Zaid
+Medak,2020.0,1.0,21.0,Rabi
+Medak,2020.0,2.0,178.4,Rabi
+Medak,2020.0,3.0,426.1,Zaid
+Medchal-Malkajgiri,2020.0,1.0,128.2,Rabi
+Medchal-Malkajgiri,2020.0,2.0,69.0,Rabi
+Medchal-Malkajgiri,2020.0,3.0,149.9,Zaid
+Mulugu,2020.0,1.0,41.1,Rabi
+Mulugu,2020.0,2.0,281.3,Rabi
+Mulugu,2020.0,3.0,51.400000000000006,Zaid
+Nagarkurnool,2020.0,1.0,71.0,Rabi
+Nagarkurnool,2020.0,2.0,34.3,Rabi
+Nagarkurnool,2020.0,3.0,27.4,Zaid
+Nalgonda,2020.0,1.0,205.2,Rabi
+Nalgonda,2020.0,2.0,363.8,Rabi
+Nalgonda,2020.0,3.0,528.8,Zaid
+Narayanpet,2020.0,1.0,129.2,Rabi
+Narayanpet,2020.0,2.0,0.0,Rabi
+Narayanpet,2020.0,3.0,61.0,Zaid
+Nirmal,2020.0,1.0,214.8,Rabi
+Nirmal,2020.0,2.0,75.8,Rabi
+Nirmal,2020.0,3.0,112.6,Zaid
+Nizamabad,2020.0,1.0,526.7,Rabi
+Nizamabad,2020.0,2.0,23.5,Rabi
+Nizamabad,2020.0,3.0,311.5,Zaid
+Peddapalli,2020.0,1.0,106.2,Rabi
+Peddapalli,2020.0,2.0,198.0,Rabi
+Peddapalli,2020.0,3.0,173.9,Zaid
+Rajanna-Siricilla,2020.0,1.0,121.2,Rabi
+Rajanna-Siricilla,2020.0,2.0,247.5,Rabi
+Rajanna-Siricilla,2020.0,3.0,389.9,Zaid
+Rangareddy,2020.0,1.0,87.3,Rabi
+Rangareddy,2020.0,2.0,41.6,Rabi
+Rangareddy,2020.0,3.0,199.4,Zaid
+Sangareddy,2020.0,1.0,30.0,Rabi
+Sangareddy,2020.0,2.0,39.9,Rabi
+Sangareddy,2020.0,3.0,193.6,Zaid
+Siddipet,2020.0,1.0,27.9,Rabi
+Siddipet,2020.0,2.0,201.8,Rabi
+Siddipet,2020.0,3.0,666.4,Zaid
+Suryapet,2020.0,1.0,78.5,Rabi
+Suryapet,2020.0,2.0,272.1,Rabi
+Suryapet,2020.0,3.0,321.0,Zaid
+Vikarabad,2020.0,1.0,28.2,Rabi
+Vikarabad,2020.0,2.0,2.1,Rabi
+Vikarabad,2020.0,3.0,27.2,Zaid
+Wanaparthy,2020.0,1.0,13.399999999999999,Rabi
+Wanaparthy,2020.0,2.0,22.5,Rabi
+Wanaparthy,2020.0,3.0,57.1,Zaid
+Warangal Rural,2020.0,1.0,5.2,Rabi
+Warangal Rural,2020.0,2.0,159.7,Rabi
+Warangal Rural,2020.0,3.0,169.4,Zaid
+Warangal Urban,2020.0,1.0,2.0999999999999996,Rabi
+Warangal Urban,2020.0,2.0,190.9,Rabi
+Warangal Urban,2020.0,3.0,283.0,Zaid
+Yadadri-Bhongir,2020.0,1.0,9.7,Rabi
+Yadadri-Bhongir,2020.0,2.0,123.4,Rabi
+Yadadri-Bhongir,2020.0,3.0,442.6,Zaid
+Adilabad,2019.0,7.0,6482.9,Kharif
+Adilabad,2019.0,8.0,4594.4,Kharif
+Adilabad,2019.0,9.0,1347.7,Kharif
+Bhadradri-Kothagudem,2019.0,7.0,5766.6,Kharif
+Bhadradri-Kothagudem,2019.0,8.0,9312.3,Kharif
+Bhadradri-Kothagudem,2019.0,9.0,3216.9,Kharif
+Hyderabad,2019.0,7.0,1462.0,Kharif
+Hyderabad,2019.0,8.0,2593.7,Kharif
+Hyderabad,2019.0,9.0,825.5,Kharif
+Jagtial,2019.0,7.0,4691.2,Kharif
+Jagtial,2019.0,8.0,5550.6,Kharif
+Jagtial,2019.0,9.0,1281.8,Kharif
+Jangaon,2019.0,7.0,2065.5,Kharif
+Jangaon,2019.0,8.0,2700.7,Kharif
+Jangaon,2019.0,9.0,867.8,Kharif
+Jayashankar-Bhupalpally,2019.0,7.0,3745.0,Kharif
+Jayashankar-Bhupalpally,2019.0,8.0,4527.4,Kharif
+Jayashankar-Bhupalpally,2019.0,9.0,1301.0,Kharif
+Jogulamba-Gadwal,2019.0,7.0,1057.4,Kharif
+Jogulamba-Gadwal,2019.0,8.0,951.4,Kharif
+Jogulamba-Gadwal,2019.0,9.0,985.6,Kharif
+Kamareddy,2019.0,7.0,5807.8,Kharif
+Kamareddy,2019.0,8.0,5619.5,Kharif
+Kamareddy,2019.0,9.0,3582.6,Kharif
+Karimnagar,2019.0,7.0,4764.9,Kharif
+Karimnagar,2019.0,8.0,3890.3,Kharif
+Karimnagar,2019.0,9.0,863.3,Kharif
+Khammam,2019.0,7.0,3994.7,Kharif
+Khammam,2019.0,8.0,5330.1,Kharif
+Khammam,2019.0,9.0,2183.3,Kharif
+Komaram Bheem-Asifabad,2019.0,9.0,585.7,Kharif
+Kumuram Bheem - Asifabad,2019.0,7.0,6489.5,Kharif
+Kumuram Bheem - Asifabad,2019.0,8.0,6173.2,Kharif
+Kumuram Bheem - Asifabad,2019.0,9.0,1347.1,Kharif
+Mahabubabad,2019.0,7.0,3055.4,Kharif
+Mahabubabad,2019.0,8.0,4220.8,Kharif
+Mahabubabad,2019.0,9.0,2357.8,Kharif
+Mahabubnagar,2019.0,7.0,2039.3,Kharif
+Mahabubnagar,2019.0,8.0,2045.7,Kharif
+Mahabubnagar,2019.0,9.0,1131.6,Kharif
+Mancherial,2019.0,7.0,4904.9,Kharif
+Mancherial,2019.0,8.0,6807.3,Kharif
+Mancherial,2019.0,9.0,1686.9,Kharif
+Medak,2019.0,7.0,3770.4,Kharif
+Medak,2019.0,8.0,4595.6,Kharif
+Medak,2019.0,9.0,2819.7,Kharif
+Medchal-Malkajgiri,2019.0,7.0,1821.0,Kharif
+Medchal-Malkajgiri,2019.0,8.0,2293.5,Kharif
+Medchal-Malkajgiri,2019.0,9.0,1017.0,Kharif
+Mulug,2019.0,7.0,4144.1,Kharif
+Mulug,2019.0,8.0,5279.2,Kharif
+Mulug,2019.0,9.0,1143.2,Kharif
+Nagarkurnool,2019.0,7.0,2478.0,Kharif
+Nagarkurnool,2019.0,8.0,1956.2,Kharif
+Nagarkurnool,2019.0,9.0,1223.4,Kharif
+Nalgonda,2019.0,7.0,2980.5,Kharif
+Nalgonda,2019.0,8.0,4424.7,Kharif
+Nalgonda,2019.0,9.0,1439.3,Kharif
+Narayanpet,2019.0,7.0,1863.5,Kharif
+Narayanpet,2019.0,8.0,1286.3,Kharif
+Narayanpet,2019.0,9.0,714.1,Kharif
+Nirmal,2019.0,7.0,5350.1,Kharif
+Nirmal,2019.0,8.0,4622.8,Kharif
+Nirmal,2019.0,9.0,1626.6,Kharif
+Nizamabad,2019.0,7.0,8876.6,Kharif
+Nizamabad,2019.0,8.0,9623.8,Kharif
+Nizamabad,2019.0,9.0,4520.2,Kharif
+Peddapalli,2019.0,7.0,3858.5,Kharif
+Peddapalli,2019.0,8.0,4459.2,Kharif
+Peddapalli,2019.0,9.0,1023.9,Kharif
+Rajanna-Siricilla,2019.0,7.0,3872.7,Kharif
+Rajanna-Siricilla,2019.0,8.0,3170.5,Kharif
+Rajanna-Siricilla,2019.0,9.0,1228.2,Kharif
+Rangareddy,2019.0,7.0,2596.7,Kharif
+Rangareddy,2019.0,8.0,3891.8,Kharif
+Rangareddy,2019.0,9.0,1323.7,Kharif
+Sangareddy,2019.0,7.0,2931.4,Kharif
+Sangareddy,2019.0,8.0,5710.6,Kharif
+Sangareddy,2019.0,9.0,2651.6,Kharif
+Siddipet,2019.0,7.0,4705.5,Kharif
+Siddipet,2019.0,8.0,4349.7,Kharif
+Siddipet,2019.0,9.0,1435.8,Kharif
+Suryapet,2019.0,7.0,3303.0,Kharif
+Suryapet,2019.0,8.0,3789.5,Kharif
+Suryapet,2019.0,9.0,1732.6,Kharif
+Vikarabad,2019.0,7.0,1734.0,Kharif
+Vikarabad,2019.0,8.0,3769.5,Kharif
+Vikarabad,2019.0,9.0,1674.9,Kharif
+Wanaparthy,2019.0,7.0,2042.4,Kharif
+Wanaparthy,2019.0,8.0,1751.0,Kharif
+Wanaparthy,2019.0,9.0,1197.9,Kharif
+Warangal (R),2019.0,7.0,3888.9,Kharif
+Warangal (R),2019.0,8.0,5018.4,Kharif
+Warangal (R),2019.0,9.0,2066.3,Kharif
+Warangal (U),2019.0,7.0,2944.4,Kharif
+Warangal (U),2019.0,8.0,3227.4,Kharif
+Warangal (U),2019.0,9.0,1284.8,Kharif
+Warangal Rural,2019.0,9.0,358.6,Kharif
+Warangal Urban,2019.0,9.0,188.7,Kharif
+Yadadri-Bhongir,2019.0,7.0,2096.2,Kharif
+Yadadri-Bhongir,2019.0,8.0,2137.1,Kharif
+Yadadri-Bhongir,2019.0,9.0,658.6,Kharif
+Adilabad,2021.0,1.0,5.6,Rabi
+Adilabad,2021.0,2.0,41.7,Rabi
+Adilabad,2021.0,3.0,9.5,Zaid
+Bhadradri Kothagudem,2021.0,1.0,0.0,Rabi
+Bhadradri Kothagudem,2021.0,2.0,0.0,Rabi
+Bhadradri Kothagudem,2021.0,3.0,0.0,Zaid
+Hyderabad,2021.0,1.0,33.9,Rabi
+Hyderabad,2021.0,2.0,183.8,Rabi
+Hyderabad,2021.0,3.0,0.0,Zaid
+Jagtial,2021.0,1.0,21.3,Rabi
+Jagtial,2021.0,2.0,4.5,Rabi
+Jagtial,2021.0,3.0,0.0,Zaid
+Jangaon,2021.0,1.0,1.2,Rabi
+Jangaon,2021.0,2.0,1.9,Rabi
+Jangaon,2021.0,3.0,0.0,Zaid
+Jayashankar,2021.0,1.0,0.0,Rabi
+Jayashankar,2021.0,2.0,38.9,Rabi
+Jayashankar,2021.0,3.0,0.0,Zaid
+Jogulamba Gadwal,2021.0,1.0,67.0,Rabi
+Jogulamba Gadwal,2021.0,2.0,15.3,Rabi
+Jogulamba Gadwal,2021.0,3.0,0.0,Zaid
+Kamareddy,2021.0,1.0,161.8,Rabi
+Kamareddy,2021.0,2.0,6.8,Rabi
+Kamareddy,2021.0,3.0,13.8,Zaid
+Karimnagar,2021.0,1.0,41.9,Rabi
+Karimnagar,2021.0,2.0,17.8,Rabi
+Karimnagar,2021.0,3.0,0.0,Zaid
+Khammam,2021.0,1.0,0.7,Rabi
+Khammam,2021.0,2.0,0.0,Rabi
+Khammam,2021.0,3.0,0.0,Zaid
+Kumuram Bheem,2021.0,1.0,0.3,Rabi
+Kumuram Bheem,2021.0,2.0,58.300000000000004,Rabi
+Kumuram Bheem,2021.0,3.0,0.0,Zaid
+Mahabubabad,2021.0,1.0,0.0,Rabi
+Mahabubabad,2021.0,2.0,15.9,Rabi
+Mahabubabad,2021.0,3.0,0.0,Zaid
+Mahabubnagar,2021.0,1.0,17.8,Rabi
+Mahabubnagar,2021.0,2.0,0.0,Rabi
+Mahabubnagar,2021.0,3.0,0.0,Zaid
+Mancherial,2021.0,1.0,35.2,Rabi
+Mancherial,2021.0,2.0,23.9,Rabi
+Mancherial,2021.0,3.0,0.0,Zaid
+Medak,2021.0,1.0,29.5,Rabi
+Medak,2021.0,2.0,6.9,Rabi
+Medak,2021.0,3.0,25.0,Zaid
+Medchal-Malkajgiri,2021.0,1.0,8.8,Rabi
+Medchal-Malkajgiri,2021.0,2.0,80.6,Rabi
+Medchal-Malkajgiri,2021.0,3.0,0.0,Zaid
+Mulugu,2021.0,1.0,0.0,Rabi
+Mulugu,2021.0,2.0,90.5,Rabi
+Mulugu,2021.0,3.0,0.4,Zaid
+Nagarkurnool,2021.0,1.0,31.4,Rabi
+Nagarkurnool,2021.0,2.0,24.0,Rabi
+Nagarkurnool,2021.0,3.0,0.0,Zaid
+Nalgonda,2021.0,1.0,18.4,Rabi
+Nalgonda,2021.0,2.0,8.5,Rabi
+Nalgonda,2021.0,3.0,0.0,Zaid
+Narayanpet,2021.0,1.0,75.0,Rabi
+Narayanpet,2021.0,2.0,3.2,Rabi
+Narayanpet,2021.0,3.0,7.1,Zaid
+Nirmal,2021.0,1.0,0.0,Rabi
+Nirmal,2021.0,2.0,161.70000000000002,Rabi
+Nirmal,2021.0,3.0,0.0,Zaid
+Nizamabad,2021.0,1.0,20.3,Rabi
+Nizamabad,2021.0,2.0,106.5,Rabi
+Nizamabad,2021.0,3.0,0.0,Zaid
+Peddapalli,2021.0,1.0,35.7,Rabi
+Peddapalli,2021.0,2.0,0.0,Rabi
+Peddapalli,2021.0,3.0,0.0,Zaid
+Rajanna Sircilla,2021.0,1.0,111.6,Rabi
+Rajanna Sircilla,2021.0,2.0,0.7,Rabi
+Rajanna Sircilla,2021.0,3.0,0.0,Zaid
+Rangareddy,2021.0,1.0,94.9,Rabi
+Rangareddy,2021.0,2.0,35.0,Rabi
+Rangareddy,2021.0,3.0,0.0,Zaid
+Sangareddy,2021.0,1.0,192.5,Rabi
+Sangareddy,2021.0,2.0,11.100000000000001,Rabi
+Sangareddy,2021.0,3.0,30.900000000000002,Zaid
+Siddipet,2021.0,1.0,66.10000000000001,Rabi
+Siddipet,2021.0,2.0,12.1,Rabi
+Siddipet,2021.0,3.0,0.0,Zaid
+Suryapet,2021.0,1.0,0.0,Rabi
+Suryapet,2021.0,2.0,1.0,Rabi
+Suryapet,2021.0,3.0,0.0,Zaid
+Vikarabad,2021.0,1.0,57.5,Rabi
+Vikarabad,2021.0,2.0,0.9,Rabi
+Vikarabad,2021.0,3.0,52.1,Zaid
+Wanaparthy,2021.0,1.0,15.8,Rabi
+Wanaparthy,2021.0,2.0,5.9,Rabi
+Wanaparthy,2021.0,3.0,2.6,Zaid
+Warangal Rural,2021.0,1.0,0.0,Rabi
+Warangal Rural,2021.0,2.0,99.60000000000001,Rabi
+Warangal Rural,2021.0,3.0,0.0,Zaid
+Warangal Urban,2021.0,1.0,0.8,Rabi
+Warangal Urban,2021.0,2.0,68.3,Rabi
+Warangal Urban,2021.0,3.0,0.0,Zaid
+Yadadri Bhuvanagiri,2021.0,1.0,10.8,Rabi
+Yadadri Bhuvanagiri,2021.0,2.0,44.9,Rabi
+Yadadri Bhuvanagiri,2021.0,3.0,0.0,Zaid
+Adilabad,2019.0,10.0,1532.8,Rabi
+Adilabad,2019.0,11.0,81.1,Rabi
+Adilabad,2019.0,12.0,12.8,Rabi
+Bhadradri-Kothagudem,2019.0,10.0,3416.2,Rabi
+Bhadradri-Kothagudem,2019.0,11.0,426.3,Rabi
+Bhadradri-Kothagudem,2019.0,12.0,65.4,Rabi
+Hyderabad,2019.0,10.0,2266.9,Rabi
+Hyderabad,2019.0,11.0,25.4,Rabi
+Hyderabad,2019.0,12.0,89.2,Rabi
+Jagtial,2019.0,10.0,2572.9,Rabi
+Jagtial,2019.0,11.0,45.9,Rabi
+Jagtial,2019.0,12.0,10.9,Rabi
+Jangaon,2019.0,10.0,2626.0,Rabi
+Jangaon,2019.0,11.0,64.5,Rabi
+Jangaon,2019.0,12.0,67.2,Rabi
+Jayashankar-Bhupalpally,2019.0,10.0,2412.2,Rabi
+Jayashankar-Bhupalpally,2019.0,11.0,120.2,Rabi
+Jayashankar-Bhupalpally,2019.0,12.0,123.5,Rabi
+Jogulamba-Gadwal,2019.0,10.0,1226.4,Rabi
+Jogulamba-Gadwal,2019.0,11.0,0.8999999999999999,Rabi
+Jogulamba-Gadwal,2019.0,12.0,25.0,Rabi
+Kamareddy,2019.0,10.0,4380.1,Rabi
+Kamareddy,2019.0,11.0,300.3,Rabi
+Kamareddy,2019.0,12.0,0.9,Rabi
+Karimnagar,2019.0,10.0,3980.5,Rabi
+Karimnagar,2019.0,11.0,211.2,Rabi
+Karimnagar,2019.0,12.0,32.5,Rabi
+Khammam,2019.0,10.0,2640.2,Rabi
+Khammam,2019.0,11.0,186.2,Rabi
+Khammam,2019.0,12.0,96.1,Rabi
+Komaram Bheem-Asifabad,2019.0,10.0,1344.5,Rabi
+Komaram Bheem-Asifabad,2019.0,11.0,169.5,Rabi
+Komaram Bheem-Asifabad,2019.0,12.0,29.5,Rabi
+Mahabubabad,2019.0,10.0,2927.3,Rabi
+Mahabubabad,2019.0,11.0,186.2,Rabi
+Mahabubabad,2019.0,12.0,76.5,Rabi
+Mahabubnagar,2019.0,10.0,2348.8,Rabi
+Mahabubnagar,2019.0,11.0,74.0,Rabi
+Mahabubnagar,2019.0,12.0,103.8,Rabi
+Mancherial,2019.0,10.0,2579.5,Rabi
+Mancherial,2019.0,11.0,279.4,Rabi
+Mancherial,2019.0,12.0,24.7,Rabi
+Medak,2019.0,10.0,2549.8,Rabi
+Medak,2019.0,11.0,65.9,Rabi
+Medak,2019.0,12.0,16.6,Rabi
+Medchal-Malkajgiri,2019.0,10.0,2441.3,Rabi
+Medchal-Malkajgiri,2019.0,11.0,4.2,Rabi
+Medchal-Malkajgiri,2019.0,12.0,55.699999999999996,Rabi
+Mulug,2019.0,10.0,2305.6,Rabi
+Mulug,2019.0,11.0,115.2,Rabi
+Mulug,2019.0,12.0,16.5,Rabi
+Nagarkurnool,2019.0,10.0,2119.5,Rabi
+Nagarkurnool,2019.0,11.0,102.3,Rabi
+Nagarkurnool,2019.0,12.0,24.900000000000002,Rabi
+Nalgonda,2019.0,10.0,3504.9,Rabi
+Nalgonda,2019.0,11.0,0.6,Rabi
+Nalgonda,2019.0,12.0,275.8,Rabi
+Narayanpet,2019.0,10.0,1596.6,Rabi
+Narayanpet,2019.0,11.0,18.9,Rabi
+Narayanpet,2019.0,12.0,61.5,Rabi
+Nirmal,2019.0,10.0,2653.1,Rabi
+Nirmal,2019.0,11.0,68.8,Rabi
+Nirmal,2019.0,12.0,13.4,Rabi
+Nizamabad,2019.0,10.0,4544.4,Rabi
+Nizamabad,2019.0,11.0,432.9,Rabi
+Nizamabad,2019.0,12.0,14.7,Rabi
+Peddapalli,2019.0,10.0,2429.2,Rabi
+Peddapalli,2019.0,11.0,73.1,Rabi
+Peddapalli,2019.0,12.0,47.6,Rabi
+Rajanna-Siricilla,2019.0,10.0,2707.3,Rabi
+Rajanna-Siricilla,2019.0,11.0,127.10000000000001,Rabi
+Rajanna-Siricilla,2019.0,12.0,0.2,Rabi
+Rangareddy,2019.0,10.0,3458.3,Rabi
+Rangareddy,2019.0,11.0,46.4,Rabi
+Rangareddy,2019.0,12.0,145.2,Rabi
+Sangareddy,2019.0,10.0,2841.4,Rabi
+Sangareddy,2019.0,11.0,279.90000000000003,Rabi
+Sangareddy,2019.0,12.0,29.4,Rabi
+Siddipet,2019.0,10.0,5367.1,Rabi
+Siddipet,2019.0,11.0,55.1,Rabi
+Siddipet,2019.0,12.0,34.4,Rabi
+Suryapet,2019.0,10.0,3114.2,Rabi
+Suryapet,2019.0,11.0,32.9,Rabi
+Suryapet,2019.0,12.0,179.6,Rabi
+Vikarabad,2019.0,10.0,2313.1,Rabi
+Vikarabad,2019.0,11.0,164.2,Rabi
+Vikarabad,2019.0,12.0,25.7,Rabi
+Wanaparthy,2019.0,10.0,1832.3,Rabi
+Wanaparthy,2019.0,11.0,75.8,Rabi
+Wanaparthy,2019.0,12.0,14.9,Rabi
+Warangal Rural,2019.0,10.0,3715.6,Rabi
+Warangal Rural,2019.0,11.0,249.4,Rabi
+Warangal Rural,2019.0,12.0,126.1,Rabi
+Warangal Urban,2019.0,10.0,3076.5,Rabi
+Warangal Urban,2019.0,11.0,286.4,Rabi
+Warangal Urban,2019.0,12.0,8.7,Rabi
+Yadadri-Bhongir,2019.0,10.0,2984.7,Rabi
+Yadadri-Bhongir,2019.0,11.0,9.8,Rabi
+Yadadri-Bhongir,2019.0,12.0,112.3,Rabi
+Adilabad,2020.0,4.0,302.8,Zaid
+Adilabad,2020.0,5.0,274.2,Zaid
+Adilabad,2020.0,6.0,2595.4,Kharif
+Bhadradri-Kothagudem,2020.0,4.0,643.6,Zaid
+Bhadradri-Kothagudem,2020.0,5.0,391.7,Zaid
+Bhadradri-Kothagudem,2020.0,6.0,4227.9,Kharif
+Hyderabad,2020.0,4.0,208.1,Zaid
+Hyderabad,2020.0,5.0,365.9,Zaid
+Hyderabad,2020.0,6.0,2895.1,Kharif
+Jagtial,2020.0,4.0,117.2,Zaid
+Jagtial,2020.0,5.0,596.1,Zaid
+Jagtial,2020.0,6.0,2582.0,Kharif
+Jangaon,2020.0,4.0,176.1,Zaid
+Jangaon,2020.0,5.0,216.9,Zaid
+Jangaon,2020.0,6.0,2250.4,Kharif
+Jayashankar-Bhupalpally,2020.0,4.0,114.4,Zaid
+Jayashankar-Bhupalpally,2020.0,5.0,407.9,Zaid
+Jayashankar-Bhupalpally,2020.0,6.0,2440.6,Kharif
+Jogulamba-Gadwal,2020.0,4.0,102.1,Zaid
+Jogulamba-Gadwal,2020.0,5.0,372.8,Zaid
+Jogulamba-Gadwal,2020.0,6.0,1520.9,Kharif
+Kamareddy,2020.0,4.0,417.6,Zaid
+Kamareddy,2020.0,5.0,486.0,Zaid
+Kamareddy,2020.0,6.0,3806.6,Kharif
+Karimnagar,2020.0,4.0,188.9,Zaid
+Karimnagar,2020.0,5.0,253.9,Zaid
+Karimnagar,2020.0,6.0,3132.9,Kharif
+Khammam,2020.0,4.0,81.89999999999999,Zaid
+Khammam,2020.0,5.0,225.2,Zaid
+Khammam,2020.0,6.0,3691.8,Kharif
+Kumuram Bheem,2020.0,4.0,518.4,Zaid
+Kumuram Bheem,2020.0,5.0,368.3,Zaid
+Kumuram Bheem,2020.0,6.0,2405.8,Kharif
+Mahabubabad,2020.0,4.0,181.9,Zaid
+Mahabubabad,2020.0,5.0,358.1,Zaid
+Mahabubabad,2020.0,6.0,3078.1,Kharif
+Mahabubnagar,2020.0,4.0,641.2,Zaid
+Mahabubnagar,2020.0,5.0,456.0,Zaid
+Mahabubnagar,2020.0,6.0,2076.5,Kharif
+Mancherial,2020.0,4.0,250.4,Zaid
+Mancherial,2020.0,5.0,869.6,Zaid
+Mancherial,2020.0,6.0,3762.7,Kharif
+Medak,2020.0,4.0,660.0,Zaid
+Medak,2020.0,5.0,462.0,Zaid
+Medak,2020.0,6.0,3570.4,Kharif
+Medchal-Malkajgiri,2020.0,4.0,177.8,Zaid
+Medchal-Malkajgiri,2020.0,5.0,205.2,Zaid
+Medchal-Malkajgiri,2020.0,6.0,2489.5,Kharif
+Mulugu,2020.0,4.0,141.5,Zaid
+Mulugu,2020.0,5.0,143.3,Zaid
+Mulugu,2020.0,6.0,2323.4,Kharif
+Nagarkurnool,2020.0,4.0,469.0,Zaid
+Nagarkurnool,2020.0,5.0,292.3,Zaid
+Nagarkurnool,2020.0,6.0,2275.3,Kharif
+Nalgonda,2020.0,4.0,481.6,Zaid
+Nalgonda,2020.0,5.0,479.0,Zaid
+Nalgonda,2020.0,6.0,3297.5,Kharif
+Narayanpet,2020.0,4.0,205.7,Zaid
+Narayanpet,2020.0,5.0,308.5,Zaid
+Narayanpet,2020.0,6.0,1425.3,Kharif
+Nirmal,2020.0,4.0,165.1,Zaid
+Nirmal,2020.0,5.0,182.0,Zaid
+Nirmal,2020.0,6.0,2667.8,Kharif
+Nizamabad,2020.0,4.0,260.9,Zaid
+Nizamabad,2020.0,5.0,347.9,Zaid
+Nizamabad,2020.0,6.0,4760.7,Kharif
+Peddapalli,2020.0,4.0,87.0,Zaid
+Peddapalli,2020.0,5.0,254.2,Zaid
+Peddapalli,2020.0,6.0,3657.8,Kharif
+Rajanna-Siricilla,2020.0,4.0,211.6,Zaid
+Rajanna-Siricilla,2020.0,5.0,252.0,Zaid
+Rajanna-Siricilla,2020.0,6.0,2643.3,Kharif
+Rangareddy,2020.0,4.0,616.5,Zaid
+Rangareddy,2020.0,5.0,783.1,Zaid
+Rangareddy,2020.0,6.0,4185.4,Kharif
+Sangareddy,2020.0,4.0,710.8,Zaid
+Sangareddy,2020.0,5.0,746.3,Zaid
+Sangareddy,2020.0,6.0,4509.6,Kharif
+Siddipet,2020.0,4.0,326.7,Zaid
+Siddipet,2020.0,5.0,560.6,Zaid
+Siddipet,2020.0,6.0,4851.6,Kharif
+Suryapet,2020.0,4.0,82.4,Zaid
+Suryapet,2020.0,5.0,168.0,Zaid
+Suryapet,2020.0,6.0,3082.4,Kharif
+Vikarabad,2020.0,4.0,468.1,Zaid
+Vikarabad,2020.0,5.0,576.7,Zaid
+Vikarabad,2020.0,6.0,2903.3,Kharif
+Wanaparthy,2020.0,4.0,289.2,Zaid
+Wanaparthy,2020.0,5.0,219.5,Zaid
+Wanaparthy,2020.0,6.0,2190.0,Kharif
+Warangal Rural,2020.0,4.0,297.5,Zaid
+Warangal Rural,2020.0,5.0,490.5,Zaid
+Warangal Rural,2020.0,6.0,2853.5,Kharif
+Warangal Urban,2020.0,4.0,231.0,Zaid
+Warangal Urban,2020.0,5.0,156.2,Zaid
+Warangal Urban,2020.0,6.0,2326.0,Kharif
+Yadadri-Bhongir,2020.0,4.0,321.0,Zaid
+Yadadri-Bhongir,2020.0,5.0,321.2,Zaid
+Yadadri-Bhongir,2020.0,6.0,2859.1,Kharif
+Adilabad,2020.0,7.0,6310.1,Kharif
+Adilabad,2020.0,8.0,4625.0,Kharif
+Adilabad,2020.0,9.0,2825.3,Kharif
+Bhadradri-Kothagudem,2020.0,7.0,8727.1,Kharif
+Bhadradri-Kothagudem,2020.0,8.0,16446.6,Kharif
+Bhadradri-Kothagudem,2020.0,9.0,6251.1,Kharif
+Hyderabad,2020.0,7.0,2521.8,Kharif
+Hyderabad,2020.0,8.0,4043.2,Kharif
+Hyderabad,2020.0,9.0,3815.6,Kharif
+Jagtial,2020.0,7.0,4761.9,Kharif
+Jagtial,2020.0,8.0,5444.9,Kharif
+Jagtial,2020.0,9.0,4037.8,Kharif
+Jangaon,2020.0,7.0,4017.8,Kharif
+Jangaon,2020.0,8.0,5025.1,Kharif
+Jangaon,2020.0,9.0,2567.1,Kharif
+Jayashankar-Bhupalpally,2020.0,7.0,3316.6,Kharif
+Jayashankar-Bhupalpally,2020.0,8.0,8736.3,Kharif
+Jayashankar-Bhupalpally,2020.0,9.0,1833.5,Kharif
+Jogulamba-Gadwal,2020.0,7.0,3849.0,Kharif
+Jogulamba-Gadwal,2020.0,8.0,2063.4,Kharif
+Jogulamba-Gadwal,2020.0,9.0,3101.0,Kharif
+Kamareddy,2020.0,7.0,6103.4,Kharif
+Kamareddy,2020.0,8.0,6965.5,Kharif
+Kamareddy,2020.0,9.0,6704.6,Kharif
+Karimnagar,2020.0,7.0,4251.5,Kharif
+Karimnagar,2020.0,8.0,8571.5,Kharif
+Karimnagar,2020.0,9.0,3944.0,Kharif
+Khammam,2020.0,7.0,6627.5,Kharif
+Khammam,2020.0,8.0,7316.7,Kharif
+Khammam,2020.0,9.0,4994.8,Kharif
+Kumuram Bheem,2020.0,7.0,4601.9,Kharif
+Kumuram Bheem,2020.0,8.0,6012.5,Kharif
+Kumuram Bheem,2020.0,9.0,2602.2,Kharif
+Mahabubabad,2020.0,7.0,4751.0,Kharif
+Mahabubabad,2020.0,8.0,9404.0,Kharif
+Mahabubabad,2020.0,9.0,3631.7,Kharif
+Mahabubnagar,2020.0,7.0,4549.8,Kharif
+Mahabubnagar,2020.0,8.0,3806.3,Kharif
+Mahabubnagar,2020.0,9.0,4553.2,Kharif
+Mancherial,2020.0,7.0,5215.3,Kharif
+Mancherial,2020.0,8.0,6835.7,Kharif
+Mancherial,2020.0,9.0,3899.0,Kharif
+Medak,2020.0,7.0,6011.6,Kharif
+Medak,2020.0,8.0,5469.9,Kharif
+Medak,2020.0,9.0,5863.9,Kharif
+Medchal-Malkajgiri,2020.0,7.0,2316.2,Kharif
+Medchal-Malkajgiri,2020.0,8.0,3606.9,Kharif
+Medchal-Malkajgiri,2020.0,9.0,4234.0,Kharif
+Mulugu,2020.0,7.0,3269.7,Kharif
+Mulugu,2020.0,8.0,9348.9,Kharif
+Mulugu,2020.0,9.0,2301.8,Kharif
+Nagarkurnool,2020.0,7.0,3735.8,Kharif
+Nagarkurnool,2020.0,8.0,4852.5,Kharif
+Nagarkurnool,2020.0,9.0,6019.3,Kharif
+Nalgonda,2020.0,7.0,4870.6,Kharif
+Nalgonda,2020.0,8.0,5368.3,Kharif
+Nalgonda,2020.0,9.0,6179.8,Kharif
+Narayanpet,2020.0,7.0,3411.7,Kharif
+Narayanpet,2020.0,8.0,2336.2,Kharif
+Narayanpet,2020.0,9.0,3938.7,Kharif
+Nirmal,2020.0,7.0,4301.0,Kharif
+Nirmal,2020.0,8.0,5306.2,Kharif
+Nirmal,2020.0,9.0,3341.3,Kharif
+Nizamabad,2020.0,7.0,5470.5,Kharif
+Nizamabad,2020.0,8.0,10243.3,Kharif
+Nizamabad,2020.0,9.0,5937.8,Kharif
+Peddapalli,2020.0,7.0,3372.0,Kharif
+Peddapalli,2020.0,8.0,6663.9,Kharif
+Peddapalli,2020.0,9.0,3004.4,Kharif
+Rajanna-Siricilla,2020.0,7.0,3566.7,Kharif
+Rajanna-Siricilla,2020.0,8.0,5211.6,Kharif
+Rajanna-Siricilla,2020.0,9.0,3940.7,Kharif
+Rangareddy,2020.0,7.0,4621.9,Kharif
+Rangareddy,2020.0,8.0,6702.0,Kharif
+Rangareddy,2020.0,9.0,7336.9,Kharif
+Sangareddy,2020.0,7.0,5976.2,Kharif
+Sangareddy,2020.0,8.0,5384.4,Kharif
+Sangareddy,2020.0,9.0,7156.7,Kharif
+Siddipet,2020.0,7.0,6793.0,Kharif
+Siddipet,2020.0,8.0,9824.4,Kharif
+Siddipet,2020.0,9.0,6872.1,Kharif
+Suryapet,2020.0,7.0,5160.0,Kharif
+Suryapet,2020.0,8.0,5127.8,Kharif
+Suryapet,2020.0,9.0,5301.8,Kharif
+Vikarabad,2020.0,7.0,5626.3,Kharif
+Vikarabad,2020.0,8.0,3948.9,Kharif
+Vikarabad,2020.0,9.0,4436.5,Kharif
+Wanaparthy,2020.0,7.0,4273.6,Kharif
+Wanaparthy,2020.0,8.0,3943.3,Kharif
+Wanaparthy,2020.0,9.0,4795.6,Kharif
+Warangal Rural,2020.0,7.0,4444.3,Kharif
+Warangal Rural,2020.0,8.0,13617.1,Kharif
+Warangal Rural,2020.0,9.0,3650.0,Kharif
+Warangal Urban,2020.0,7.0,3024.5,Kharif
+Warangal Urban,2020.0,8.0,8476.1,Kharif
+Warangal Urban,2020.0,9.0,2582.4,Kharif
+Yadadri-Bhongir,2020.0,7.0,2578.8,Kharif
+Yadadri-Bhongir,2020.0,8.0,4086.4,Kharif
+Yadadri-Bhongir,2020.0,9.0,3716.6,Kharif
+Adilabad,2025.0,4.0,235.8,Zaid
+Bhadradri Kothagudem,2025.0,4.0,1732.4,Zaid
+Hanumakonda,2025.0,4.0,213.2,Zaid
+Hyderabad,2025.0,4.0,1530.2,Zaid
+Jagtial,2025.0,4.0,142.3,Zaid
+Jangaon,2025.0,4.0,125.8,Zaid
+Jayashankar,2025.0,4.0,221.6,Zaid
+Jogulamba Gadwal,2025.0,4.0,613.7,Zaid
+Kamareddy,2025.0,4.0,411.5,Zaid
+Karimnagar,2025.0,4.0,8.3,Zaid
+Khammam,2025.0,4.0,815.3,Zaid
+Kumuram Bheem,2025.0,4.0,203.6,Zaid
+Mahabubabad,2025.0,4.0,703.2,Zaid
+Mahabubnagar,2025.0,4.0,413.90000000000003,Zaid
+Mancherial,2025.0,4.0,136.3,Zaid
+Medak,2025.0,4.0,348.2,Zaid
+Medchal-Malkajgiri,2025.0,4.0,590.0,Zaid
+Mulugu,2025.0,4.0,453.3,Zaid
+Nagarkurnool,2025.0,4.0,527.0,Zaid
+Nalgonda,2025.0,4.0,346.7,Zaid
+Narayanpet,2025.0,4.0,336.3,Zaid
+Nirmal,2025.0,4.0,89.7,Zaid
+Nizamabad,2025.0,4.0,193.0,Zaid
+Peddapalli,2025.0,4.0,23.8,Zaid
+Rajanna Sircilla,2025.0,4.0,116.19999999999999,Zaid
+Rangareddy,2025.0,4.0,1149.5,Zaid
+Sangareddy,2025.0,4.0,839.6,Zaid
+Siddipet,2025.0,4.0,582.5,Zaid
+Suryapet,2025.0,4.0,346.0,Zaid
+Vikarabad,2025.0,4.0,917.3,Zaid
+Wanaparthy,2025.0,4.0,255.4,Zaid
+Warangal,2025.0,4.0,436.0,Zaid
+Yadadri Bhuvanagiri,2025.0,4.0,870.8,Zaid
+Adilabad,2024.0,8.0,3489.0,Kharif
+Bhadradri Kothagudem,2024.0,8.0,5619.6,Kharif
+Hanumakonda,2024.0,8.0,2254.1,Kharif
+Hyderabad,2024.0,8.0,3630.4,Kharif
+Jagtial,2024.0,8.0,4335.0,Kharif
+Jangaon,2024.0,8.0,1649.9,Kharif
+Jayashankar,2024.0,8.0,2651.7,Kharif
+Jogulamba Gadwal,2024.0,8.0,3021.1,Kharif
+Kamareddy,2024.0,8.0,3410.7,Kharif
+Karimnagar,2024.0,8.0,3268.4,Kharif
+Khammam,2024.0,8.0,5736.5,Kharif
+Kumuram Bheem,2024.0,8.0,3400.2,Kharif
+Mahabubabad,2024.0,8.0,4720.1,Kharif
+Mahabubnagar,2024.0,8.0,4412.2,Kharif
+Mancherial,2024.0,8.0,3425.2,Kharif
+Medak,2024.0,8.0,4275.8,Kharif
+Medchal-Malkajgiri,2024.0,8.0,2857.6,Kharif
+Mulugu,2024.0,8.0,3609.4,Kharif
+Nagarkurnool,2024.0,8.0,4343.5,Kharif
+Nalgonda,2024.0,8.0,4102.5,Kharif
+Narayanpet,2024.0,8.0,3971.3,Kharif
+Nirmal,2024.0,8.0,4163.1,Kharif
+Nizamabad,2024.0,8.0,7050.8,Kharif
+Peddapalli,2024.0,8.0,2401.7,Kharif
+Rajanna Sircilla,2024.0,8.0,2521.0,Kharif
+Rangareddy,2024.0,8.0,3915.4,Kharif
+Sangareddy,2024.0,8.0,4817.3,Kharif
+Siddipet,2024.0,8.0,5551.1,Kharif
+Suryapet,2024.0,8.0,3712.9,Kharif
+Vikarabad,2024.0,8.0,3789.5,Kharif
+Wanaparthy,2024.0,8.0,3732.5,Kharif
+Warangal,2024.0,8.0,2361.4,Kharif
+Yadadri Bhuvanagiri,2024.0,8.0,2417.3,Kharif
+Adilabad,2025.0,8.0,9702.7,Kharif
+Bhadradri Kothagudem,2025.0,8.0,8139.0,Kharif
+Hanumakonda,2025.0,8.0,3561.4,Kharif
+Hyderabad,2025.0,8.0,5841.3,Kharif
+Jagtial,2025.0,8.0,6389.5,Kharif
+Jangaon,2025.0,8.0,3571.6,Kharif
+Jayashankar,2025.0,8.0,4250.9,Kharif
+Jogulamba Gadwal,2025.0,8.0,3557.6,Kharif
+Kamareddy,2025.0,8.0,16447.4,Kharif
+Karimnagar,2025.0,8.0,4533.5,Kharif
+Khammam,2025.0,8.0,7811.4,Kharif
+Kumuram Bheem,2025.0,8.0,6003.4,Kharif
+Mahabubabad,2025.0,8.0,6213.9,Kharif
+Mahabubnagar,2025.0,8.0,6394.3,Kharif
+Mancherial,2025.0,8.0,6703.3,Kharif
+Medak,2025.0,8.0,14795.1,Kharif
+Medchal-Malkajgiri,2025.0,8.0,5350.2,Kharif
+Mulugu,2025.0,8.0,4825.2,Kharif
+Nagarkurnool,2025.0,8.0,7294.9,Kharif
+Nalgonda,2025.0,8.0,8481.1,Kharif
+Narayanpet,2025.0,8.0,4451.2,Kharif
+Nirmal,2025.0,8.0,8032.4,Kharif
+Nizamabad,2025.0,8.0,12685.0,Kharif
+Peddapalli,2025.0,8.0,3735.6,Kharif
+Rajanna Sircilla,2025.0,8.0,3337.8,Kharif
+Rangareddy,2025.0,8.0,8543.5,Kharif
+Sangareddy,2025.0,8.0,12359.5,Kharif
+Siddipet,2025.0,8.0,10236.9,Kharif
+Suryapet,2025.0,8.0,8308.4,Kharif
+Vikarabad,2025.0,8.0,6513.3,Kharif
+Wanaparthy,2025.0,8.0,5873.6,Kharif
+Warangal,2025.0,8.0,5079.4,Kharif
+Yadadri Bhuvanagiri,2025.0,8.0,7347.8,Kharif
+Adilabad,2026.0,2.0,175.5,Rabi
+Bhadradri Kothagudem,2026.0,2.0,173.2,Rabi
+Hanumakonda,2026.0,2.0,5.5,Rabi
+Hyderabad,2026.0,2.0,89.2,Rabi
+Jagtial,2026.0,2.0,128.2,Rabi
+Jangaon,2026.0,2.0,25.900000000000002,Rabi
+Jayashankar,2026.0,2.0,21.0,Rabi
+Jogulamba Gadwal,2026.0,2.0,80.6,Rabi
+Kamareddy,2026.0,2.0,122.9,Rabi
+Karimnagar,2026.0,2.0,0.2,Rabi
+Khammam,2026.0,2.0,308.6,Rabi
+Kumuram Bheem,2026.0,2.0,168.5,Rabi
+Mahabubabad,2026.0,2.0,99.5,Rabi
+Mahabubnagar,2026.0,2.0,132.0,Rabi
+Mancherial,2026.0,2.0,27.299999999999997,Rabi
+Medak,2026.0,2.0,57.0,Rabi
+Medchal-Malkajgiri,2026.0,2.0,57.7,Rabi
+Mulugu,2026.0,2.0,13.2,Rabi
+Nagarkurnool,2026.0,2.0,122.2,Rabi
+Nalgonda,2026.0,2.0,412.5,Rabi
+Narayanpet,2026.0,2.0,131.4,Rabi
+Nirmal,2026.0,2.0,89.4,Rabi
+Nizamabad,2026.0,2.0,55.2,Rabi
+Peddapalli,2026.0,2.0,0.2,Rabi
+Rajanna Sircilla,2026.0,2.0,4.3,Rabi
+Rangareddy,2026.0,2.0,372.3,Rabi
+Sangareddy,2026.0,2.0,151.1,Rabi
+Siddipet,2026.0,2.0,210.6,Rabi
+Suryapet,2026.0,2.0,163.5,Rabi
+Vikarabad,2026.0,2.0,130.8,Rabi
+Wanaparthy,2026.0,2.0,167.1,Rabi
+Warangal,2026.0,2.0,6.0,Rabi
+Yadadri Bhuvanagiri,2026.0,2.0,43.4,Rabi
+Adilabad,2026.0,1.0,0.0,Rabi
+Bhadradri Kothagudem,2026.0,1.0,0.6,Rabi
+Hanumakonda,2026.0,1.0,0.0,Rabi
+Hyderabad,2026.0,1.0,0.9999999999999999,Rabi
+Jagtial,2026.0,1.0,0.0,Rabi
+Jangaon,2026.0,1.0,0.0,Rabi
+Jayashankar,2026.0,1.0,0.0,Rabi
+Jogulamba Gadwal,2026.0,1.0,0.0,Rabi
+Kamareddy,2026.0,1.0,20.9,Rabi
+Karimnagar,2026.0,1.0,0.0,Rabi
+Khammam,2026.0,1.0,0.0,Rabi
+Kumuram Bheem,2026.0,1.0,0.0,Rabi
+Mahabubabad,2026.0,1.0,0.0,Rabi
+Mahabubnagar,2026.0,1.0,0.0,Rabi
+Mancherial,2026.0,1.0,0.0,Rabi
+Medak,2026.0,1.0,1.1,Rabi
+Medchal-Malkajgiri,2026.0,1.0,4.7,Rabi
+Mulugu,2026.0,1.0,0.0,Rabi
+Nagarkurnool,2026.0,1.0,1.6,Rabi
+Nalgonda,2026.0,1.0,1.8,Rabi
+Narayanpet,2026.0,1.0,0.0,Rabi
+Nirmal,2026.0,1.0,0.0,Rabi
+Nizamabad,2026.0,1.0,15.7,Rabi
+Peddapalli,2026.0,1.0,0.0,Rabi
+Rajanna Sircilla,2026.0,1.0,0.0,Rabi
+Rangareddy,2026.0,1.0,0.0,Rabi
+Sangareddy,2026.0,1.0,11.7,Rabi
+Siddipet,2026.0,1.0,0.0,Rabi
+Suryapet,2026.0,1.0,0.0,Rabi
+Vikarabad,2026.0,1.0,11.1,Rabi
+Wanaparthy,2026.0,1.0,0.0,Rabi
+Warangal,2026.0,1.0,0.0,Rabi
+Yadadri Bhuvanagiri,2026.0,1.0,0.0,Rabi
+Adilabad,2024.0,7.0,7413.9,Kharif
+Bhadradri Kothagudem,2024.0,7.0,10376.6,Kharif
+Hanumakonda,2024.0,7.0,4627.0,Kharif
+Hyderabad,2024.0,7.0,2381.6,Kharif
+Jagtial,2024.0,7.0,7697.6,Kharif
+Jangaon,2024.0,7.0,2213.5,Kharif
+Jayashankar,2024.0,7.0,5774.2,Kharif
+Jogulamba Gadwal,2024.0,7.0,1580.7,Kharif
+Kamareddy,2024.0,7.0,7321.6,Kharif
+Karimnagar,2024.0,7.0,5095.9,Kharif
+Khammam,2024.0,7.0,6000.6,Kharif
+Kumuram Bheem,2024.0,7.0,7808.4,Kharif
+Mahabubabad,2024.0,7.0,4466.4,Kharif
+Mahabubnagar,2024.0,7.0,3870.5,Kharif
+Mancherial,2024.0,7.0,8139.5,Kharif
+Medak,2024.0,7.0,4172.9,Kharif
+Medchal-Malkajgiri,2024.0,7.0,2395.7,Kharif
+Mulugu,2024.0,7.0,5983.0,Kharif
+Nagarkurnool,2024.0,7.0,3081.5,Kharif
+Nalgonda,2024.0,7.0,3456.1,Kharif
+Narayanpet,2024.0,7.0,2743.7,Kharif
+Nirmal,2024.0,7.0,7035.6,Kharif
+Nizamabad,2024.0,7.0,13379.0,Kharif
+Peddapalli,2024.0,7.0,6212.2,Kharif
+Rajanna Sircilla,2024.0,7.0,3640.6,Kharif
+Rangareddy,2024.0,7.0,3921.7,Kharif
+Sangareddy,2024.0,7.0,5269.4,Kharif
+Siddipet,2024.0,7.0,5194.7,Kharif
+Suryapet,2024.0,7.0,3574.0,Kharif
+Vikarabad,2024.0,7.0,5210.7,Kharif
+Wanaparthy,2024.0,7.0,3137.5,Kharif
+Warangal,2024.0,7.0,3890.0,Kharif
+Yadadri Bhuvanagiri,2024.0,7.0,2109.0,Kharif
+Adilabad,2025.0,7.0,5657.7,Kharif
+Bhadradri Kothagudem,2025.0,7.0,8107.0,Kharif
+Hanumakonda,2025.0,7.0,3714.0,Kharif
+Hyderabad,2025.0,7.0,3568.7,Kharif
+Jagtial,2025.0,7.0,4222.8,Kharif
+Jangaon,2025.0,7.0,2264.4,Kharif
+Jayashankar,2025.0,7.0,3514.1,Kharif
+Jogulamba Gadwal,2025.0,7.0,1252.1,Kharif
+Kamareddy,2025.0,7.0,5878.1,Kharif
+Karimnagar,2025.0,7.0,4381.8,Kharif
+Khammam,2025.0,7.0,5400.4,Kharif
+Kumuram Bheem,2025.0,7.0,5458.8,Kharif
+Mahabubabad,2025.0,7.0,5166.0,Kharif
+Mahabubnagar,2025.0,7.0,3882.2,Kharif
+Mancherial,2025.0,7.0,4219.5,Kharif
+Medak,2025.0,7.0,4150.9,Kharif
+Medchal-Malkajgiri,2025.0,7.0,3060.6,Kharif
+Mulugu,2025.0,7.0,4124.6,Kharif
+Nagarkurnool,2025.0,7.0,3568.0,Kharif
+Nalgonda,2025.0,7.0,4292.0,Kharif
+Narayanpet,2025.0,7.0,2660.7,Kharif
+Nirmal,2025.0,7.0,4207.9,Kharif
+Nizamabad,2025.0,7.0,6371.3,Kharif
+Peddapalli,2025.0,7.0,3440.2,Kharif
+Rajanna Sircilla,2025.0,7.0,3356.1,Kharif
+Rangareddy,2025.0,7.0,5928.2,Kharif
+Sangareddy,2025.0,7.0,5700.6,Kharif
+Siddipet,2025.0,7.0,6584.1,Kharif
+Suryapet,2025.0,7.0,3813.2,Kharif
+Vikarabad,2025.0,7.0,4779.9,Kharif
+Wanaparthy,2025.0,7.0,2182.7,Kharif
+Warangal,2025.0,7.0,4025.4,Kharif
+Yadadri Bhuvanagiri,2025.0,7.0,2886.6,Kharif
+Adilabad,2024.0,6.0,4116.1,Kharif
+Bhadradri Kothagudem,2024.0,6.0,4907.1,Kharif
+Hanumakonda,2024.0,6.0,2764.9,Kharif
+Hyderabad,2024.0,6.0,2331.9,Kharif
+Jagtial,2024.0,6.0,3959.0,Kharif
+Jangaon,2024.0,6.0,2070.3,Kharif
+Jayashankar,2024.0,6.0,1790.2,Kharif
+Jogulamba Gadwal,2024.0,6.0,1955.8,Kharif
+Kamareddy,2024.0,6.0,3094.4,Kharif
+Karimnagar,2024.0,6.0,3330.9,Kharif
+Khammam,2024.0,6.0,4017.2,Kharif
+Kumuram Bheem,2024.0,6.0,2769.3,Kharif
+Mahabubabad,2024.0,6.0,3341.1,Kharif
+Mahabubnagar,2024.0,6.0,1747.1,Kharif
+Mancherial,2024.0,6.0,2109.3,Kharif
+Medak,2024.0,6.0,2631.7,Kharif
+Medchal-Malkajgiri,2024.0,6.0,1668.6,Kharif
+Mulugu,2024.0,6.0,1565.5,Kharif
+Nagarkurnool,2024.0,6.0,2748.3,Kharif
+Nalgonda,2024.0,6.0,5142.1,Kharif
+Narayanpet,2024.0,6.0,1684.1,Kharif
+Nirmal,2024.0,6.0,3747.1,Kharif
+Nizamabad,2024.0,6.0,4704.6,Kharif
+Peddapalli,2024.0,6.0,2698.2,Kharif
+Rajanna Sircilla,2024.0,6.0,2181.9,Kharif
+Rangareddy,2024.0,6.0,2613.9,Kharif
+Sangareddy,2024.0,6.0,3914.7,Kharif
+Siddipet,2024.0,6.0,3674.5,Kharif
+Suryapet,2024.0,6.0,3353.3,Kharif
+Vikarabad,2024.0,6.0,2521.0,Kharif
+Wanaparthy,2024.0,6.0,1741.4,Kharif
+Warangal,2024.0,6.0,2446.2,Kharif
+Yadadri Bhuvanagiri,2024.0,6.0,1965.2,Kharif
+Adilabad,2025.0,1.0,2.6,Rabi
+Adilabad,2025.0,2.0,0.0,Rabi
+Adilabad,2025.0,3.0,0.0,Zaid
+Adilabad,2025.0,4.0,0.0,Zaid
+Adilabad,2025.0,5.0,4.1,Zaid
+Adilabad,2025.0,6.0,3472.3,Kharif
+Adilabad,2025.0,7.0,13.0,Kharif
+Adilabad,2025.0,8.0,0.4,Kharif
+Adilabad,2025.0,9.0,97.5,Kharif
+Adilabad,2025.0,10.0,685.5,Rabi
+Adilabad,2025.0,11.0,239.7,Rabi
+Adilabad,2025.0,12.0,0.0,Rabi
+Bhadradri Kothagudem,2025.0,1.0,0.0,Rabi
+Bhadradri Kothagudem,2025.0,2.0,2.5999999999999996,Rabi
+Bhadradri Kothagudem,2025.0,3.0,8.8,Zaid
+Bhadradri Kothagudem,2025.0,4.0,36.9,Zaid
+Bhadradri Kothagudem,2025.0,5.0,1.2,Zaid
+Bhadradri Kothagudem,2025.0,6.0,2207.9,Kharif
+Bhadradri Kothagudem,2025.0,7.0,0.0,Kharif
+Bhadradri Kothagudem,2025.0,8.0,48.8,Kharif
+Bhadradri Kothagudem,2025.0,9.0,61.400000000000006,Kharif
+Bhadradri Kothagudem,2025.0,10.0,0.0,Rabi
+Bhadradri Kothagudem,2025.0,11.0,610.8,Rabi
+Bhadradri Kothagudem,2025.0,12.0,0.0,Rabi
+Hanumakonda,2025.0,1.0,0.0,Rabi
+Hanumakonda,2025.0,2.0,0.0,Rabi
+Hanumakonda,2025.0,3.0,2.0,Zaid
+Hanumakonda,2025.0,4.0,20.0,Zaid
+Hanumakonda,2025.0,5.0,0.2,Zaid
+Hanumakonda,2025.0,6.0,1341.5,Kharif
+Hanumakonda,2025.0,7.0,42.800000000000004,Kharif
+Hanumakonda,2025.0,8.0,12.799999999999999,Kharif
+Hanumakonda,2025.0,9.0,9.8,Kharif
+Hanumakonda,2025.0,10.0,0.0,Rabi
+Hanumakonda,2025.0,11.0,79.9,Rabi
+Hanumakonda,2025.0,12.0,0.0,Rabi
+Hyderabad,2025.0,1.0,0.0,Rabi
+Hyderabad,2025.0,2.0,0.30000000000000004,Rabi
+Hyderabad,2025.0,3.0,3.0,Zaid
+Hyderabad,2025.0,4.0,0.0,Zaid
+Hyderabad,2025.0,5.0,14.299999999999999,Zaid
+Hyderabad,2025.0,6.0,297.4,Kharif
+Hyderabad,2025.0,7.0,13.2,Kharif
+Hyderabad,2025.0,8.0,25.299999999999997,Kharif
+Hyderabad,2025.0,9.0,0.0,Kharif
+Hyderabad,2025.0,10.0,0.0,Rabi
+Hyderabad,2025.0,11.0,0.6,Rabi
+Hyderabad,2025.0,12.0,110.0,Rabi
+Jagtial,2025.0,1.0,0.0,Rabi
+Jagtial,2025.0,2.0,0.0,Rabi
+Jagtial,2025.0,3.0,0.0,Zaid
+Jagtial,2025.0,4.0,0.0,Zaid
+Jagtial,2025.0,5.0,36.4,Zaid
+Jagtial,2025.0,6.0,1294.5,Kharif
+Jagtial,2025.0,7.0,0.0,Kharif
+Jagtial,2025.0,8.0,0.3,Kharif
+Jagtial,2025.0,9.0,610.4,Kharif
+Jagtial,2025.0,10.0,64.7,Rabi
+Jagtial,2025.0,11.0,159.70000000000002,Rabi
+Jagtial,2025.0,12.0,256.8,Rabi
+Jangaon,2025.0,1.0,0.0,Rabi
+Jangaon,2025.0,2.0,29.1,Rabi
+Jangaon,2025.0,3.0,14.4,Zaid
+Jangaon,2025.0,4.0,8.4,Zaid
+Jangaon,2025.0,5.0,0.0,Zaid
+Jangaon,2025.0,6.0,485.2,Kharif
+Jangaon,2025.0,7.0,0.0,Kharif
+Jangaon,2025.0,8.0,6.8,Kharif
+Jangaon,2025.0,9.0,3.2,Kharif
+Jangaon,2025.0,10.0,0.0,Rabi
+Jangaon,2025.0,11.0,131.7,Rabi
+Jangaon,2025.0,12.0,0.0,Rabi
+Jayashankar,2025.0,1.0,0.0,Rabi
+Jayashankar,2025.0,2.0,0.0,Rabi
+Jayashankar,2025.0,3.0,0.6,Zaid
+Jayashankar,2025.0,4.0,4.5,Zaid
+Jayashankar,2025.0,5.0,12.6,Zaid
+Jayashankar,2025.0,6.0,1117.6,Kharif
+Jayashankar,2025.0,7.0,1.1,Kharif
+Jayashankar,2025.0,8.0,14.2,Kharif
+Jayashankar,2025.0,9.0,24.0,Kharif
+Jayashankar,2025.0,10.0,14.4,Rabi
+Jayashankar,2025.0,11.0,13.7,Rabi
+Jayashankar,2025.0,12.0,0.7999999999999999,Rabi
+Jogulamba Gadwal,2025.0,1.0,0.0,Rabi
+Jogulamba Gadwal,2025.0,2.0,14.8,Rabi
+Jogulamba Gadwal,2025.0,3.0,3.8000000000000003,Zaid
+Jogulamba Gadwal,2025.0,4.0,0.0,Zaid
+Jogulamba Gadwal,2025.0,5.0,3.7,Zaid
+Jogulamba Gadwal,2025.0,6.0,364.2,Kharif
+Jogulamba Gadwal,2025.0,7.0,15.0,Kharif
+Jogulamba Gadwal,2025.0,8.0,25.9,Kharif
+Jogulamba Gadwal,2025.0,9.0,9.3,Kharif
+Jogulamba Gadwal,2025.0,10.0,0.0,Rabi
+Jogulamba Gadwal,2025.0,11.0,6.3,Rabi
+Jogulamba Gadwal,2025.0,12.0,497.8,Rabi
+Kamareddy,2025.0,1.0,0.0,Rabi
+Kamareddy,2025.0,2.0,0.0,Rabi
+Kamareddy,2025.0,3.0,0.0,Zaid
+Kamareddy,2025.0,4.0,2.1,Zaid
+Kamareddy,2025.0,5.0,27.0,Zaid
+Kamareddy,2025.0,6.0,1876.3,Kharif
+Kamareddy,2025.0,7.0,0.2,Kharif
+Kamareddy,2025.0,8.0,3.2,Kharif
+Kamareddy,2025.0,9.0,993.7,Kharif
+Kamareddy,2025.0,10.0,413.7,Rabi
+Kamareddy,2025.0,11.0,318.2,Rabi
+Kamareddy,2025.0,12.0,34.0,Rabi
+Karimnagar,2025.0,1.0,0.0,Rabi
+Karimnagar,2025.0,2.0,0.0,Rabi
+Karimnagar,2025.0,3.0,0.5,Zaid
+Karimnagar,2025.0,4.0,0.0,Zaid
+Karimnagar,2025.0,5.0,3.0,Zaid
+Karimnagar,2025.0,6.0,1434.4,Kharif
+Karimnagar,2025.0,7.0,0.0,Kharif
+Karimnagar,2025.0,8.0,0.0,Kharif
+Karimnagar,2025.0,9.0,27.3,Kharif
+Karimnagar,2025.0,10.0,0.30000000000000004,Rabi
+Karimnagar,2025.0,11.0,110.9,Rabi
+Karimnagar,2025.0,12.0,16.1,Rabi
+Khammam,2025.0,1.0,0.0,Rabi
+Khammam,2025.0,2.0,0.0,Rabi
+Khammam,2025.0,3.0,9.0,Zaid
+Khammam,2025.0,4.0,10.3,Zaid
+Khammam,2025.0,5.0,0.3,Zaid
+Khammam,2025.0,6.0,1919.4,Kharif
+Khammam,2025.0,7.0,0.0,Kharif
+Khammam,2025.0,8.0,4.1,Kharif
+Khammam,2025.0,9.0,56.1,Kharif
+Khammam,2025.0,10.0,0.0,Rabi
+Khammam,2025.0,11.0,480.1,Rabi
+Khammam,2025.0,12.0,2.4,Rabi
+Kumuram Bheem,2025.0,1.0,0.0,Rabi
+Kumuram Bheem,2025.0,2.0,0.0,Rabi
+Kumuram Bheem,2025.0,3.0,0.0,Zaid
+Kumuram Bheem,2025.0,4.0,4.9,Zaid
+Kumuram Bheem,2025.0,5.0,0.0,Zaid
+Kumuram Bheem,2025.0,6.0,2748.1,Kharif
+Kumuram Bheem,2025.0,7.0,0.0,Kharif
+Kumuram Bheem,2025.0,8.0,3.2,Kharif
+Kumuram Bheem,2025.0,9.0,106.6,Kharif
+Kumuram Bheem,2025.0,10.0,58.9,Rabi
+Kumuram Bheem,2025.0,11.0,224.2,Rabi
+Kumuram Bheem,2025.0,12.0,51.199999999999996,Rabi
+Mahabubabad,2025.0,1.0,0.0,Rabi
+Mahabubabad,2025.0,2.0,11.100000000000001,Rabi
+Mahabubabad,2025.0,3.0,0.0,Zaid
+Mahabubabad,2025.0,4.0,19.7,Zaid
+Mahabubabad,2025.0,5.0,2.7,Zaid
+Mahabubabad,2025.0,6.0,1446.7,Kharif
+Mahabubabad,2025.0,7.0,0.0,Kharif
+Mahabubabad,2025.0,8.0,70.2,Kharif
+Mahabubabad,2025.0,9.0,0.7,Kharif
+Mahabubabad,2025.0,10.0,1.0,Rabi
+Mahabubabad,2025.0,11.0,93.8,Rabi
+Mahabubabad,2025.0,12.0,0.0,Rabi
+Mahabubnagar,2025.0,1.0,0.0,Rabi
+Mahabubnagar,2025.0,2.0,3.0,Rabi
+Mahabubnagar,2025.0,3.0,75.89999999999999,Zaid
+Mahabubnagar,2025.0,4.0,32.199999999999996,Zaid
+Mahabubnagar,2025.0,5.0,16.8,Zaid
+Mahabubnagar,2025.0,6.0,857.7,Kharif
+Mahabubnagar,2025.0,7.0,0.0,Kharif
+Mahabubnagar,2025.0,8.0,30.7,Kharif
+Mahabubnagar,2025.0,9.0,19.1,Kharif
+Mahabubnagar,2025.0,10.0,0.6,Rabi
+Mahabubnagar,2025.0,11.0,4.8,Rabi
+Mahabubnagar,2025.0,12.0,571.7,Rabi
+Mancherial,2025.0,1.0,0.0,Rabi
+Mancherial,2025.0,2.0,0.0,Rabi
+Mancherial,2025.0,3.0,0.0,Zaid
+Mancherial,2025.0,4.0,8.2,Zaid
+Mancherial,2025.0,5.0,3.2,Zaid
+Mancherial,2025.0,6.0,1395.3,Kharif
+Mancherial,2025.0,7.0,0.0,Kharif
+Mancherial,2025.0,8.0,0.0,Kharif
+Mancherial,2025.0,9.0,138.7,Kharif
+Mancherial,2025.0,10.0,35.3,Rabi
+Mancherial,2025.0,11.0,109.8,Rabi
+Mancherial,2025.0,12.0,32.8,Rabi
+Medak,2025.0,1.0,2.5,Rabi
+Medak,2025.0,2.0,26.4,Rabi
+Medak,2025.0,3.0,5.800000000000001,Zaid
+Medak,2025.0,4.0,8.3,Zaid
+Medak,2025.0,5.0,2.0,Zaid
+Medak,2025.0,6.0,1104.3,Kharif
+Medak,2025.0,7.0,0.0,Kharif
+Medak,2025.0,8.0,98.3,Kharif
+Medak,2025.0,9.0,125.5,Kharif
+Medak,2025.0,10.0,231.1,Rabi
+Medak,2025.0,11.0,79.7,Rabi
+Medak,2025.0,12.0,28.6,Rabi
+Medchal-Malkajgiri,2025.0,1.0,0.0,Rabi
+Medchal-Malkajgiri,2025.0,2.0,38.4,Rabi
+Medchal-Malkajgiri,2025.0,3.0,18.5,Zaid
+Medchal-Malkajgiri,2025.0,4.0,0.0,Zaid
+Medchal-Malkajgiri,2025.0,5.0,2.2,Zaid
+Medchal-Malkajgiri,2025.0,6.0,355.4,Kharif
+Medchal-Malkajgiri,2025.0,7.0,0.2,Kharif
+Medchal-Malkajgiri,2025.0,8.0,7.8999999999999995,Kharif
+Medchal-Malkajgiri,2025.0,9.0,1.0,Kharif
+Medchal-Malkajgiri,2025.0,10.0,0.0,Rabi
+Medchal-Malkajgiri,2025.0,11.0,3.3,Rabi
+Medchal-Malkajgiri,2025.0,12.0,16.4,Rabi
+Mulugu,2025.0,1.0,0.0,Rabi
+Mulugu,2025.0,2.0,0.0,Rabi
+Mulugu,2025.0,3.0,0.4,Zaid
+Mulugu,2025.0,4.0,2.1,Zaid
+Mulugu,2025.0,5.0,15.6,Zaid
+Mulugu,2025.0,6.0,1386.3,Kharif
+Mulugu,2025.0,7.0,0.0,Kharif
+Mulugu,2025.0,8.0,22.9,Kharif
+Mulugu,2025.0,9.0,1.0,Kharif
+Mulugu,2025.0,10.0,7.9,Rabi
+Mulugu,2025.0,11.0,13.5,Rabi
+Mulugu,2025.0,12.0,0.3,Rabi
+Nagarkurnool,2025.0,1.0,0.0,Rabi
+Nagarkurnool,2025.0,2.0,3.7,Rabi
+Nagarkurnool,2025.0,3.0,8.3,Zaid
+Nagarkurnool,2025.0,4.0,13.8,Zaid
+Nagarkurnool,2025.0,5.0,1.2,Zaid
+Nagarkurnool,2025.0,6.0,848.7,Kharif
+Nagarkurnool,2025.0,7.0,0.0,Kharif
+Nagarkurnool,2025.0,8.0,122.6,Kharif
+Nagarkurnool,2025.0,9.0,101.8,Kharif
+Nagarkurnool,2025.0,10.0,0.0,Rabi
+Nagarkurnool,2025.0,11.0,43.3,Rabi
+Nagarkurnool,2025.0,12.0,664.4,Rabi
+Nalgonda,2025.0,1.0,0.8,Rabi
+Nalgonda,2025.0,2.0,2.7,Rabi
+Nalgonda,2025.0,3.0,5.8,Zaid
+Nalgonda,2025.0,4.0,22.3,Zaid
+Nalgonda,2025.0,5.0,0.5,Zaid
+Nalgonda,2025.0,6.0,1193.8,Kharif
+Nalgonda,2025.0,7.0,0.0,Kharif
+Nalgonda,2025.0,8.0,88.89999999999999,Kharif
+Nalgonda,2025.0,9.0,245.2,Kharif
+Nalgonda,2025.0,10.0,0.0,Rabi
+Nalgonda,2025.0,11.0,51.2,Rabi
+Nalgonda,2025.0,12.0,391.8,Rabi
+Narayanpet,2025.0,1.0,0.0,Rabi
+Narayanpet,2025.0,2.0,0.5,Rabi
+Narayanpet,2025.0,3.0,15.9,Zaid
+Narayanpet,2025.0,4.0,11.899999999999999,Zaid
+Narayanpet,2025.0,5.0,5.1,Zaid
+Narayanpet,2025.0,6.0,342.8,Kharif
+Narayanpet,2025.0,7.0,0.0,Kharif
+Narayanpet,2025.0,8.0,100.0,Kharif
+Narayanpet,2025.0,9.0,21.7,Kharif
+Narayanpet,2025.0,10.0,0.6000000000000001,Rabi
+Narayanpet,2025.0,11.0,0.7,Rabi
+Narayanpet,2025.0,12.0,184.6,Rabi
+Nirmal,2025.0,1.0,0.0,Rabi
+Nirmal,2025.0,2.0,0.0,Rabi
+Nirmal,2025.0,3.0,0.0,Zaid
+Nirmal,2025.0,4.0,1.5,Zaid
+Nirmal,2025.0,5.0,9.6,Zaid
+Nirmal,2025.0,6.0,1550.3,Kharif
+Nirmal,2025.0,7.0,14.4,Kharif
+Nirmal,2025.0,8.0,0.5,Kharif
+Nirmal,2025.0,9.0,131.5,Kharif
+Nirmal,2025.0,10.0,561.1,Rabi
+Nirmal,2025.0,11.0,334.2,Rabi
+Nirmal,2025.0,12.0,83.10000000000001,Rabi
+Nizamabad,2025.0,1.0,0.0,Rabi
+Nizamabad,2025.0,2.0,0.0,Rabi
+Nizamabad,2025.0,3.0,0.0,Zaid
+Nizamabad,2025.0,4.0,0.0,Zaid
+Nizamabad,2025.0,5.0,67.7,Zaid
+Nizamabad,2025.0,6.0,2968.7,Kharif
+Nizamabad,2025.0,7.0,0.0,Kharif
+Nizamabad,2025.0,8.0,1.7,Kharif
+Nizamabad,2025.0,9.0,804.7,Kharif
+Nizamabad,2025.0,10.0,522.1,Rabi
+Nizamabad,2025.0,11.0,579.6,Rabi
+Nizamabad,2025.0,12.0,289.8,Rabi
+Peddapalli,2025.0,1.0,0.0,Rabi
+Peddapalli,2025.0,2.0,0.0,Rabi
+Peddapalli,2025.0,3.0,0.0,Zaid
+Peddapalli,2025.0,4.0,0.0,Zaid
+Peddapalli,2025.0,5.0,4.800000000000001,Zaid
+Peddapalli,2025.0,6.0,1021.9,Kharif
+Peddapalli,2025.0,7.0,0.0,Kharif
+Peddapalli,2025.0,8.0,8.2,Kharif
+Peddapalli,2025.0,9.0,21.0,Kharif
+Peddapalli,2025.0,10.0,12.700000000000001,Rabi
+Peddapalli,2025.0,11.0,71.2,Rabi
+Peddapalli,2025.0,12.0,16.7,Rabi
+Rajanna Sircilla,2025.0,1.0,0.0,Rabi
+Rajanna Sircilla,2025.0,2.0,0.0,Rabi
+Rajanna Sircilla,2025.0,3.0,0.8,Zaid
+Rajanna Sircilla,2025.0,4.0,0.0,Zaid
+Rajanna Sircilla,2025.0,5.0,4.199999999999999,Zaid
+Rajanna Sircilla,2025.0,6.0,823.1,Kharif
+Rajanna Sircilla,2025.0,7.0,0.0,Kharif
+Rajanna Sircilla,2025.0,8.0,0.2,Kharif
+Rajanna Sircilla,2025.0,9.0,151.0,Kharif
+Rajanna Sircilla,2025.0,10.0,50.2,Rabi
+Rajanna Sircilla,2025.0,11.0,21.3,Rabi
+Rajanna Sircilla,2025.0,12.0,47.3,Rabi
+Rangareddy,2025.0,1.0,0.0,Rabi
+Rangareddy,2025.0,2.0,76.0,Rabi
+Rangareddy,2025.0,3.0,24.799999999999997,Zaid
+Rangareddy,2025.0,4.0,1.3,Zaid
+Rangareddy,2025.0,5.0,33.3,Zaid
+Rangareddy,2025.0,6.0,1028.8,Kharif
+Rangareddy,2025.0,7.0,9.9,Kharif
+Rangareddy,2025.0,8.0,120.5,Kharif
+Rangareddy,2025.0,9.0,46.0,Kharif
+Rangareddy,2025.0,10.0,1.4000000000000001,Rabi
+Rangareddy,2025.0,11.0,58.0,Rabi
+Rangareddy,2025.0,12.0,593.2,Rabi
+Sangareddy,2025.0,1.0,0.0,Rabi
+Sangareddy,2025.0,2.0,34.8,Rabi
+Sangareddy,2025.0,3.0,6.0,Zaid
+Sangareddy,2025.0,4.0,0.0,Zaid
+Sangareddy,2025.0,5.0,6.6,Zaid
+Sangareddy,2025.0,6.0,594.4,Kharif
+Sangareddy,2025.0,7.0,2.4,Kharif
+Sangareddy,2025.0,8.0,107.89999999999999,Kharif
+Sangareddy,2025.0,9.0,219.8,Kharif
+Sangareddy,2025.0,10.0,287.0,Rabi
+Sangareddy,2025.0,11.0,153.1,Rabi
+Sangareddy,2025.0,12.0,84.7,Rabi
+Siddipet,2025.0,1.0,0.0,Rabi
+Siddipet,2025.0,2.0,46.3,Rabi
+Siddipet,2025.0,3.0,11.8,Zaid
+Siddipet,2025.0,4.0,10.899999999999999,Zaid
+Siddipet,2025.0,5.0,15.9,Zaid
+Siddipet,2025.0,6.0,2064.9,Kharif
+Siddipet,2025.0,7.0,12.4,Kharif
+Siddipet,2025.0,8.0,50.6,Kharif
+Siddipet,2025.0,9.0,34.2,Kharif
+Siddipet,2025.0,10.0,6.4,Rabi
+Siddipet,2025.0,11.0,184.79999999999998,Rabi
+Siddipet,2025.0,12.0,11.799999999999999,Rabi
+Suryapet,2025.0,1.0,0.0,Rabi
+Suryapet,2025.0,2.0,0.0,Rabi
+Suryapet,2025.0,3.0,0.8,Zaid
+Suryapet,2025.0,4.0,23.6,Zaid
+Suryapet,2025.0,5.0,0.8,Zaid
+Suryapet,2025.0,6.0,1059.0,Kharif
+Suryapet,2025.0,7.0,0.0,Kharif
+Suryapet,2025.0,8.0,22.5,Kharif
+Suryapet,2025.0,9.0,54.1,Kharif
+Suryapet,2025.0,10.0,0.0,Rabi
+Suryapet,2025.0,11.0,62.8,Rabi
+Suryapet,2025.0,12.0,0.7,Rabi
+Vikarabad,2025.0,1.0,0.0,Rabi
+Vikarabad,2025.0,2.0,28.2,Rabi
+Vikarabad,2025.0,3.0,20.1,Zaid
+Vikarabad,2025.0,4.0,7.5,Zaid
+Vikarabad,2025.0,5.0,17.3,Zaid
+Vikarabad,2025.0,6.0,925.3,Kharif
+Vikarabad,2025.0,7.0,0.0,Kharif
+Vikarabad,2025.0,8.0,62.5,Kharif
+Vikarabad,2025.0,9.0,29.8,Kharif
+Vikarabad,2025.0,10.0,61.8,Rabi
+Vikarabad,2025.0,11.0,8.1,Rabi
+Vikarabad,2025.0,12.0,510.0,Rabi
+Wanaparthy,2025.0,1.0,0.0,Rabi
+Wanaparthy,2025.0,2.0,8.5,Rabi
+Wanaparthy,2025.0,3.0,13.399999999999999,Zaid
+Wanaparthy,2025.0,4.0,0.0,Zaid
+Wanaparthy,2025.0,5.0,0.5,Zaid
+Wanaparthy,2025.0,6.0,695.5,Kharif
+Wanaparthy,2025.0,7.0,0.0,Kharif
+Wanaparthy,2025.0,8.0,56.6,Kharif
+Wanaparthy,2025.0,9.0,42.0,Kharif
+Wanaparthy,2025.0,10.0,0.0,Rabi
+Wanaparthy,2025.0,11.0,14.899999999999999,Rabi
+Wanaparthy,2025.0,12.0,552.6,Rabi
+Warangal,2025.0,1.0,0.0,Rabi
+Warangal,2025.0,2.0,0.0,Rabi
+Warangal,2025.0,3.0,2.5,Zaid
+Warangal,2025.0,4.0,4.2,Zaid
+Warangal,2025.0,5.0,0.7,Zaid
+Warangal,2025.0,6.0,1397.2,Kharif
+Warangal,2025.0,7.0,1.0,Kharif
+Warangal,2025.0,8.0,43.5,Kharif
+Warangal,2025.0,9.0,0.2,Kharif
+Warangal,2025.0,10.0,0.0,Rabi
+Warangal,2025.0,11.0,32.8,Rabi
+Warangal,2025.0,12.0,0.0,Rabi
+Yadadri Bhuvanagiri,2025.0,1.0,0.0,Rabi
+Yadadri Bhuvanagiri,2025.0,2.0,47.0,Rabi
+Yadadri Bhuvanagiri,2025.0,3.0,14.1,Zaid
+Yadadri Bhuvanagiri,2025.0,4.0,14.5,Zaid
+Yadadri Bhuvanagiri,2025.0,5.0,0.6,Zaid
+Yadadri Bhuvanagiri,2025.0,6.0,538.4,Kharif
+Yadadri Bhuvanagiri,2025.0,7.0,26.400000000000002,Kharif
+Yadadri Bhuvanagiri,2025.0,8.0,52.7,Kharif
+Yadadri Bhuvanagiri,2025.0,9.0,6.8,Kharif
+Yadadri Bhuvanagiri,2025.0,10.0,0.0,Rabi
+Yadadri Bhuvanagiri,2025.0,11.0,207.9,Rabi
+Yadadri Bhuvanagiri,2025.0,12.0,66.6,Rabi
+Adilabad,2025.0,3.0,8.2,Zaid
+Bhadradri Kothagudem,2025.0,3.0,15.100000000000001,Zaid
+Hanumakonda,2025.0,3.0,51.7,Zaid
+Hyderabad,2025.0,3.0,211.7,Zaid
+Jagtial,2025.0,3.0,332.7,Zaid
+Jangaon,2025.0,3.0,83.4,Zaid
+Jayashankar,2025.0,3.0,23.8,Zaid
+Jogulamba Gadwal,2025.0,3.0,1.5,Zaid
+Kamareddy,2025.0,3.0,160.6,Zaid
+Karimnagar,2025.0,3.0,165.3,Zaid
+Khammam,2025.0,3.0,6.5,Zaid
+Kumuram Bheem,2025.0,3.0,189.5,Zaid
+Mahabubabad,2025.0,3.0,45.9,Zaid
+Mahabubnagar,2025.0,3.0,89.4,Zaid
+Mancherial,2025.0,3.0,281.0,Zaid
+Medak,2025.0,3.0,346.5,Zaid
+Medchal-Malkajgiri,2025.0,3.0,294.2,Zaid
+Mulugu,2025.0,3.0,12.0,Zaid
+Nagarkurnool,2025.0,3.0,23.400000000000002,Zaid
+Nalgonda,2025.0,3.0,84.3,Zaid
+Narayanpet,2025.0,3.0,49.4,Zaid
+Nirmal,2025.0,3.0,92.7,Zaid
+Nizamabad,2025.0,3.0,139.9,Zaid
+Peddapalli,2025.0,3.0,215.1,Zaid
+Rajanna Sircilla,2025.0,3.0,201.4,Zaid
+Rangareddy,2025.0,3.0,239.3,Zaid
+Sangareddy,2025.0,3.0,420.90000000000003,Zaid
+Siddipet,2025.0,3.0,407.9,Zaid
+Suryapet,2025.0,3.0,24.4,Zaid
+Vikarabad,2025.0,3.0,255.6,Zaid
+Wanaparthy,2025.0,3.0,32.8,Zaid
+Warangal,2025.0,3.0,83.6,Zaid
+Yadadri Bhuvanagiri,2025.0,3.0,157.4,Zaid
+Adilabad,2024.0,5.0,525.8,Zaid
+Bhadradri Kothagudem,2024.0,5.0,1914.9,Zaid
+Hanumakonda,2024.0,5.0,1722.8,Zaid
+Hyderabad,2024.0,5.0,1902.4,Zaid
+Jagtial,2024.0,5.0,551.0,Zaid
+Jangaon,2024.0,5.0,1194.5,Zaid
+Jayashankar,2024.0,5.0,1096.6,Zaid
+Jogulamba Gadwal,2024.0,5.0,1011.7,Zaid
+Kamareddy,2024.0,5.0,1050.3,Zaid
+Karimnagar,2024.0,5.0,781.2,Zaid
+Khammam,2024.0,5.0,1495.3,Zaid
+Kumuram Bheem,2024.0,5.0,1083.8,Zaid
+Mahabubabad,2024.0,5.0,2022.6,Zaid
+Mahabubnagar,2024.0,5.0,915.4,Zaid
+Mancherial,2024.0,5.0,742.4,Zaid
+Medak,2024.0,5.0,1206.4,Zaid
+Medchal-Malkajgiri,2024.0,5.0,1560.3,Zaid
+Mulugu,2024.0,5.0,820.6,Zaid
+Nagarkurnool,2024.0,5.0,983.1,Zaid
+Nalgonda,2024.0,5.0,2349.3,Zaid
+Narayanpet,2024.0,5.0,845.4,Zaid
+Nirmal,2024.0,5.0,601.0,Zaid
+Nizamabad,2024.0,5.0,978.4,Zaid
+Peddapalli,2024.0,5.0,685.3,Zaid
+Rajanna Sircilla,2024.0,5.0,528.2,Zaid
+Rangareddy,2024.0,5.0,1520.6,Zaid
+Sangareddy,2024.0,5.0,1651.6,Zaid
+Siddipet,2024.0,5.0,1775.3,Zaid
+Suryapet,2024.0,5.0,1724.5,Zaid
+Vikarabad,2024.0,5.0,676.6,Zaid
+Wanaparthy,2024.0,5.0,797.5,Zaid
+Warangal,2024.0,5.0,1691.0,Zaid
+Yadadri Bhuvanagiri,2024.0,5.0,1434.0,Zaid
+Adilabad,2025.0,1.0,0.3,Rabi
+Adilabad,2025.0,2.0,3.0,Rabi
+Adilabad,2025.0,4.0,0.6,Zaid
+Adilabad,2025.0,5.0,2498.4,Zaid
+Adilabad,2025.0,6.0,6.5,Kharif
+Adilabad,2025.0,7.0,4.9,Kharif
+Adilabad,2025.0,8.0,0.0,Kharif
+Adilabad,2025.0,9.0,0.0,Kharif
+Adilabad,2025.0,10.0,19.6,Rabi
+Adilabad,2025.0,11.0,30.2,Rabi
+Adilabad,2025.0,12.0,86.1,Rabi
+Bhadradri Kothagudem,2025.0,1.0,280.1,Rabi
+Bhadradri Kothagudem,2025.0,2.0,18.3,Rabi
+Bhadradri Kothagudem,2025.0,3.0,0.0,Zaid
+Bhadradri Kothagudem,2025.0,4.0,271.1,Zaid
+Bhadradri Kothagudem,2025.0,5.0,2898.7,Zaid
+Bhadradri Kothagudem,2025.0,6.0,5.4,Kharif
+Bhadradri Kothagudem,2025.0,7.0,2.5,Kharif
+Bhadradri Kothagudem,2025.0,8.0,21.2,Kharif
+Bhadradri Kothagudem,2025.0,9.0,215.70000000000002,Kharif
+Bhadradri Kothagudem,2025.0,10.0,11.5,Rabi
+Bhadradri Kothagudem,2025.0,11.0,0.0,Rabi
+Bhadradri Kothagudem,2025.0,12.0,0.3,Rabi
+Hanumakonda,2025.0,1.0,9.9,Rabi
+Hanumakonda,2025.0,3.0,0.0,Zaid
+Hanumakonda,2025.0,4.0,0.0,Zaid
+Hanumakonda,2025.0,5.0,1591.0,Zaid
+Hanumakonda,2025.0,6.0,308.1,Kharif
+Hanumakonda,2025.0,7.0,0.0,Kharif
+Hanumakonda,2025.0,8.0,0.4,Kharif
+Hanumakonda,2025.0,9.0,0.0,Kharif
+Hanumakonda,2025.0,11.0,12.8,Rabi
+Hyderabad,2025.0,2.0,4.4,Rabi
+Hyderabad,2025.0,3.0,1.8,Zaid
+Hyderabad,2025.0,4.0,24.5,Zaid
+Hyderabad,2025.0,5.0,1352.9,Zaid
+Hyderabad,2025.0,6.0,136.8,Kharif
+Hyderabad,2025.0,7.0,83.3,Kharif
+Hyderabad,2025.0,8.0,1.9,Kharif
+Hyderabad,2025.0,9.0,0.30000000000000004,Kharif
+Hyderabad,2025.0,10.0,173.6,Rabi
+Hyderabad,2025.0,11.0,0.0,Rabi
+Hyderabad,2025.0,12.0,5.9,Rabi
+Jagtial,2025.0,5.0,3458.4,Zaid
+Jagtial,2025.0,6.0,54.4,Kharif
+Jagtial,2025.0,7.0,69.4,Kharif
+Jagtial,2025.0,8.0,1.8,Kharif
+Jagtial,2025.0,9.0,0.6,Kharif
+Jagtial,2025.0,10.0,0.6,Rabi
+Jagtial,2025.0,11.0,21.5,Rabi
+Jagtial,2025.0,12.0,0.0,Rabi
+Jangaon,2025.0,1.0,7.6,Rabi
+Jangaon,2025.0,2.0,0.0,Rabi
+Jangaon,2025.0,3.0,0.5,Zaid
+Jangaon,2025.0,4.0,0.0,Zaid
+Jangaon,2025.0,5.0,980.6,Zaid
+Jangaon,2025.0,6.0,268.40000000000003,Kharif
+Jangaon,2025.0,7.0,4.5,Kharif
+Jangaon,2025.0,8.0,0.0,Kharif
+Jangaon,2025.0,9.0,4.199999999999999,Kharif
+Jangaon,2025.0,10.0,54.2,Rabi
+Jangaon,2025.0,11.0,14.100000000000001,Rabi
+Jayashankar,2025.0,1.0,55.8,Rabi
+Jayashankar,2025.0,2.0,165.6,Rabi
+Jayashankar,2025.0,3.0,0.0,Zaid
+Jayashankar,2025.0,4.0,0.6,Zaid
+Jayashankar,2025.0,5.0,915.9,Zaid
+Jayashankar,2025.0,6.0,26.0,Kharif
+Jayashankar,2025.0,7.0,6.5,Kharif
+Jayashankar,2025.0,8.0,0.0,Kharif
+Jayashankar,2025.0,9.0,16.6,Kharif
+Jayashankar,2025.0,10.0,0.0,Rabi
+Jayashankar,2025.0,11.0,0.0,Rabi
+Jayashankar,2025.0,12.0,1.0,Rabi
+Jogulamba Gadwal,2025.0,1.0,2.5,Rabi
+Jogulamba Gadwal,2025.0,2.0,0.0,Rabi
+Jogulamba Gadwal,2025.0,3.0,21.6,Zaid
+Jogulamba Gadwal,2025.0,5.0,1381.0,Zaid
+Jogulamba Gadwal,2025.0,6.0,0.0,Kharif
+Jogulamba Gadwal,2025.0,7.0,4.699999999999999,Kharif
+Jogulamba Gadwal,2025.0,8.0,0.8,Kharif
+Jogulamba Gadwal,2025.0,9.0,0.0,Kharif
+Jogulamba Gadwal,2025.0,11.0,0.0,Rabi
+Jogulamba Gadwal,2025.0,12.0,0.0,Rabi
+Kamareddy,2025.0,2.0,8.0,Rabi
+Kamareddy,2025.0,3.0,0.3,Zaid
+Kamareddy,2025.0,4.0,4.5,Zaid
+Kamareddy,2025.0,5.0,4088.5,Zaid
+Kamareddy,2025.0,6.0,96.8,Kharif
+Kamareddy,2025.0,7.0,244.60000000000002,Kharif
+Kamareddy,2025.0,8.0,22.7,Kharif
+Kamareddy,2025.0,9.0,1.6,Kharif
+Kamareddy,2025.0,10.0,5.5,Rabi
+Kamareddy,2025.0,11.0,1.4,Rabi
+Kamareddy,2025.0,12.0,27.1,Rabi
+Karimnagar,2025.0,3.0,0.0,Zaid
+Karimnagar,2025.0,5.0,1653.0,Zaid
+Karimnagar,2025.0,6.0,117.8,Kharif
+Karimnagar,2025.0,7.0,0.5,Kharif
+Karimnagar,2025.0,8.0,36.7,Kharif
+Karimnagar,2025.0,9.0,0.7,Kharif
+Karimnagar,2025.0,10.0,0.2,Rabi
+Karimnagar,2025.0,11.0,35.2,Rabi
+Karimnagar,2025.0,12.0,0.1,Rabi
+Khammam,2025.0,1.0,107.7,Rabi
+Khammam,2025.0,2.0,60.2,Rabi
+Khammam,2025.0,3.0,0.8,Zaid
+Khammam,2025.0,4.0,19.299999999999997,Zaid
+Khammam,2025.0,5.0,2308.8,Zaid
+Khammam,2025.0,6.0,0.0,Kharif
+Khammam,2025.0,7.0,112.9,Kharif
+Khammam,2025.0,8.0,2.9,Kharif
+Khammam,2025.0,9.0,98.2,Kharif
+Khammam,2025.0,10.0,1.1,Rabi
+Khammam,2025.0,11.0,0.0,Rabi
+Khammam,2025.0,12.0,0.0,Rabi
+Kumuram Bheem,2025.0,1.0,0.2,Rabi
+Kumuram Bheem,2025.0,2.0,10.2,Rabi
+Kumuram Bheem,2025.0,3.0,13.100000000000001,Zaid
+Kumuram Bheem,2025.0,4.0,15.799999999999999,Zaid
+Kumuram Bheem,2025.0,5.0,1928.1,Zaid
+Kumuram Bheem,2025.0,6.0,39.7,Kharif
+Kumuram Bheem,2025.0,7.0,43.3,Kharif
+Kumuram Bheem,2025.0,8.0,0.0,Kharif
+Kumuram Bheem,2025.0,9.0,0.0,Kharif
+Kumuram Bheem,2025.0,10.0,0.0,Rabi
+Kumuram Bheem,2025.0,11.0,9.600000000000001,Rabi
+Kumuram Bheem,2025.0,12.0,20.7,Rabi
+Mahabubabad,2025.0,1.0,29.8,Rabi
+Mahabubabad,2025.0,2.0,209.5,Rabi
+Mahabubabad,2025.0,3.0,0.4,Zaid
+Mahabubabad,2025.0,4.0,0.0,Zaid
+Mahabubabad,2025.0,5.0,2202.2,Zaid
+Mahabubabad,2025.0,6.0,71.2,Kharif
+Mahabubabad,2025.0,7.0,6.0,Kharif
+Mahabubabad,2025.0,8.0,0.0,Kharif
+Mahabubabad,2025.0,9.0,96.60000000000001,Kharif
+Mahabubabad,2025.0,10.0,0.0,Rabi
+Mahabubabad,2025.0,11.0,4.8,Rabi
+Mahabubnagar,2025.0,1.0,0.3,Rabi
+Mahabubnagar,2025.0,2.0,9.9,Rabi
+Mahabubnagar,2025.0,3.0,56.6,Zaid
+Mahabubnagar,2025.0,4.0,3.1,Zaid
+Mahabubnagar,2025.0,5.0,1912.0,Zaid
+Mahabubnagar,2025.0,6.0,0.0,Kharif
+Mahabubnagar,2025.0,7.0,8.9,Kharif
+Mahabubnagar,2025.0,8.0,0.0,Kharif
+Mahabubnagar,2025.0,9.0,0.0,Kharif
+Mahabubnagar,2025.0,10.0,0.0,Rabi
+Mahabubnagar,2025.0,11.0,0.0,Rabi
+Mahabubnagar,2025.0,12.0,15.399999999999999,Rabi
+Mancherial,2025.0,1.0,30.1,Rabi
+Mancherial,2025.0,2.0,92.80000000000001,Rabi
+Mancherial,2025.0,4.0,0.0,Zaid
+Mancherial,2025.0,5.0,2385.2,Zaid
+Mancherial,2025.0,6.0,0.0,Kharif
+Mancherial,2025.0,7.0,175.1,Kharif
+Mancherial,2025.0,8.0,0.5,Kharif
+Mancherial,2025.0,9.0,0.0,Kharif
+Mancherial,2025.0,10.0,0.0,Rabi
+Mancherial,2025.0,11.0,0.0,Rabi
+Mancherial,2025.0,12.0,0.4,Rabi
+Medak,2025.0,1.0,0.0,Rabi
+Medak,2025.0,2.0,13.2,Rabi
+Medak,2025.0,3.0,3.8,Zaid
+Medak,2025.0,4.0,0.0,Zaid
+Medak,2025.0,5.0,3015.9,Zaid
+Medak,2025.0,6.0,48.599999999999994,Kharif
+Medak,2025.0,7.0,23.1,Kharif
+Medak,2025.0,8.0,25.2,Kharif
+Medak,2025.0,9.0,1.4000000000000001,Kharif
+Medak,2025.0,10.0,3.5,Rabi
+Medak,2025.0,11.0,1.2,Rabi
+Medak,2025.0,12.0,7.5,Rabi
+Medchal-Malkajgiri,2025.0,1.0,0.1,Rabi
+Medchal-Malkajgiri,2025.0,2.0,4.2,Rabi
+Medchal-Malkajgiri,2025.0,3.0,28.6,Zaid
+Medchal-Malkajgiri,2025.0,4.0,137.20000000000002,Zaid
+Medchal-Malkajgiri,2025.0,5.0,1520.1,Zaid
+Medchal-Malkajgiri,2025.0,6.0,75.2,Kharif
+Medchal-Malkajgiri,2025.0,7.0,12.3,Kharif
+Medchal-Malkajgiri,2025.0,8.0,9.5,Kharif
+Medchal-Malkajgiri,2025.0,9.0,0.1,Kharif
+Medchal-Malkajgiri,2025.0,10.0,23.0,Rabi
+Medchal-Malkajgiri,2025.0,11.0,5.1,Rabi
+Medchal-Malkajgiri,2025.0,12.0,0.0,Rabi
+Mulugu,2025.0,1.0,58.1,Rabi
+Mulugu,2025.0,2.0,102.7,Rabi
+Mulugu,2025.0,3.0,0.0,Zaid
+Mulugu,2025.0,4.0,3.6,Zaid
+Mulugu,2025.0,5.0,1365.3,Zaid
+Mulugu,2025.0,6.0,50.9,Kharif
+Mulugu,2025.0,7.0,0.9,Kharif
+Mulugu,2025.0,8.0,0.0,Kharif
+Mulugu,2025.0,9.0,111.5,Kharif
+Mulugu,2025.0,10.0,0.0,Rabi
+Mulugu,2025.0,11.0,0.9,Rabi
+Mulugu,2025.0,12.0,0.0,Rabi
+Nagarkurnool,2025.0,1.0,103.0,Rabi
+Nagarkurnool,2025.0,2.0,7.300000000000001,Rabi
+Nagarkurnool,2025.0,3.0,38.1,Zaid
+Nagarkurnool,2025.0,4.0,0.0,Zaid
+Nagarkurnool,2025.0,5.0,1179.6,Zaid
+Nagarkurnool,2025.0,6.0,0.0,Kharif
+Nagarkurnool,2025.0,7.0,6.1,Kharif
+Nagarkurnool,2025.0,8.0,12.5,Kharif
+Nagarkurnool,2025.0,9.0,1.7,Kharif
+Nagarkurnool,2025.0,11.0,0.0,Rabi
+Nagarkurnool,2025.0,12.0,0.0,Rabi
+Nalgonda,2025.0,1.0,80.1,Rabi
+Nalgonda,2025.0,2.0,0.0,Rabi
+Nalgonda,2025.0,3.0,91.1,Zaid
+Nalgonda,2025.0,4.0,0.39999999999999997,Zaid
+Nalgonda,2025.0,5.0,1917.1,Zaid
+Nalgonda,2025.0,6.0,5.0,Kharif
+Nalgonda,2025.0,7.0,56.900000000000006,Kharif
+Nalgonda,2025.0,8.0,7.4,Kharif
+Nalgonda,2025.0,9.0,41.1,Kharif
+Nalgonda,2025.0,10.0,0.4,Rabi
+Nalgonda,2025.0,11.0,17.6,Rabi
+Nalgonda,2025.0,12.0,5.3,Rabi
+Narayanpet,2025.0,2.0,0.0,Rabi
+Narayanpet,2025.0,3.0,16.3,Zaid
+Narayanpet,2025.0,4.0,0.5,Zaid
+Narayanpet,2025.0,5.0,2260.4,Zaid
+Narayanpet,2025.0,6.0,0.0,Kharif
+Narayanpet,2025.0,8.0,0.0,Kharif
+Narayanpet,2025.0,9.0,0.0,Kharif
+Narayanpet,2025.0,10.0,0.0,Rabi
+Narayanpet,2025.0,11.0,0.0,Rabi
+Narayanpet,2025.0,12.0,7.0,Rabi
+Nirmal,2025.0,4.0,0.2,Zaid
+Nirmal,2025.0,5.0,2547.3,Zaid
+Nirmal,2025.0,6.0,14.8,Kharif
+Nirmal,2025.0,7.0,47.6,Kharif
+Nirmal,2025.0,8.0,1.3,Kharif
+Nirmal,2025.0,9.0,0.0,Kharif
+Nirmal,2025.0,10.0,11.4,Rabi
+Nirmal,2025.0,11.0,35.0,Rabi
+Nirmal,2025.0,12.0,5.5,Rabi
+Nizamabad,2025.0,1.0,1.5,Rabi
+Nizamabad,2025.0,2.0,0.7,Rabi
+Nizamabad,2025.0,4.0,0.3,Zaid
+Nizamabad,2025.0,5.0,5855.7,Zaid
+Nizamabad,2025.0,6.0,162.5,Kharif
+Nizamabad,2025.0,7.0,55.300000000000004,Kharif
+Nizamabad,2025.0,8.0,8.5,Kharif
+Nizamabad,2025.0,9.0,1.3,Kharif
+Nizamabad,2025.0,10.0,21.6,Rabi
+Nizamabad,2025.0,11.0,72.4,Rabi
+Nizamabad,2025.0,12.0,33.1,Rabi
+Peddapalli,2025.0,1.0,3.1,Rabi
+Peddapalli,2025.0,2.0,12.2,Rabi
+Peddapalli,2025.0,5.0,1581.4,Zaid
+Peddapalli,2025.0,6.0,0.0,Kharif
+Peddapalli,2025.0,7.0,3.0,Kharif
+Peddapalli,2025.0,8.0,6.6000000000000005,Kharif
+Peddapalli,2025.0,9.0,1.3,Kharif
+Peddapalli,2025.0,10.0,0.0,Rabi
+Peddapalli,2025.0,11.0,69.6,Rabi
+Peddapalli,2025.0,12.0,0.0,Rabi
+Rajanna Sircilla,2025.0,2.0,1.7,Rabi
+Rajanna Sircilla,2025.0,3.0,0.0,Zaid
+Rajanna Sircilla,2025.0,5.0,2341.1,Zaid
+Rajanna Sircilla,2025.0,6.0,84.4,Kharif
+Rajanna Sircilla,2025.0,7.0,68.1,Kharif
+Rajanna Sircilla,2025.0,8.0,1.0,Kharif
+Rajanna Sircilla,2025.0,9.0,0.5,Kharif
+Rajanna Sircilla,2025.0,10.0,0.0,Rabi
+Rajanna Sircilla,2025.0,11.0,0.0,Rabi
+Rajanna Sircilla,2025.0,12.0,0.0,Rabi
+Rangareddy,2025.0,1.0,19.8,Rabi
+Rangareddy,2025.0,2.0,64.39999999999999,Rabi
+Rangareddy,2025.0,3.0,72.5,Zaid
+Rangareddy,2025.0,4.0,85.60000000000001,Zaid
+Rangareddy,2025.0,5.0,2377.2,Zaid
+Rangareddy,2025.0,6.0,47.3,Kharif
+Rangareddy,2025.0,7.0,98.4,Kharif
+Rangareddy,2025.0,8.0,13.5,Kharif
+Rangareddy,2025.0,9.0,3.2,Kharif
+Rangareddy,2025.0,10.0,30.6,Rabi
+Rangareddy,2025.0,11.0,0.4,Rabi
+Rangareddy,2025.0,12.0,23.7,Rabi
+Sangareddy,2025.0,2.0,24.799999999999997,Rabi
+Sangareddy,2025.0,3.0,0.8,Zaid
+Sangareddy,2025.0,4.0,0.2,Zaid
+Sangareddy,2025.0,5.0,3987.4,Zaid
+Sangareddy,2025.0,6.0,14.2,Kharif
+Sangareddy,2025.0,7.0,42.2,Kharif
+Sangareddy,2025.0,8.0,14.9,Kharif
+Sangareddy,2025.0,9.0,0.0,Kharif
+Sangareddy,2025.0,10.0,12.1,Rabi
+Sangareddy,2025.0,11.0,9.899999999999999,Rabi
+Sangareddy,2025.0,12.0,24.0,Rabi
+Siddipet,2025.0,2.0,0.0,Rabi
+Siddipet,2025.0,3.0,18.6,Zaid
+Siddipet,2025.0,4.0,0.0,Zaid
+Siddipet,2025.0,5.0,3157.9,Zaid
+Siddipet,2025.0,6.0,381.5,Kharif
+Siddipet,2025.0,7.0,21.700000000000003,Kharif
+Siddipet,2025.0,8.0,11.1,Kharif
+Siddipet,2025.0,9.0,0.0,Kharif
+Siddipet,2025.0,10.0,0.5,Rabi
+Siddipet,2025.0,11.0,0.5,Rabi
+Siddipet,2025.0,12.0,0.0,Rabi
+Suryapet,2025.0,1.0,32.1,Rabi
+Suryapet,2025.0,2.0,100.5,Rabi
+Suryapet,2025.0,3.0,3.0,Zaid
+Suryapet,2025.0,4.0,9.8,Zaid
+Suryapet,2025.0,5.0,2022.0,Zaid
+Suryapet,2025.0,6.0,41.9,Kharif
+Suryapet,2025.0,7.0,61.7,Kharif
+Suryapet,2025.0,8.0,0.0,Kharif
+Suryapet,2025.0,9.0,25.1,Kharif
+Suryapet,2025.0,10.0,0.5,Rabi
+Suryapet,2025.0,11.0,8.1,Rabi
+Suryapet,2025.0,12.0,0.0,Rabi
+Vikarabad,2025.0,2.0,0.0,Rabi
+Vikarabad,2025.0,3.0,12.2,Zaid
+Vikarabad,2025.0,4.0,0.0,Zaid
+Vikarabad,2025.0,5.0,2320.2,Zaid
+Vikarabad,2025.0,6.0,7.2,Kharif
+Vikarabad,2025.0,7.0,6.300000000000001,Kharif
+Vikarabad,2025.0,8.0,11.7,Kharif
+Vikarabad,2025.0,9.0,0.0,Kharif
+Vikarabad,2025.0,10.0,2.4000000000000004,Rabi
+Vikarabad,2025.0,11.0,0.0,Rabi
+Vikarabad,2025.0,12.0,7.3999999999999995,Rabi
+Wanaparthy,2025.0,2.0,0.0,Rabi
+Wanaparthy,2025.0,3.0,63.6,Zaid
+Wanaparthy,2025.0,5.0,1754.4,Zaid
+Wanaparthy,2025.0,6.0,0.0,Kharif
+Wanaparthy,2025.0,7.0,2.5999999999999996,Kharif
+Wanaparthy,2025.0,8.0,0.0,Kharif
+Wanaparthy,2025.0,9.0,0.0,Kharif
+Wanaparthy,2025.0,11.0,0.0,Rabi
+Wanaparthy,2025.0,12.0,0.0,Rabi
+Warangal,2025.0,1.0,7.9,Rabi
+Warangal,2025.0,2.0,79.0,Rabi
+Warangal,2025.0,3.0,0.0,Zaid
+Warangal,2025.0,4.0,0.0,Zaid
+Warangal,2025.0,5.0,1816.2,Zaid
+Warangal,2025.0,6.0,154.2,Kharif
+Warangal,2025.0,7.0,1.2000000000000002,Kharif
+Warangal,2025.0,8.0,0.0,Kharif
+Warangal,2025.0,9.0,4.0,Kharif
+Warangal,2025.0,11.0,92.30000000000001,Rabi
+Yadadri Bhuvanagiri,2025.0,1.0,23.4,Rabi
+Yadadri Bhuvanagiri,2025.0,2.0,0.0,Rabi
+Yadadri Bhuvanagiri,2025.0,3.0,124.9,Zaid
+Yadadri Bhuvanagiri,2025.0,4.0,6.5,Zaid
+Yadadri Bhuvanagiri,2025.0,5.0,1250.7,Zaid
+Yadadri Bhuvanagiri,2025.0,6.0,224.2,Kharif
+Yadadri Bhuvanagiri,2025.0,7.0,22.0,Kharif
+Yadadri Bhuvanagiri,2025.0,8.0,0.0,Kharif
+Yadadri Bhuvanagiri,2025.0,9.0,0.4,Kharif
+Yadadri Bhuvanagiri,2025.0,10.0,21.0,Rabi
+Yadadri Bhuvanagiri,2025.0,11.0,2.7,Rabi
+Yadadri Bhuvanagiri,2025.0,12.0,0.0,Rabi
+Adilabad,2024.0,11.0,65.2,Rabi
+Bhadradri Kothagudem,2024.0,11.0,241.4,Rabi
+Hanumakonda,2024.0,11.0,3.6999999999999997,Rabi
+Hyderabad,2024.0,11.0,29.0,Rabi
+Jagtial,2024.0,11.0,39.9,Rabi
+Jangaon,2024.0,11.0,54.0,Rabi
+Jayashankar,2024.0,11.0,68.7,Rabi
+Jogulamba Gadwal,2024.0,11.0,15.8,Rabi
+Kamareddy,2024.0,11.0,77.5,Rabi
+Karimnagar,2024.0,11.0,28.1,Rabi
+Khammam,2024.0,11.0,319.4,Rabi
+Kumuram Bheem,2024.0,11.0,27.900000000000002,Rabi
+Mahabubabad,2024.0,11.0,85.5,Rabi
+Mahabubnagar,2024.0,11.0,9.7,Rabi
+Mancherial,2024.0,11.0,220.8,Rabi
+Medak,2024.0,11.0,184.1,Rabi
+Medchal-Malkajgiri,2024.0,11.0,93.8,Rabi
+Mulugu,2024.0,11.0,59.4,Rabi
+Nagarkurnool,2024.0,11.0,23.1,Rabi
+Nalgonda,2024.0,11.0,633.9,Rabi
+Narayanpet,2024.0,11.0,2.2,Rabi
+Nirmal,2024.0,11.0,57.4,Rabi
+Nizamabad,2024.0,11.0,20.5,Rabi
+Peddapalli,2024.0,11.0,87.4,Rabi
+Rajanna Sircilla,2024.0,11.0,57.9,Rabi
+Rangareddy,2024.0,11.0,72.3,Rabi
+Sangareddy,2024.0,11.0,106.5,Rabi
+Siddipet,2024.0,11.0,141.9,Rabi
+Suryapet,2024.0,11.0,186.3,Rabi
+Vikarabad,2024.0,11.0,72.7,Rabi
+Wanaparthy,2024.0,11.0,18.6,Rabi
+Warangal,2024.0,11.0,78.4,Rabi
+Yadadri Bhuvanagiri,2024.0,11.0,110.9,Rabi
+Adilabad,2025.0,11.0,221.2,Rabi
+Bhadradri Kothagudem,2025.0,11.0,196.6,Rabi
+Hanumakonda,2025.0,11.0,198.4,Rabi
+Hyderabad,2025.0,11.0,188.0,Rabi
+Jagtial,2025.0,11.0,93.10000000000001,Rabi
+Jangaon,2025.0,11.0,153.6,Rabi
+Jayashankar,2025.0,11.0,94.10000000000001,Rabi
+Jogulamba Gadwal,2025.0,11.0,274.1,Rabi
+Kamareddy,2025.0,11.0,203.9,Rabi
+Karimnagar,2025.0,11.0,378.4,Rabi
+Khammam,2025.0,11.0,321.1,Rabi
+Kumuram Bheem,2025.0,11.0,76.8,Rabi
+Mahabubabad,2025.0,11.0,341.0,Rabi
+Mahabubnagar,2025.0,11.0,184.1,Rabi
+Mancherial,2025.0,11.0,150.0,Rabi
+Medak,2025.0,11.0,83.9,Rabi
+Medchal-Malkajgiri,2025.0,11.0,183.3,Rabi
+Mulugu,2025.0,11.0,3.5,Rabi
+Nagarkurnool,2025.0,11.0,778.5,Rabi
+Nalgonda,2025.0,11.0,709.7,Rabi
+Narayanpet,2025.0,11.0,294.6,Rabi
+Nirmal,2025.0,11.0,136.1,Rabi
+Nizamabad,2025.0,11.0,233.6,Rabi
+Peddapalli,2025.0,11.0,35.1,Rabi
+Rajanna Sircilla,2025.0,11.0,111.9,Rabi
+Rangareddy,2025.0,11.0,416.9,Rabi
+Sangareddy,2025.0,11.0,106.3,Rabi
+Siddipet,2025.0,11.0,601.3,Rabi
+Suryapet,2025.0,11.0,466.7,Rabi
+Vikarabad,2025.0,11.0,487.3,Rabi
+Wanaparthy,2025.0,11.0,93.9,Rabi
+Warangal,2025.0,11.0,213.6,Rabi
+Yadadri Bhuvanagiri,2025.0,11.0,503.4,Rabi
+Adilabad,2024.0,10.0,714.2,Rabi
+Bhadradri Kothagudem,2024.0,10.0,1400.6,Rabi
+Hanumakonda,2024.0,10.0,924.2,Rabi
+Hyderabad,2024.0,10.0,820.1,Rabi
+Jagtial,2024.0,10.0,322.8,Rabi
+Jangaon,2024.0,10.0,1050.9,Rabi
+Jayashankar,2024.0,10.0,654.6,Rabi
+Jogulamba Gadwal,2024.0,10.0,770.4,Rabi
+Kamareddy,2024.0,10.0,1624.7,Rabi
+Karimnagar,2024.0,10.0,602.8,Rabi
+Khammam,2024.0,10.0,1653.4,Rabi
+Kumuram Bheem,2024.0,10.0,587.5,Rabi
+Mahabubabad,2024.0,10.0,1930.4,Rabi
+Mahabubnagar,2024.0,10.0,954.9,Rabi
+Mancherial,2024.0,10.0,439.7,Rabi
+Medak,2024.0,10.0,1378.4,Rabi
+Medchal-Malkajgiri,2024.0,10.0,910.0,Rabi
+Mulugu,2024.0,10.0,379.7,Rabi
+Nagarkurnool,2024.0,10.0,2245.7,Rabi
+Nalgonda,2024.0,10.0,3064.3,Rabi
+Narayanpet,2024.0,10.0,765.6,Rabi
+Nirmal,2024.0,10.0,717.5,Rabi
+Nizamabad,2024.0,10.0,1084.5,Rabi
+Peddapalli,2024.0,10.0,678.0,Rabi
+Rajanna Sircilla,2024.0,10.0,853.1,Rabi
+Rangareddy,2024.0,10.0,1461.8,Rabi
+Sangareddy,2024.0,10.0,2184.4,Rabi
+Siddipet,2024.0,10.0,1734.5,Rabi
+Suryapet,2024.0,10.0,1539.3,Rabi
+Vikarabad,2024.0,10.0,1657.0,Rabi
+Wanaparthy,2024.0,10.0,935.1,Rabi
+Warangal,2024.0,10.0,1151.0,Rabi
+Yadadri Bhuvanagiri,2024.0,10.0,1521.0,Rabi
+Adilabad,2025.0,10.0,2513.0,Rabi
+Bhadradri Kothagudem,2025.0,10.0,4692.3,Rabi
+Hanumakonda,2025.0,10.0,4026.8,Rabi
+Hyderabad,2025.0,10.0,2092.4,Rabi
+Jagtial,2025.0,10.0,2629.4,Rabi
+Jangaon,2025.0,10.0,3105.7,Rabi
+Jayashankar,2025.0,10.0,1845.5,Rabi
+Jogulamba Gadwal,2025.0,10.0,1167.3,Rabi
+Kamareddy,2025.0,10.0,2235.3,Rabi
+Karimnagar,2025.0,10.0,3362.5,Rabi
+Khammam,2025.0,10.0,3969.9,Rabi
+Kumuram Bheem,2025.0,10.0,2010.3,Rabi
+Mahabubabad,2025.0,10.0,5317.9,Rabi
+Mahabubnagar,2025.0,10.0,2679.0,Rabi
+Mancherial,2025.0,10.0,2573.4,Rabi
+Medak,2025.0,10.0,1779.8,Rabi
+Medchal-Malkajgiri,2025.0,10.0,1263.0,Rabi
+Mulugu,2025.0,10.0,1855.0,Rabi
+Nagarkurnool,2025.0,10.0,4888.7,Rabi
+Nalgonda,2025.0,10.0,8900.8,Rabi
+Narayanpet,2025.0,10.0,1501.3,Rabi
+Nirmal,2025.0,10.0,3493.8,Rabi
+Nizamabad,2025.0,10.0,3487.1,Rabi
+Peddapalli,2025.0,10.0,1983.7,Rabi
+Rajanna Sircilla,2025.0,10.0,2271.3,Rabi
+Rangareddy,2025.0,10.0,3995.4,Rabi
+Sangareddy,2025.0,10.0,3787.1,Rabi
+Siddipet,2025.0,10.0,4308.1,Rabi
+Suryapet,2025.0,10.0,3772.8,Rabi
+Vikarabad,2025.0,10.0,2299.4,Rabi
+Wanaparthy,2025.0,10.0,2845.5,Rabi
+Warangal,2025.0,10.0,4593.3,Rabi
+Yadadri Bhuvanagiri,2025.0,10.0,3702.7999999999997,Rabi
+Adilabad,2024.0,9.0,4255.0,Kharif
+Bhadradri Kothagudem,2024.0,9.0,7790.2,Kharif
+Hanumakonda,2024.0,9.0,3491.5,Kharif
+Hyderabad,2024.0,9.0,4864.7,Kharif
+Jagtial,2024.0,9.0,4653.8,Kharif
+Jangaon,2024.0,9.0,3257.8,Kharif
+Jayashankar,2024.0,9.0,2209.9,Kharif
+Jogulamba Gadwal,2024.0,9.0,2414.0,Kharif
+Kamareddy,2024.0,9.0,8351.4,Kharif
+Karimnagar,2024.0,9.0,4012.0,Kharif
+Khammam,2024.0,9.0,8055.1,Kharif
+Kumuram Bheem,2024.0,9.0,3645.0,Kharif
+Mahabubabad,2024.0,9.0,9204.7,Kharif
+Mahabubnagar,2024.0,9.0,5130.0,Kharif
+Mancherial,2024.0,9.0,4198.3,Kharif
+Medak,2024.0,9.0,6659.6,Kharif
+Medchal-Malkajgiri,2024.0,9.0,3887.0,Kharif
+Mulugu,2024.0,9.0,3084.8,Kharif
+Nagarkurnool,2024.0,9.0,5762.2,Kharif
+Nalgonda,2024.0,9.0,8602.8,Kharif
+Narayanpet,2024.0,9.0,3474.2,Kharif
+Nirmal,2024.0,9.0,6024.8,Kharif
+Nizamabad,2024.0,9.0,10945.1,Kharif
+Peddapalli,2024.0,9.0,2864.0,Kharif
+Rajanna Sircilla,2024.0,9.0,3308.2,Kharif
+Rangareddy,2024.0,9.0,8497.5,Kharif
+Sangareddy,2024.0,9.0,9001.2,Kharif
+Siddipet,2024.0,9.0,7947.2,Kharif
+Suryapet,2024.0,9.0,8171.6,Kharif
+Vikarabad,2024.0,9.0,6030.4,Kharif
+Wanaparthy,2024.0,9.0,4220.1,Kharif
+Warangal,2024.0,9.0,4775.8,Kharif
+Yadadri Bhuvanagiri,2024.0,9.0,4287.4,Kharif
+Adilabad,2025.0,9.0,8650.1,Kharif
+Bhadradri Kothagudem,2025.0,9.0,7331.9,Kharif
+Hanumakonda,2025.0,9.0,3788.4,Kharif
+Hyderabad,2025.0,9.0,4745.1,Kharif
+Jagtial,2025.0,9.0,5426.5,Kharif
+Jangaon,2025.0,9.0,2993.5,Kharif
+Jayashankar,2025.0,9.0,3707.4,Kharif
+Jogulamba Gadwal,2025.0,9.0,2851.2,Kharif
+Kamareddy,2025.0,9.0,7203.5,Kharif
+Karimnagar,2025.0,9.0,4484.1,Kharif
+Khammam,2025.0,9.0,4865.1,Kharif
+Kumuram Bheem,2025.0,9.0,4875.9,Kharif
+Mahabubabad,2025.0,9.0,4116.6,Kharif
+Mahabubnagar,2025.0,9.0,3500.5,Kharif
+Mancherial,2025.0,9.0,6048.5,Kharif
+Medak,2025.0,9.0,6641.8,Kharif
+Medchal-Malkajgiri,2025.0,9.0,3724.0,Kharif
+Mulugu,2025.0,9.0,4199.7,Kharif
+Nagarkurnool,2025.0,9.0,3743.8,Kharif
+Nalgonda,2025.0,9.0,5598.2,Kharif
+Narayanpet,2025.0,9.0,2480.1,Kharif
+Nirmal,2025.0,9.0,6806.1,Kharif
+Nizamabad,2025.0,9.0,9591.9,Kharif
+Peddapalli,2025.0,9.0,3710.3,Kharif
+Rajanna Sircilla,2025.0,9.0,2808.5,Kharif
+Rangareddy,2025.0,9.0,5676.3,Kharif
+Sangareddy,2025.0,9.0,6901.2,Kharif
+Siddipet,2025.0,9.0,8355.5,Kharif
+Suryapet,2025.0,9.0,3166.9,Kharif
+Vikarabad,2025.0,9.0,5488.4,Kharif
+Wanaparthy,2025.0,9.0,3029.3,Kharif
+Warangal,2025.0,9.0,3702.3,Kharif
+Yadadri Bhuvanagiri,2025.0,9.0,4593.0,Kharif
+Adilabad,2021.0,4.0,162.6,Zaid
+Bhadradri Kothagudem,2021.0,4.0,1663.4,Zaid
+Hyderabad,2021.0,4.0,265.5,Zaid
+Jagtial,2021.0,4.0,17.599999999999998,Zaid
+Jangaon,2021.0,4.0,226.2,Zaid
+Jayashankar,2021.0,4.0,560.2,Zaid
+Jogulamba Gadwal,2021.0,4.0,72.2,Zaid
+Kamareddy,2021.0,4.0,163.0,Zaid
+Karimnagar,2021.0,4.0,130.8,Zaid
+Khammam,2021.0,4.0,313.09999999999997,Zaid
+Kumuram Bheem,2021.0,4.0,262.0,Zaid
+Mahabubabad,2021.0,4.0,244.2,Zaid
+Mahabubnagar,2021.0,4.0,676.2,Zaid
+Mancherial,2021.0,4.0,89.0,Zaid
+Medak,2021.0,4.0,243.4,Zaid
+Medchal-Malkajgiri,2021.0,4.0,189.9,Zaid
+Mulugu,2021.0,4.0,453.4,Zaid
+Nagarkurnool,2021.0,4.0,242.5,Zaid
+Nalgonda,2021.0,4.0,667.4,Zaid
+Narayanpet,2021.0,4.0,474.3,Zaid
+Nirmal,2021.0,4.0,204.2,Zaid
+Nizamabad,2021.0,4.0,152.7,Zaid
+Peddapalli,2021.0,4.0,85.7,Zaid
+Rajanna Sircilla,2021.0,4.0,35.699999999999996,Zaid
+Rangareddy,2021.0,4.0,807.5,Zaid
+Sangareddy,2021.0,4.0,647.2,Zaid
+Siddipet,2021.0,4.0,383.59999999999997,Zaid
+Suryapet,2021.0,4.0,115.8,Zaid
+Vikarabad,2021.0,4.0,606.5,Zaid
+Wanaparthy,2021.0,4.0,274.5,Zaid
+Warangal Rural,2021.0,4.0,742.7,Zaid
+Warangal Urban,2021.0,4.0,271.5,Zaid
+Yadadri Bhuvanagiri,2021.0,4.0,555.8,Zaid
+Adilabad,2022.0,4.0,192.3,Zaid
+Bhadradri Kothagudem,2022.0,4.0,195.1,Zaid
+Hanumakkonda,2022.0,4.0,1.0,Zaid
+Hyderabad,2022.0,4.0,79.5,Zaid
+Jagtial,2022.0,4.0,30.400000000000002,Zaid
+Jangaon,2022.0,4.0,1.1,Zaid
+Jayashankar,2022.0,4.0,3.5,Zaid
+Jogulamba Gadwal,2022.0,4.0,86.9,Zaid
+Kamareddy,2022.0,4.0,19.5,Zaid
+Karimnagar,2022.0,4.0,14.799999999999999,Zaid
+Khammam,2022.0,4.0,36.3,Zaid
+Kumuram Bheem,2022.0,4.0,91.5,Zaid
+Mahabubabad,2022.0,4.0,6.5,Zaid
+Mahabubnagar,2022.0,4.0,350.7,Zaid
+Mancherial,2022.0,4.0,1.6,Zaid
+Medak,2022.0,4.0,33.6,Zaid
+Medchal-Malkajgiri,2022.0,4.0,195.4,Zaid
+Mulugu,2022.0,4.0,95.5,Zaid
+Nagarkurnool,2022.0,4.0,154.5,Zaid
+Nalgonda,2022.0,4.0,3.4,Zaid
+Narayanpet,2022.0,4.0,149.4,Zaid
+Nirmal,2022.0,4.0,53.9,Zaid
+Nizamabad,2022.0,4.0,18.7,Zaid
+Peddapalli,2022.0,4.0,1.5,Zaid
+Rajanna Sircilla,2022.0,4.0,52.1,Zaid
+Rangareddy,2022.0,4.0,332.5,Zaid
+Sangareddy,2022.0,4.0,195.2,Zaid
+Siddipet,2022.0,4.0,138.4,Zaid
+Suryapet,2022.0,4.0,3.9000000000000004,Zaid
+Vikarabad,2022.0,4.0,359.9,Zaid
+Wanaparthy,2022.0,4.0,36.5,Zaid
+Warangal,2022.0,4.0,0.4,Zaid
+Yadadri Bhuvanagiri,2022.0,4.0,60.5,Zaid
+Adilabad,2021.0,8.0,4726.7,Kharif
+Bhadradri Kothagudem,2021.0,8.0,4963.4,Kharif
+Hyderabad,2021.0,8.0,1887.5,Kharif
+Jagtial,2021.0,8.0,3206.4,Kharif
+Jangaon,2021.0,8.0,2506.2,Kharif
+Jayashankar,2021.0,8.0,2081.6,Kharif
+Jogulamba Gadwal,2021.0,8.0,1260.9,Kharif
+Kamareddy,2021.0,8.0,4931.1,Kharif
+Karimnagar,2021.0,8.0,3727.5,Kharif
+Khammam,2021.0,8.0,4011.0,Kharif
+Kumuram Bheem,2021.0,8.0,4403.0,Kharif
+Mahabubabad,2021.0,8.0,2994.1,Kharif
+Mahabubnagar,2021.0,8.0,2681.8,Kharif
+Mancherial,2021.0,8.0,3253.0,Kharif
+Medak,2021.0,8.0,3486.1,Kharif
+Medchal-Malkajgiri,2021.0,8.0,2033.4,Kharif
+Mulugu,2021.0,8.0,1809.6,Kharif
+Nagarkurnool,2021.0,8.0,2228.9,Kharif
+Nalgonda,2021.0,8.0,6061.3,Kharif
+Narayanpet,2021.0,8.0,1493.3,Kharif
+Nirmal,2021.0,8.0,4122.6,Kharif
+Nizamabad,2021.0,8.0,5609.0,Kharif
+Peddapalli,2021.0,8.0,1793.3,Kharif
+Rajanna Sircilla,2021.0,8.0,3128.9,Kharif
+Rangareddy,2021.0,8.0,3992.3,Kharif
+Sangareddy,2021.0,8.0,4367.5,Kharif
+Siddipet,2021.0,8.0,6695.0,Kharif
+Suryapet,2021.0,8.0,3550.9,Kharif
+Vikarabad,2021.0,8.0,3628.4,Kharif
+Wanaparthy,2021.0,8.0,960.0,Kharif
+Warangal Rural,2021.0,8.0,3126.1,Kharif
+Warangal Urban,2021.0,8.0,3141.4,Kharif
+Yadadri Bhuvanagiri,2021.0,8.0,3101.6,Kharif
+Adilabad,2022.0,8.0,3702.4,Kharif
+Bhadradri Kothagudem,2022.0,8.0,5853.2,Kharif
+Hanumakonda,2022.0,8.0,2771.7,Kharif
+Hyderabad,2022.0,8.0,1512.5,Kharif
+Jagtial,2022.0,8.0,3535.2,Kharif
+Jangaon,2022.0,8.0,2525.4,Kharif
+Jayashankar,2022.0,8.0,2546.7,Kharif
+Jogulamba Gadwal,2022.0,8.0,1858.0,Kharif
+Kamareddy,2022.0,8.0,3392.2,Kharif
+Karimnagar,2022.0,8.0,2696.4,Kharif
+Khammam,2022.0,8.0,4396.3,Kharif
+Kumuram Bheem,2022.0,8.0,4531.2,Kharif
+Mahabubabad,2022.0,8.0,3213.6,Kharif
+Mahabubnagar,2022.0,8.0,3861.7,Kharif
+Mancherial,2022.0,8.0,4415.4,Kharif
+Medak,2022.0,8.0,2573.9,Kharif
+Medchal-Malkajgiri,2022.0,8.0,1549.8,Kharif
+Mulugu,2022.0,8.0,2749.5,Kharif
+Nagarkurnool,2022.0,8.0,3568.1,Kharif
+Nalgonda,2022.0,8.0,4026.5,Kharif
+Narayanpet,2022.0,8.0,2520.2,Kharif
+Nirmal,2022.0,8.0,3003.3,Kharif
+Nizamabad,2022.0,8.0,4023.1,Kharif
+Peddapalli,2022.0,8.0,2654.0,Kharif
+Rajanna Sircilla,2022.0,8.0,1883.5,Kharif
+Rangareddy,2022.0,8.0,4205.7,Kharif
+Sangareddy,2022.0,8.0,2653.8,Kharif
+Siddipet,2022.0,8.0,3910.9,Kharif
+Suryapet,2022.0,8.0,3913.4,Kharif
+Vikarabad,2022.0,8.0,3786.1,Kharif
+Wanaparthy,2022.0,8.0,2641.1,Kharif
+Warangal,2022.0,8.0,2687.4,Kharif
+Yadadri Bhuvanagiri,2022.0,8.0,3266.7,Kharif
+Adilabad,2021.0,12.0,149.0,Rabi
+Bhadradri Kothagudem,2021.0,12.0,150.3,Rabi
+Hanumakkonda,2021.0,12.0,0.0,Rabi
+Hyderabad,2021.0,12.0,4.7,Rabi
+Jagtial,2021.0,12.0,0.0,Rabi
+Jangaon,2021.0,12.0,3.1999999999999997,Rabi
+Jayashankar,2021.0,12.0,0.0,Rabi
+Jogulamba Gadwal,2021.0,12.0,0.0,Rabi
+Kamareddy,2021.0,12.0,0.5,Rabi
+Karimnagar,2021.0,12.0,0.0,Rabi
+Khammam,2021.0,12.0,3.9,Rabi
+Kumuram Bheem,2021.0,12.0,40.1,Rabi
+Mahabubabad,2021.0,12.0,64.3,Rabi
+Mahabubnagar,2021.0,12.0,1.2999999999999998,Rabi
+Mancherial,2021.0,12.0,0.0,Rabi
+Medak,2021.0,12.0,0.5,Rabi
+Medchal-Malkajgiri,2021.0,12.0,16.0,Rabi
+Mulugu,2021.0,12.0,0.0,Rabi
+Nagarkurnool,2021.0,12.0,41.8,Rabi
+Nalgonda,2021.0,12.0,130.4,Rabi
+Narayanpet,2021.0,12.0,3.0,Rabi
+Nirmal,2021.0,12.0,2.8,Rabi
+Nizamabad,2021.0,12.0,24.1,Rabi
+Peddapalli,2021.0,12.0,0.0,Rabi
+Rajanna Sircilla,2021.0,12.0,0.0,Rabi
+Rangareddy,2021.0,12.0,113.89999999999999,Rabi
+Sangareddy,2021.0,12.0,0.0,Rabi
+Siddipet,2021.0,12.0,3.2,Rabi
+Suryapet,2021.0,12.0,51.3,Rabi
+Vikarabad,2021.0,12.0,0.3,Rabi
+Wanaparthy,2021.0,12.0,6.6,Rabi
+Warangal,2021.0,12.0,0.0,Rabi
+Yadadri Bhuvanagiri,2021.0,12.0,11.8,Rabi
+Adilabad,2022.0,12.0,127.1,Rabi
+Bhadradri Kothagudem,2022.0,12.0,34.5,Rabi
+Hanumakonda,2022.0,12.0,9.9,Rabi
+Hyderabad,2022.0,12.0,196.0,Rabi
+Jagtial,2022.0,12.0,2.6,Rabi
+Jangaon,2022.0,12.0,10.6,Rabi
+Jayashankar,2022.0,12.0,23.5,Rabi
+Jogulamba Gadwal,2022.0,12.0,353.9,Rabi
+Kamareddy,2022.0,12.0,0.3,Rabi
+Karimnagar,2022.0,12.0,9.3,Rabi
+Khammam,2022.0,12.0,130.3,Rabi
+Kumuram Bheem,2022.0,12.0,311.0,Rabi
+Mahabubabad,2022.0,12.0,50.9,Rabi
+Mahabubnagar,2022.0,12.0,143.5,Rabi
+Mancherial,2022.0,12.0,74.9,Rabi
+Medak,2022.0,12.0,33.7,Rabi
+Medchal-Malkajgiri,2022.0,12.0,189.3,Rabi
+Mulugu,2022.0,12.0,20.1,Rabi
+Nagarkurnool,2022.0,12.0,445.6,Rabi
+Nalgonda,2022.0,12.0,639.1,Rabi
+Narayanpet,2022.0,12.0,83.4,Rabi
+Nirmal,2022.0,12.0,8.3,Rabi
+Nizamabad,2022.0,12.0,3.0,Rabi
+Peddapalli,2022.0,12.0,22.2,Rabi
+Rajanna Sircilla,2022.0,12.0,6.300000000000001,Rabi
+Rangareddy,2022.0,12.0,319.9,Rabi
+Sangareddy,2022.0,12.0,56.5,Rabi
+Siddipet,2022.0,12.0,17.8,Rabi
+Suryapet,2022.0,12.0,215.7,Rabi
+Vikarabad,2022.0,12.0,63.8,Rabi
+Wanaparthy,2022.0,12.0,257.2,Rabi
+Warangal,2022.0,12.0,38.0,Rabi
+Yadadri Bhuvanagiri,2022.0,12.0,262.7,Rabi
+Adilabad,2022.0,2.0,13.4,Rabi
+Bhadradri Kothagudem,2022.0,2.0,0.0,Rabi
+Hanumakkonda,2022.0,2.0,0.4,Rabi
+Hyderabad,2022.0,2.0,0.0,Rabi
+Jagtial,2022.0,2.0,2.6999999999999997,Rabi
+Jangaon,2022.0,2.0,0.0,Rabi
+Jayashankar,2022.0,2.0,0.0,Rabi
+Jogulamba Gadwal,2022.0,2.0,0.0,Rabi
+Kamareddy,2022.0,2.0,0.0,Rabi
+Karimnagar,2022.0,2.0,0.0,Rabi
+Khammam,2022.0,2.0,0.0,Rabi
+Kumuram Bheem,2022.0,2.0,0.5,Rabi
+Mahabubabad,2022.0,2.0,0.0,Rabi
+Mahabubnagar,2022.0,2.0,0.0,Rabi
+Mancherial,2022.0,2.0,23.3,Rabi
+Medak,2022.0,2.0,0.0,Rabi
+Medchal-Malkajgiri,2022.0,2.0,0.0,Rabi
+Mulugu,2022.0,2.0,0.0,Rabi
+Nagarkurnool,2022.0,2.0,0.0,Rabi
+Nalgonda,2022.0,2.0,0.0,Rabi
+Narayanpet,2022.0,2.0,0.0,Rabi
+Nirmal,2022.0,2.0,3.5999999999999996,Rabi
+Nizamabad,2022.0,2.0,0.4,Rabi
+Peddapalli,2022.0,2.0,0.0,Rabi
+Rajanna Sircilla,2022.0,2.0,0.3,Rabi
+Rangareddy,2022.0,2.0,0.0,Rabi
+Sangareddy,2022.0,2.0,0.0,Rabi
+Siddipet,2022.0,2.0,0.0,Rabi
+Suryapet,2022.0,2.0,0.0,Rabi
+Vikarabad,2022.0,2.0,0.0,Rabi
+Wanaparthy,2022.0,2.0,0.0,Rabi
+Warangal,2022.0,2.0,0.0,Rabi
+Yadadri Bhuvanagiri,2022.0,2.0,0.0,Rabi
+Adilabad,2022.0,1.0,685.1,Rabi
+Bhadradri Kothagudem,2022.0,1.0,693.1,Rabi
+Hanumakkonda,2022.0,1.0,909.3,Rabi
+Hyderabad,2022.0,1.0,234.3,Rabi
+Jagtial,2022.0,1.0,764.8,Rabi
+Jangaon,2022.0,1.0,788.6,Rabi
+Jayashankar,2022.0,1.0,649.7,Rabi
+Jogulamba Gadwal,2022.0,1.0,94.7,Rabi
+Kamareddy,2022.0,1.0,350.90000000000003,Rabi
+Karimnagar,2022.0,1.0,909.3,Rabi
+Khammam,2022.0,1.0,624.6,Rabi
+Kumuram Bheem,2022.0,1.0,842.0,Rabi
+Mahabubabad,2022.0,1.0,1123.6,Rabi
+Mahabubnagar,2022.0,1.0,119.2,Rabi
+Mancherial,2022.0,1.0,664.1,Rabi
+Medak,2022.0,1.0,240.8,Rabi
+Medchal-Malkajgiri,2022.0,1.0,306.9,Rabi
+Mulugu,2022.0,1.0,655.8,Rabi
+Nagarkurnool,2022.0,1.0,296.7,Rabi
+Nalgonda,2022.0,1.0,1523.5,Rabi
+Narayanpet,2022.0,1.0,10.299999999999999,Rabi
+Nirmal,2022.0,1.0,561.2,Rabi
+Nizamabad,2022.0,1.0,586.2,Rabi
+Peddapalli,2022.0,1.0,773.7,Rabi
+Rajanna Sircilla,2022.0,1.0,544.5,Rabi
+Rangareddy,2022.0,1.0,186.70000000000002,Rabi
+Sangareddy,2022.0,1.0,79.0,Rabi
+Siddipet,2022.0,1.0,1023.8,Rabi
+Suryapet,2022.0,1.0,1254.8,Rabi
+Vikarabad,2022.0,1.0,20.299999999999997,Rabi
+Wanaparthy,2022.0,1.0,134.8,Rabi
+Warangal,2022.0,1.0,1650.7,Rabi
+Yadadri Bhuvanagiri,2022.0,1.0,418.4,Rabi
+Adilabad,2021.0,7.0,8098.4,Kharif
+Bhadradri Kothagudem,2021.0,7.0,9107.8,Kharif
+Hyderabad,2021.0,7.0,4682.0,Kharif
+Jagtial,2021.0,7.0,8924.0,Kharif
+Jangaon,2021.0,7.0,4554.1,Kharif
+Jayashankar,2021.0,7.0,4149.8,Kharif
+Jogulamba Gadwal,2021.0,7.0,2175.5,Kharif
+Kamareddy,2021.0,7.0,7861.4,Kharif
+Karimnagar,2021.0,7.0,6319.4,Kharif
+Khammam,2021.0,7.0,8464.1,Kharif
+Kumuram Bheem,2021.0,7.0,7169.8,Kharif
+Mahabubabad,2021.0,7.0,6263.9,Kharif
+Mahabubnagar,2021.0,7.0,4092.2,Kharif
+Mancherial,2021.0,7.0,6619.3,Kharif
+Medak,2021.0,7.0,6904.2,Kharif
+Medchal-Malkajgiri,2021.0,7.0,3875.3,Kharif
+Mulugu,2021.0,7.0,3874.6,Kharif
+Nagarkurnool,2021.0,7.0,3533.2,Kharif
+Nalgonda,2021.0,7.0,6791.7,Kharif
+Narayanpet,2021.0,7.0,3107.8,Kharif
+Nirmal,2021.0,7.0,10696.9,Kharif
+Nizamabad,2021.0,7.0,14919.0,Kharif
+Peddapalli,2021.0,7.0,4067.4,Kharif
+Rajanna Sircilla,2021.0,7.0,5288.6,Kharif
+Rangareddy,2021.0,7.0,8519.9,Kharif
+Sangareddy,2021.0,7.0,6397.2,Kharif
+Siddipet,2021.0,7.0,8979.2,Kharif
+Suryapet,2021.0,7.0,6239.9,Kharif
+Vikarabad,2021.0,7.0,6334.8,Kharif
+Wanaparthy,2021.0,7.0,4371.9,Kharif
+Warangal Rural,2021.0,7.0,7122.7,Kharif
+Warangal Urban,2021.0,7.0,4265.1,Kharif
+Yadadri Bhuvanagiri,2021.0,7.0,4794.0,Kharif
+Adilabad,2022.0,7.0,15602.4,Kharif
+Bhadradri Kothagudem,2022.0,7.0,13358.0,Kharif
+Hanumakonda,2022.0,7.0,6689.4,Kharif
+Hyderabad,2022.0,7.0,5908.8,Kharif
+Jagtial,2022.0,7.0,16141.6,Kharif
+Jangaon,2022.0,7.0,5183.2,Kharif
+Jayashankar,2022.0,7.0,9070.4,Kharif
+Jogulamba Gadwal,2022.0,7.0,2189.7,Kharif
+Kamareddy,2022.0,7.0,12717.2,Kharif
+Karimnagar,2022.0,7.0,11040.1,Kharif
+Khammam,2022.0,7.0,8112.4,Kharif
+Kumuram Bheem,2022.0,7.0,13189.2,Kharif
+Mahabubabad,2022.0,7.0,8813.4,Kharif
+Mahabubnagar,2022.0,7.0,4364.6,Kharif
+Mancherial,2022.0,7.0,14806.2,Kharif
+Medak,2022.0,7.0,11516.5,Kharif
+Medchal-Malkajgiri,2022.0,7.0,6263.6,Kharif
+Mulugu,2022.0,7.0,7992.2,Kharif
+Nagarkurnool,2022.0,7.0,4433.5,Kharif
+Nalgonda,2022.0,7.0,7686.5,Kharif
+Narayanpet,2022.0,7.0,2971.1,Kharif
+Nirmal,2022.0,7.0,19506.4,Kharif
+Nizamabad,2022.0,7.0,27849.8,Kharif
+Peddapalli,2022.0,7.0,11116.6,Kharif
+Rajanna Sircilla,2022.0,7.0,7697.6,Kharif
+Rangareddy,2022.0,7.0,9344.3,Kharif
+Sangareddy,2022.0,7.0,12390.2,Kharif
+Siddipet,2022.0,7.0,11250.0,Kharif
+Suryapet,2022.0,7.0,8204.9,Kharif
+Vikarabad,2022.0,7.0,7432.7,Kharif
+Wanaparthy,2022.0,7.0,3043.8,Kharif
+Warangal,2022.0,7.0,6597.9,Kharif
+Yadadri Bhuvanagiri,2022.0,7.0,4969.6,Kharif
+Adilabad,2021.0,6.0,5737.0,Kharif
+Bhadradri Kothagudem,2021.0,6.0,2940.1,Kharif
+Hyderabad,2021.0,6.0,1699.4,Kharif
+Jagtial,2021.0,6.0,3799.9,Kharif
+Jangaon,2021.0,6.0,2729.1,Kharif
+Jayashankar,2021.0,6.0,2474.0,Kharif
+Jogulamba Gadwal,2021.0,6.0,1057.6,Kharif
+Kamareddy,2021.0,6.0,6666.9,Kharif
+Karimnagar,2021.0,6.0,3867.6,Kharif
+Khammam,2021.0,6.0,3082.2,Kharif
+Kumuram Bheem,2021.0,6.0,4280.1,Kharif
+Mahabubabad,2021.0,6.0,3935.7,Kharif
+Mahabubnagar,2021.0,6.0,1717.2,Kharif
+Mancherial,2021.0,6.0,4053.3,Kharif
+Medak,2021.0,6.0,3719.1,Kharif
+Medchal-Malkajgiri,2021.0,6.0,2591.9,Kharif
+Mulugu,2021.0,6.0,1819.2,Kharif
+Nagarkurnool,2021.0,6.0,1812.3,Kharif
+Nalgonda,2021.0,6.0,4134.1,Kharif
+Narayanpet,2021.0,6.0,1565.2,Kharif
+Nirmal,2021.0,6.0,4550.9,Kharif
+Nizamabad,2021.0,6.0,7677.9,Kharif
+Peddapalli,2021.0,6.0,3543.1,Kharif
+Rajanna Sircilla,2021.0,6.0,3672.7000000000003,Kharif
+Rangareddy,2021.0,6.0,2437.8,Kharif
+Sangareddy,2021.0,6.0,5110.9,Kharif
+Siddipet,2021.0,6.0,6265.5,Kharif
+Suryapet,2021.0,6.0,3059.0,Kharif
+Vikarabad,2021.0,6.0,1813.8,Kharif
+Wanaparthy,2021.0,6.0,1075.2,Kharif
+Warangal Rural,2021.0,6.0,4570.8,Kharif
+Warangal Urban,2021.0,6.0,3189.7,Kharif
+Yadadri Bhuvanagiri,2021.0,6.0,3023.9,Kharif
+Adilabad,2022.0,6.0,3116.2,Kharif
+Bhadradri Kothagudem,2022.0,6.0,4729.6,Kharif
+Hanumakonda,2022.0,6.0,2680.0,Kharif
+Hyderabad,2022.0,6.0,1262.9,Kharif
+Jagtial,2022.0,6.0,3517.5,Kharif
+Jangaon,2022.0,6.0,2560.2,Kharif
+Jayashankar,2022.0,6.0,2336.4,Kharif
+Jogulamba Gadwal,2022.0,6.0,677.1999999999999,Kharif
+Kamareddy,2022.0,6.0,4113.4,Kharif
+Karimnagar,2022.0,6.0,2955.9,Kharif
+Khammam,2022.0,6.0,2459.1,Kharif
+Kumuram Bheem,2022.0,6.0,3309.4,Kharif
+Mahabubabad,2022.0,6.0,3095.3,Kharif
+Mahabubnagar,2022.0,6.0,1698.8,Kharif
+Mancherial,2022.0,6.0,3109.9,Kharif
+Medak,2022.0,6.0,2917.5,Kharif
+Medchal-Malkajgiri,2022.0,6.0,2178.4,Kharif
+Mulugu,2022.0,6.0,2103.8,Kharif
+Nagarkurnool,2022.0,6.0,1975.8999999999999,Kharif
+Nalgonda,2022.0,6.0,2874.8,Kharif
+Narayanpet,2022.0,6.0,879.5,Kharif
+Nirmal,2022.0,6.0,3318.3,Kharif
+Nizamabad,2022.0,6.0,4018.3,Kharif
+Peddapalli,2022.0,6.0,2609.9,Kharif
+Rajanna Sircilla,2022.0,6.0,1822.9,Kharif
+Rangareddy,2022.0,6.0,3402.3,Kharif
+Sangareddy,2022.0,6.0,4053.1,Kharif
+Siddipet,2022.0,6.0,3011.8,Kharif
+Suryapet,2022.0,6.0,2405.6,Kharif
+Vikarabad,2022.0,6.0,1746.1,Kharif
+Wanaparthy,2022.0,6.0,1309.7,Kharif
+Warangal,2022.0,6.0,2587.7,Kharif
+Yadadri Bhuvanagiri,2022.0,6.0,2331.7,Kharif
+Adilabad,2022.0,3.0,3.0,Zaid
+Bhadradri Kothagudem,2022.0,3.0,215.5,Zaid
+Hanumakkonda,2022.0,3.0,0.0,Zaid
+Hyderabad,2022.0,3.0,30.7,Zaid
+Jagtial,2022.0,3.0,26.6,Zaid
+Jangaon,2022.0,3.0,0.0,Zaid
+Jayashankar,2022.0,3.0,12.8,Zaid
+Jogulamba Gadwal,2022.0,3.0,12.4,Zaid
+Kamareddy,2022.0,3.0,12.8,Zaid
+Karimnagar,2022.0,3.0,0.0,Zaid
+Khammam,2022.0,3.0,18.400000000000002,Zaid
+Kumuram Bheem,2022.0,3.0,6.0,Zaid
+Mahabubabad,2022.0,3.0,12.6,Zaid
+Mahabubnagar,2022.0,3.0,35.1,Zaid
+Mancherial,2022.0,3.0,5.8,Zaid
+Medak,2022.0,3.0,29.5,Zaid
+Medchal-Malkajgiri,2022.0,3.0,39.1,Zaid
+Mulugu,2022.0,3.0,23.0,Zaid
+Nagarkurnool,2022.0,3.0,82.1,Zaid
+Nalgonda,2022.0,3.0,13.0,Zaid
+Narayanpet,2022.0,3.0,29.5,Zaid
+Nirmal,2022.0,3.0,21.8,Zaid
+Nizamabad,2022.0,3.0,5.0,Zaid
+Peddapalli,2022.0,3.0,2.3,Zaid
+Rajanna Sircilla,2022.0,3.0,1.3,Zaid
+Rangareddy,2022.0,3.0,84.3,Zaid
+Sangareddy,2022.0,3.0,35.7,Zaid
+Siddipet,2022.0,3.0,37.4,Zaid
+Suryapet,2022.0,3.0,0.8,Zaid
+Vikarabad,2022.0,3.0,105.7,Zaid
+Wanaparthy,2022.0,3.0,48.9,Zaid
+Warangal,2022.0,3.0,0.8,Zaid
+Yadadri Bhuvanagiri,2022.0,3.0,8.9,Zaid
+Adilabad,2022.0,5.0,496.8,Zaid
+Bhadradri Kothagudem,2022.0,5.0,999.3,Zaid
+Hanumakonda,2022.0,5.0,177.8,Zaid
+Hyderabad,2022.0,5.0,832.7,Zaid
+Jagtial,2022.0,5.0,935.1,Zaid
+Jangaon,2022.0,5.0,369.3,Zaid
+Jayashankar,2022.0,5.0,183.3,Zaid
+Jogulamba Gadwal,2022.0,5.0,521.4,Zaid
+Kamareddy,2022.0,5.0,1405.3,Zaid
+Karimnagar,2022.0,5.0,282.1,Zaid
+Khammam,2022.0,5.0,612.1,Zaid
+Kumuram Bheem,2022.0,5.0,549.1,Zaid
+Mahabubabad,2022.0,5.0,200.0,Zaid
+Mahabubnagar,2022.0,5.0,649.2,Zaid
+Mancherial,2022.0,5.0,756.7,Zaid
+Medak,2022.0,5.0,1158.7,Zaid
+Medchal-Malkajgiri,2022.0,5.0,638.0,Zaid
+Mulugu,2022.0,5.0,140.3,Zaid
+Nagarkurnool,2022.0,5.0,496.8,Zaid
+Nalgonda,2022.0,5.0,1196.5,Zaid
+Narayanpet,2022.0,5.0,599.2,Zaid
+Nirmal,2022.0,5.0,562.3,Zaid
+Nizamabad,2022.0,5.0,897.3,Zaid
+Peddapalli,2022.0,5.0,309.7,Zaid
+Rajanna Sircilla,2022.0,5.0,420.5,Zaid
+Rangareddy,2022.0,5.0,820.6999999999999,Zaid
+Sangareddy,2022.0,5.0,1081.7,Zaid
+Siddipet,2022.0,5.0,768.1,Zaid
+Suryapet,2022.0,5.0,421.2,Zaid
+Vikarabad,2022.0,5.0,1707.6,Zaid
+Wanaparthy,2022.0,5.0,572.3,Zaid
+Warangal,2022.0,5.0,126.0,Zaid
+Yadadri Bhuvanagiri,2022.0,5.0,694.6,Zaid
+Adilabad,2021.0,5.0,712.1,Zaid
+Bhadradri Kothagudem,2021.0,5.0,1394.3,Zaid
+Hyderabad,2021.0,5.0,833.2,Zaid
+Jagtial,2021.0,5.0,115.3,Zaid
+Jangaon,2021.0,5.0,219.79999999999998,Zaid
+Jayashankar,2021.0,5.0,328.3,Zaid
+Jogulamba Gadwal,2021.0,5.0,823.9,Zaid
+Kamareddy,2021.0,5.0,949.8,Zaid
+Karimnagar,2021.0,5.0,180.9,Zaid
+Khammam,2021.0,5.0,1417.2,Zaid
+Kumuram Bheem,2021.0,5.0,560.1,Zaid
+Mahabubabad,2021.0,5.0,778.9,Zaid
+Mahabubnagar,2021.0,5.0,695.9,Zaid
+Mancherial,2021.0,5.0,394.8,Zaid
+Medak,2021.0,5.0,492.2,Zaid
+Medchal-Malkajgiri,2021.0,5.0,666.7,Zaid
+Mulugu,2021.0,5.0,427.8,Zaid
+Nagarkurnool,2021.0,5.0,1142.6,Zaid
+Nalgonda,2021.0,5.0,914.9,Zaid
+Narayanpet,2021.0,5.0,881.1,Zaid
+Nirmal,2021.0,5.0,602.2,Zaid
+Nizamabad,2021.0,5.0,826.4,Zaid
+Peddapalli,2021.0,5.0,138.7,Zaid
+Rajanna Sircilla,2021.0,5.0,376.5,Zaid
+Rangareddy,2021.0,5.0,1261.4,Zaid
+Sangareddy,2021.0,5.0,1169.1,Zaid
+Siddipet,2021.0,5.0,641.3,Zaid
+Suryapet,2021.0,5.0,875.8,Zaid
+Vikarabad,2021.0,5.0,797.7,Zaid
+Wanaparthy,2021.0,5.0,815.4,Zaid
+Warangal Rural,2021.0,5.0,385.0,Zaid
+Warangal Urban,2021.0,5.0,446.8,Zaid
+Yadadri Bhuvanagiri,2021.0,5.0,533.1,Zaid
+Adilabad,2021.0,11.0,429.6,Rabi
+Bhadradri Kothagudem,2021.0,11.0,776.1,Rabi
+Hanumakkonda,2021.0,11.0,577.3000000000001,Rabi
+Hyderabad,2021.0,11.0,231.0,Rabi
+Jagtial,2021.0,11.0,137.20000000000002,Rabi
+Jangaon,2021.0,11.0,608.5,Rabi
+Jayashankar,2021.0,11.0,395.4,Rabi
+Jogulamba Gadwal,2021.0,11.0,637.2,Rabi
+Kamareddy,2021.0,11.0,1013.3,Rabi
+Karimnagar,2021.0,11.0,392.9,Rabi
+Khammam,2021.0,11.0,936.9,Rabi
+Kumuram Bheem,2021.0,11.0,370.9,Rabi
+Mahabubabad,2021.0,11.0,931.7,Rabi
+Mahabubnagar,2021.0,11.0,285.8,Rabi
+Mancherial,2021.0,11.0,438.1,Rabi
+Medak,2021.0,11.0,375.09999999999997,Rabi
+Medchal-Malkajgiri,2021.0,11.0,295.2,Rabi
+Mulugu,2021.0,11.0,239.3,Rabi
+Nagarkurnool,2021.0,11.0,789.3,Rabi
+Nalgonda,2021.0,11.0,2120.5,Rabi
+Narayanpet,2021.0,11.0,360.5,Rabi
+Nirmal,2021.0,11.0,162.9,Rabi
+Nizamabad,2021.0,11.0,286.2,Rabi
+Peddapalli,2021.0,11.0,413.8,Rabi
+Rajanna Sircilla,2021.0,11.0,493.0,Rabi
+Rangareddy,2021.0,11.0,931.4,Rabi
+Sangareddy,2021.0,11.0,384.6,Rabi
+Siddipet,2021.0,11.0,455.4,Rabi
+Suryapet,2021.0,11.0,898.9,Rabi
+Vikarabad,2021.0,11.0,310.5,Rabi
+Wanaparthy,2021.0,11.0,612.9,Rabi
+Warangal,2021.0,11.0,603.9,Rabi
+Yadadri Bhuvanagiri,2021.0,11.0,674.5,Rabi
+Adilabad,2022.0,11.0,0.0,Rabi
+Bhadradri Kothagudem,2022.0,11.0,0.0,Rabi
+Hanumakonda,2022.0,11.0,0.0,Rabi
+Hyderabad,2022.0,11.0,0.0,Rabi
+Jagtial,2022.0,11.0,0.0,Rabi
+Jangaon,2022.0,11.0,0.0,Rabi
+Jayashankar,2022.0,11.0,0.0,Rabi
+Jogulamba Gadwal,2022.0,11.0,0.0,Rabi
+Kamareddy,2022.0,11.0,0.0,Rabi
+Karimnagar,2022.0,11.0,0.0,Rabi
+Khammam,2022.0,11.0,0.0,Rabi
+Kumuram Bheem,2022.0,11.0,0.0,Rabi
+Mahabubabad,2022.0,11.0,0.0,Rabi
+Mahabubnagar,2022.0,11.0,0.0,Rabi
+Mancherial,2022.0,11.0,0.0,Rabi
+Medak,2022.0,11.0,0.0,Rabi
+Medchal-Malkajgiri,2022.0,11.0,0.0,Rabi
+Mulugu,2022.0,11.0,0.0,Rabi
+Nagarkurnool,2022.0,11.0,0.0,Rabi
+Nalgonda,2022.0,11.0,0.0,Rabi
+Narayanpet,2022.0,11.0,0.0,Rabi
+Nirmal,2022.0,11.0,0.0,Rabi
+Nizamabad,2022.0,11.0,0.0,Rabi
+Peddapalli,2022.0,11.0,0.0,Rabi
+Rajanna Sircilla,2022.0,11.0,0.0,Rabi
+Rangareddy,2022.0,11.0,0.0,Rabi
+Sangareddy,2022.0,11.0,0.0,Rabi
+Siddipet,2022.0,11.0,0.0,Rabi
+Suryapet,2022.0,11.0,0.0,Rabi
+Vikarabad,2022.0,11.0,0.0,Rabi
+Wanaparthy,2022.0,11.0,0.0,Rabi
+Warangal,2022.0,11.0,0.0,Rabi
+Yadadri Bhuvanagiri,2022.0,11.0,0.0,Rabi
+Adilabad,2021.0,10.0,1180.8,Rabi
+Bhadradri Kothagudem,2021.0,10.0,2160.2,Rabi
+Hanumakkonda,2021.0,10.0,365.8,Rabi
+Hyderabad,2021.0,10.0,2063.5,Rabi
+Jagtial,2021.0,10.0,1272.9,Rabi
+Jangaon,2021.0,10.0,509.0,Rabi
+Jayashankar,2021.0,10.0,441.1,Rabi
+Jogulamba Gadwal,2021.0,10.0,978.9,Rabi
+Kamareddy,2021.0,10.0,816.5,Rabi
+Karimnagar,2021.0,10.0,836.5,Rabi
+Khammam,2021.0,10.0,1153.9,Rabi
+Kumuram Bheem,2021.0,10.0,1013.8,Rabi
+Mahabubabad,2021.0,10.0,780.6,Rabi
+Mahabubnagar,2021.0,10.0,982.0,Rabi
+Mancherial,2021.0,10.0,606.3,Rabi
+Medak,2021.0,10.0,1216.3999999999999,Rabi
+Medchal-Malkajgiri,2021.0,10.0,990.5,Rabi
+Mulugu,2021.0,10.0,525.8,Rabi
+Nagarkurnool,2021.0,10.0,1556.2,Rabi
+Nalgonda,2021.0,10.0,1668.6,Rabi
+Narayanpet,2021.0,10.0,966.1,Rabi
+Nirmal,2021.0,10.0,1111.7,Rabi
+Nizamabad,2021.0,10.0,1700.1,Rabi
+Peddapalli,2021.0,10.0,326.1,Rabi
+Rajanna Sircilla,2021.0,10.0,760.4,Rabi
+Rangareddy,2021.0,10.0,2649.2,Rabi
+Sangareddy,2021.0,10.0,1190.5,Rabi
+Siddipet,2021.0,10.0,1047.1000000000001,Rabi
+Suryapet,2021.0,10.0,1245.3,Rabi
+Vikarabad,2021.0,10.0,1196.1,Rabi
+Wanaparthy,2021.0,10.0,1058.1,Rabi
+Warangal,2021.0,10.0,495.7,Rabi
+Yadadri Bhuvanagiri,2021.0,10.0,1057.3,Rabi
+Adilabad,2022.0,10.0,1799.4,Rabi
+Bhadradri Kothagudem,2022.0,10.0,2748.3,Rabi
+Hanumakonda,2022.0,10.0,2143.5,Rabi
+Hyderabad,2022.0,10.0,2172.8,Rabi
+Jagtial,2022.0,10.0,962.6,Rabi
+Jangaon,2022.0,10.0,1515.8,Rabi
+Jayashankar,2022.0,10.0,951.2,Rabi
+Jogulamba Gadwal,2022.0,10.0,1329.7,Rabi
+Kamareddy,2022.0,10.0,2647.0,Rabi
+Karimnagar,2022.0,10.0,1808.8,Rabi
+Khammam,2022.0,10.0,2437.4,Rabi
+Kumuram Bheem,2022.0,10.0,1039.0,Rabi
+Mahabubabad,2022.0,10.0,1693.1,Rabi
+Mahabubnagar,2022.0,10.0,2749.4,Rabi
+Mancherial,2022.0,10.0,1078.7,Rabi
+Medak,2022.0,10.0,2331.0,Rabi
+Medchal-Malkajgiri,2022.0,10.0,2064.9,Rabi
+Mulugu,2022.0,10.0,915.1,Rabi
+Nagarkurnool,2022.0,10.0,3134.8,Rabi
+Nalgonda,2022.0,10.0,4374.3,Rabi
+Narayanpet,2022.0,10.0,1587.4,Rabi
+Nirmal,2022.0,10.0,1474.1,Rabi
+Nizamabad,2022.0,10.0,2068.6,Rabi
+Peddapalli,2022.0,10.0,1112.1,Rabi
+Rajanna Sircilla,2022.0,10.0,1562.2,Rabi
+Rangareddy,2022.0,10.0,4394.9,Rabi
+Sangareddy,2022.0,10.0,3726.7,Rabi
+Siddipet,2022.0,10.0,3440.0,Rabi
+Suryapet,2022.0,10.0,2598.2,Rabi
+Vikarabad,2022.0,10.0,3084.7,Rabi
+Wanaparthy,2022.0,10.0,2260.9,Rabi
+Warangal,2022.0,10.0,1853.9,Rabi
+Yadadri Bhuvanagiri,2022.0,10.0,1381.9,Rabi
+Adilabad,2021.0,9.0,6331.8,Kharif
+Bhadradri Kothagudem,2021.0,9.0,9796.7,Kharif
+Hyderabad,2021.0,9.0,3584.1,Kharif
+Jagtial,2021.0,9.0,6631.4,Kharif
+Jangaon,2021.0,9.0,2297.4,Kharif
+Jayashankar,2021.0,9.0,4202.6,Kharif
+Jogulamba Gadwal,2021.0,9.0,657.9,Kharif
+Kamareddy,2021.0,9.0,7775.0,Kharif
+Karimnagar,2021.0,9.0,5721.2,Kharif
+Khammam,2021.0,9.0,6003.1,Kharif
+Kumuram Bheem,2021.0,9.0,4774.3,Kharif
+Mahabubabad,2021.0,9.0,4560.4,Kharif
+Mahabubnagar,2021.0,9.0,3081.0,Kharif
+Mancherial,2021.0,9.0,4353.6,Kharif
+Medak,2021.0,9.0,6543.1,Kharif
+Medchal-Malkajgiri,2021.0,9.0,3564.5,Kharif
+Mulugu,2021.0,9.0,3262.4,Kharif
+Nagarkurnool,2021.0,9.0,2315.3,Kharif
+Nalgonda,2021.0,9.0,5479.3,Kharif
+Narayanpet,2021.0,9.0,1603.9,Kharif
+Nirmal,2021.0,9.0,7429.3,Kharif
+Nizamabad,2021.0,9.0,12390.7,Kharif
+Peddapalli,2021.0,9.0,4766.5,Kharif
+Rajanna Sircilla,2021.0,9.0,5991.5,Kharif
+Rangareddy,2021.0,9.0,5605.8,Kharif
+Sangareddy,2021.0,9.0,8052.3,Kharif
+Siddipet,2021.0,9.0,5869.1,Kharif
+Suryapet,2021.0,9.0,4300.3,Kharif
+Vikarabad,2021.0,9.0,4474.8,Kharif
+Wanaparthy,2021.0,9.0,1311.6,Kharif
+Warangal Rural,2021.0,9.0,5511.5,Kharif
+Warangal Urban,2021.0,9.0,3327.2999999999997,Kharif
+Yadadri Bhuvanagiri,2021.0,9.0,3242.0,Kharif
+Adilabad,2022.0,9.0,4242.9,Kharif
+Bhadradri Kothagudem,2022.0,9.0,6498.6,Kharif
+Hanumakonda,2022.0,9.0,2860.9,Kharif
+Hyderabad,2022.0,9.0,3167.5,Kharif
+Jagtial,2022.0,9.0,5047.3,Kharif
+Jangaon,2022.0,9.0,2399.9,Kharif
+Jayashankar,2022.0,9.0,3856.9,Kharif
+Jogulamba Gadwal,2022.0,9.0,1962.3,Kharif
+Kamareddy,2022.0,9.0,5297.8,Kharif
+Karimnagar,2022.0,9.0,3343.1,Kharif
+Khammam,2022.0,9.0,3275.5,Kharif
+Kumuram Bheem,2022.0,9.0,5042.2,Kharif
+Mahabubabad,2022.0,9.0,3125.4,Kharif
+Mahabubnagar,2022.0,9.0,2316.4,Kharif
+Mancherial,2022.0,9.0,5825.7,Kharif
+Medak,2022.0,9.0,4633.0,Kharif
+Medchal-Malkajgiri,2022.0,9.0,3010.0,Kharif
+Mulugu,2022.0,9.0,3424.7,Kharif
+Nagarkurnool,2022.0,9.0,3249.9,Kharif
+Nalgonda,2022.0,9.0,4226.5,Kharif
+Narayanpet,2022.0,9.0,1492.1,Kharif
+Nirmal,2022.0,9.0,6040.2,Kharif
+Nizamabad,2022.0,9.0,8737.9,Kharif
+Peddapalli,2022.0,9.0,3543.7,Kharif
+Rajanna Sircilla,2022.0,9.0,3679.6,Kharif
+Rangareddy,2022.0,9.0,4491.2,Kharif
+Sangareddy,2022.0,9.0,5203.8,Kharif
+Siddipet,2022.0,9.0,4869.2,Kharif
+Suryapet,2022.0,9.0,3248.1,Kharif
+Vikarabad,2022.0,9.0,3627.3,Kharif
+Wanaparthy,2022.0,9.0,1746.6,Kharif
+Warangal,2022.0,9.0,2624.3,Kharif
+Yadadri Bhuvanagiri,2022.0,9.0,3068.5,Kharif
+Adilabad,2023.0,4.0,1002.4,Zaid
+Bhadradri Kothagudem,2023.0,4.0,1001.5,Zaid
+Hanumakonda,2023.0,4.0,793.8,Zaid
+Hyderabad,2023.0,4.0,1418.0,Zaid
+Jagtial,2023.0,4.0,748.1,Zaid
+Jangaon,2023.0,4.0,991.2,Zaid
+Jayashankar,2023.0,4.0,183.1,Zaid
+Jogulamba Gadwal,2023.0,4.0,757.6,Zaid
+Kamareddy,2023.0,4.0,1395.2,Zaid
+Karimnagar,2023.0,4.0,931.6,Zaid
+Khammam,2023.0,4.0,382.09999999999997,Zaid
+Kumuram Bheem,2023.0,4.0,656.8,Zaid
+Mahabubabad,2023.0,4.0,755.2,Zaid
+Mahabubnagar,2023.0,4.0,1049.8,Zaid
+Mancherial,2023.0,4.0,333.5,Zaid
+Medak,2023.0,4.0,992.5,Zaid
+Medchal-Malkajgiri,2023.0,4.0,1181.4,Zaid
+Mulugu,2023.0,4.0,506.8,Zaid
+Nagarkurnool,2023.0,4.0,1100.9,Zaid
+Nalgonda,2023.0,4.0,723.5,Zaid
+Narayanpet,2023.0,4.0,628.3,Zaid
+Nirmal,2023.0,4.0,961.0,Zaid
+Nizamabad,2023.0,4.0,1794.6,Zaid
+Peddapalli,2023.0,4.0,272.4,Zaid
+Rajanna Sircilla,2023.0,4.0,740.5,Zaid
+Rangareddy,2023.0,4.0,1645.1,Zaid
+Sangareddy,2023.0,4.0,1723.3,Zaid
+Siddipet,2023.0,4.0,1689.1,Zaid
+Suryapet,2023.0,4.0,614.2,Zaid
+Vikarabad,2023.0,4.0,1155.8,Zaid
+Wanaparthy,2023.0,4.0,983.9,Zaid
+Warangal,2023.0,4.0,798.1,Zaid
+Yadadri Bhuvanagiri,2023.0,4.0,1085.0,Zaid
+Adilabad,2024.0,4.0,552.0,Zaid
+Bhadradri Kothagudem,2024.0,4.0,319.1,Zaid
+Hanumakonda,2024.0,4.0,56.800000000000004,Zaid
+Hyderabad,2024.0,4.0,120.8,Zaid
+Jagtial,2024.0,4.0,58.1,Zaid
+Jangaon,2024.0,4.0,184.4,Zaid
+Jayashankar,2024.0,4.0,0.0,Zaid
+Jogulamba Gadwal,2024.0,4.0,17.4,Zaid
+Kamareddy,2024.0,4.0,784.2,Zaid
+Karimnagar,2024.0,4.0,24.1,Zaid
+Khammam,2024.0,4.0,115.2,Zaid
+Kumuram Bheem,2024.0,4.0,215.5,Zaid
+Mahabubabad,2024.0,4.0,79.19999999999999,Zaid
+Mahabubnagar,2024.0,4.0,22.6,Zaid
+Mancherial,2024.0,4.0,36.7,Zaid
+Medak,2024.0,4.0,290.5,Zaid
+Medchal-Malkajgiri,2024.0,4.0,52.199999999999996,Zaid
+Mulugu,2024.0,4.0,12.2,Zaid
+Nagarkurnool,2024.0,4.0,84.7,Zaid
+Nalgonda,2024.0,4.0,135.79999999999998,Zaid
+Narayanpet,2024.0,4.0,83.5,Zaid
+Nirmal,2024.0,4.0,396.2,Zaid
+Nizamabad,2024.0,4.0,780.4,Zaid
+Peddapalli,2024.0,4.0,15.799999999999999,Zaid
+Rajanna Sircilla,2024.0,4.0,77.1,Zaid
+Rangareddy,2024.0,4.0,272.6,Zaid
+Sangareddy,2024.0,4.0,547.5,Zaid
+Siddipet,2024.0,4.0,291.4,Zaid
+Suryapet,2024.0,4.0,30.1,Zaid
+Vikarabad,2024.0,4.0,199.8,Zaid
+Wanaparthy,2024.0,4.0,31.5,Zaid
+Warangal,2024.0,4.0,8.1,Zaid
+Yadadri Bhuvanagiri,2024.0,4.0,199.29999999999998,Zaid
+Adilabad,2023.0,8.0,2227.1,Kharif
+Bhadradri Kothagudem,2023.0,8.0,3342.3,Kharif
+Hanumakonda,2023.0,8.0,700.4,Kharif
+Hyderabad,2023.0,8.0,733.6,Kharif
+Jagtial,2023.0,8.0,2477.0,Kharif
+Jangaon,2023.0,8.0,423.0,Kharif
+Jayashankar,2023.0,8.0,1465.6,Kharif
+Jogulamba Gadwal,2023.0,8.0,393.9,Kharif
+Kamareddy,2023.0,8.0,2478.7,Kharif
+Karimnagar,2023.0,8.0,1538.2,Kharif
+Khammam,2023.0,8.0,1366.9,Kharif
+Kumuram Bheem,2023.0,8.0,2041.6,Kharif
+Mahabubabad,2023.0,8.0,765.3,Kharif
+Mahabubnagar,2023.0,8.0,501.8,Kharif
+Mancherial,2023.0,8.0,1945.2,Kharif
+Medak,2023.0,8.0,1307.8,Kharif
+Medchal-Malkajgiri,2023.0,8.0,778.6,Kharif
+Mulugu,2023.0,8.0,1560.4,Kharif
+Nagarkurnool,2023.0,8.0,529.7,Kharif
+Nalgonda,2023.0,8.0,1911.0,Kharif
+Narayanpet,2023.0,8.0,521.9,Kharif
+Nirmal,2023.0,8.0,2287.0,Kharif
+Nizamabad,2023.0,8.0,4799.8,Kharif
+Peddapalli,2023.0,8.0,1898.9,Kharif
+Rajanna Sircilla,2023.0,8.0,1359.9,Kharif
+Rangareddy,2023.0,8.0,929.7,Kharif
+Sangareddy,2023.0,8.0,955.6,Kharif
+Siddipet,2023.0,8.0,1034.7,Kharif
+Suryapet,2023.0,8.0,1030.3,Kharif
+Vikarabad,2023.0,8.0,419.1,Kharif
+Wanaparthy,2023.0,8.0,514.4,Kharif
+Warangal,2023.0,8.0,973.5,Kharif
+Yadadri Bhuvanagiri,2023.0,8.0,929.0,Kharif
+Adilabad,2023.0,12.0,27.6,Rabi
+Bhadradri Kothagudem,2023.0,12.0,4068.7999999999997,Rabi
+Hanumakonda,2023.0,12.0,171.7,Rabi
+Hyderabad,2023.0,12.0,62.7,Rabi
+Jagtial,2023.0,12.0,44.9,Rabi
+Jangaon,2023.0,12.0,119.1,Rabi
+Jayashankar,2023.0,12.0,146.3,Rabi
+Jogulamba Gadwal,2023.0,12.0,26.5,Rabi
+Kamareddy,2023.0,12.0,21.5,Rabi
+Karimnagar,2023.0,12.0,114.1,Rabi
+Khammam,2023.0,12.0,2300.1,Rabi
+Kumuram Bheem,2023.0,12.0,54.5,Rabi
+Mahabubabad,2023.0,12.0,917.9,Rabi
+Mahabubnagar,2023.0,12.0,0.0,Rabi
+Mancherial,2023.0,12.0,48.1,Rabi
+Medak,2023.0,12.0,45.8,Rabi
+Medchal-Malkajgiri,2023.0,12.0,82.39999999999999,Rabi
+Mulugu,2023.0,12.0,542.3,Rabi
+Nagarkurnool,2023.0,12.0,198.1,Rabi
+Nalgonda,2023.0,12.0,719.0,Rabi
+Narayanpet,2023.0,12.0,2.0,Rabi
+Nirmal,2023.0,12.0,10.0,Rabi
+Nizamabad,2023.0,12.0,25.3,Rabi
+Peddapalli,2023.0,12.0,67.7,Rabi
+Rajanna Sircilla,2023.0,12.0,40.1,Rabi
+Rangareddy,2023.0,12.0,94.4,Rabi
+Sangareddy,2023.0,12.0,50.5,Rabi
+Siddipet,2023.0,12.0,198.4,Rabi
+Suryapet,2023.0,12.0,1054.7,Rabi
+Vikarabad,2023.0,12.0,7.2,Rabi
+Wanaparthy,2023.0,12.0,25.6,Rabi
+Warangal,2023.0,12.0,364.09999999999997,Rabi
+Yadadri Bhuvanagiri,2023.0,12.0,137.7,Rabi
+Adilabad,2024.0,12.0,125.6,Rabi
+Bhadradri Kothagudem,2024.0,12.0,311.3,Rabi
+Hanumakonda,2024.0,12.0,237.3,Rabi
+Hyderabad,2024.0,12.0,228.5,Rabi
+Jagtial,2024.0,12.0,261.2,Rabi
+Jangaon,2024.0,12.0,298.90000000000003,Rabi
+Jayashankar,2024.0,12.0,72.6,Rabi
+Jogulamba Gadwal,2024.0,12.0,93.7,Rabi
+Kamareddy,2024.0,12.0,219.1,Rabi
+Karimnagar,2024.0,12.0,352.5,Rabi
+Khammam,2024.0,12.0,218.3,Rabi
+Kumuram Bheem,2024.0,12.0,412.5,Rabi
+Mahabubabad,2024.0,12.0,321.0,Rabi
+Mahabubnagar,2024.0,12.0,43.4,Rabi
+Mancherial,2024.0,12.0,437.9,Rabi
+Medak,2024.0,12.0,420.4,Rabi
+Medchal-Malkajgiri,2024.0,12.0,201.4,Rabi
+Mulugu,2024.0,12.0,209.6,Rabi
+Nagarkurnool,2024.0,12.0,220.7,Rabi
+Nalgonda,2024.0,12.0,563.0,Rabi
+Narayanpet,2024.0,12.0,74.7,Rabi
+Nirmal,2024.0,12.0,62.4,Rabi
+Nizamabad,2024.0,12.0,228.0,Rabi
+Peddapalli,2024.0,12.0,228.8,Rabi
+Rajanna Sircilla,2024.0,12.0,560.1,Rabi
+Rangareddy,2024.0,12.0,559.0,Rabi
+Sangareddy,2024.0,12.0,365.5,Rabi
+Siddipet,2024.0,12.0,597.5,Rabi
+Suryapet,2024.0,12.0,256.7,Rabi
+Vikarabad,2024.0,12.0,155.8,Rabi
+Wanaparthy,2024.0,12.0,46.0,Rabi
+Warangal,2024.0,12.0,412.3,Rabi
+Yadadri Bhuvanagiri,2024.0,12.0,774.7,Rabi
+Bhadradri Kothagudem,2025.0,12.0,28.2,Rabi
+Hyderabad,2025.0,12.0,0.0,Rabi
+Jayashankar,2025.0,12.0,0.0,Rabi
+Jogulamba Gadwal,2025.0,12.0,2.2,Rabi
+Kamareddy,2025.0,12.0,3.8,Rabi
+Karimnagar,2025.0,12.0,0.0,Rabi
+Khammam,2025.0,12.0,16.5,Rabi
+Kumuram Bheem,2025.0,12.0,0.0,Rabi
+Mahabubnagar,2025.0,12.0,0.0,Rabi
+Mancherial,2025.0,12.0,0.0,Rabi
+Medak,2025.0,12.0,0.0,Rabi
+Medchal-Malkajgiri,2025.0,12.0,1.1,Rabi
+Nalgonda,2025.0,12.0,0.0,Rabi
+Narayanpet,2025.0,12.0,0.0,Rabi
+Nirmal,2025.0,12.0,0.0,Rabi
+Nizamabad,2025.0,12.0,0.0,Rabi
+Rangareddy,2025.0,12.0,0.0,Rabi
+Sangareddy,2025.0,12.0,0.0,Rabi
+Vikarabad,2025.0,12.0,0.0,Rabi
+Adilabad,2023.0,2.0,0.0,Rabi
+Bhadradri Kothagudem,2023.0,2.0,0.0,Rabi
+Hanumakonda,2023.0,2.0,0.0,Rabi
+Hyderabad,2023.0,2.0,0.0,Rabi
+Jagtial,2023.0,2.0,0.0,Rabi
+Jangaon,2023.0,2.0,0.0,Rabi
+Jayashankar,2023.0,2.0,0.0,Rabi
+Jogulamba Gadwal,2023.0,2.0,0.0,Rabi
+Kamareddy,2023.0,2.0,0.0,Rabi
+Karimnagar,2023.0,2.0,0.0,Rabi
+Khammam,2023.0,2.0,0.0,Rabi
+Kumuram Bheem,2023.0,2.0,0.0,Rabi
+Mahabubabad,2023.0,2.0,0.0,Rabi
+Mahabubnagar,2023.0,2.0,0.0,Rabi
+Mancherial,2023.0,2.0,0.0,Rabi
+Medak,2023.0,2.0,0.0,Rabi
+Medchal-Malkajgiri,2023.0,2.0,0.0,Rabi
+Mulugu,2023.0,2.0,0.0,Rabi
+Nagarkurnool,2023.0,2.0,0.0,Rabi
+Nalgonda,2023.0,2.0,0.0,Rabi
+Narayanpet,2023.0,2.0,0.0,Rabi
+Nirmal,2023.0,2.0,0.0,Rabi
+Nizamabad,2023.0,2.0,0.0,Rabi
+Peddapalli,2023.0,2.0,0.0,Rabi
+Rajanna Sircilla,2023.0,2.0,0.0,Rabi
+Rangareddy,2023.0,2.0,0.0,Rabi
+Sangareddy,2023.0,2.0,0.0,Rabi
+Siddipet,2023.0,2.0,0.0,Rabi
+Suryapet,2023.0,2.0,0.0,Rabi
+Vikarabad,2023.0,2.0,0.0,Rabi
+Wanaparthy,2023.0,2.0,0.0,Rabi
+Warangal,2023.0,2.0,0.0,Rabi
+Yadadri Bhuvanagiri,2023.0,2.0,0.0,Rabi
+Adilabad,2024.0,2.0,80.7,Rabi
+Bhadradri Kothagudem,2024.0,2.0,0.7,Rabi
+Hanumakonda,2024.0,2.0,0.0,Rabi
+Hyderabad,2024.0,2.0,0.0,Rabi
+Jagtial,2024.0,2.0,18.0,Rabi
+Jangaon,2024.0,2.0,0.0,Rabi
+Jayashankar,2024.0,2.0,1.9000000000000001,Rabi
+Jogulamba Gadwal,2024.0,2.0,0.0,Rabi
+Kamareddy,2024.0,2.0,14.5,Rabi
+Karimnagar,2024.0,2.0,22.5,Rabi
+Khammam,2024.0,2.0,0.0,Rabi
+Kumuram Bheem,2024.0,2.0,20.1,Rabi
+Mahabubabad,2024.0,2.0,0.0,Rabi
+Mahabubnagar,2024.0,2.0,0.0,Rabi
+Mancherial,2024.0,2.0,22.0,Rabi
+Medak,2024.0,2.0,0.5,Rabi
+Medchal-Malkajgiri,2024.0,2.0,2.0,Rabi
+Mulugu,2024.0,2.0,31.1,Rabi
+Nagarkurnool,2024.0,2.0,0.0,Rabi
+Nalgonda,2024.0,2.0,27.7,Rabi
+Narayanpet,2024.0,2.0,13.8,Rabi
+Nirmal,2024.0,2.0,183.0,Rabi
+Nizamabad,2024.0,2.0,25.8,Rabi
+Peddapalli,2024.0,2.0,30.6,Rabi
+Rajanna Sircilla,2024.0,2.0,64.4,Rabi
+Rangareddy,2024.0,2.0,0.0,Rabi
+Sangareddy,2024.0,2.0,3.0,Rabi
+Siddipet,2024.0,2.0,21.3,Rabi
+Suryapet,2024.0,2.0,3.3,Rabi
+Vikarabad,2024.0,2.0,0.0,Rabi
+Wanaparthy,2024.0,2.0,0.0,Rabi
+Warangal,2024.0,2.0,0.0,Rabi
+Yadadri Bhuvanagiri,2024.0,2.0,12.7,Rabi
+Bhadradri Kothagudem,2025.0,2.0,43.0,Rabi
+Hyderabad,2025.0,2.0,2.6,Rabi
+Jayashankar,2025.0,2.0,0.5,Rabi
+Kamareddy,2025.0,2.0,0.4,Rabi
+Khammam,2025.0,2.0,1.1,Rabi
+Mahabubabad,2025.0,2.0,1.9,Rabi
+Mahabubnagar,2025.0,2.0,0.6,Rabi
+Mancherial,2025.0,2.0,0.1,Rabi
+Medak,2025.0,2.0,0.5,Rabi
+Medchal-Malkajgiri,2025.0,2.0,0.0,Rabi
+Nagarkurnool,2025.0,2.0,0.0,Rabi
+Narayanpet,2025.0,2.0,1.7000000000000002,Rabi
+Nirmal,2025.0,2.0,0.2,Rabi
+Nizamabad,2025.0,2.0,0.2,Rabi
+Peddapalli,2025.0,2.0,0.2,Rabi
+Rajanna Sircilla,2025.0,2.0,6.5,Rabi
+Rangareddy,2025.0,2.0,15.2,Rabi
+Sangareddy,2025.0,2.0,0.0,Rabi
+Suryapet,2025.0,2.0,18.2,Rabi
+Vikarabad,2025.0,2.0,0.4,Rabi
+Adilabad,2023.0,1.0,0.0,Rabi
+Adilabad,2023.0,3.0,0.0,Zaid
+Adilabad,2023.0,4.0,0.0,Zaid
+Adilabad,2023.0,5.0,0.0,Zaid
+Adilabad,2023.0,6.0,0.0,Kharif
+Adilabad,2023.0,7.0,0.0,Kharif
+Adilabad,2023.0,8.0,0.0,Kharif
+Adilabad,2023.0,9.0,0.0,Kharif
+Adilabad,2023.0,10.0,0.0,Rabi
+Adilabad,2023.0,11.0,0.0,Rabi
+Adilabad,2023.0,12.0,0.0,Rabi
+Bhadradri Kothagudem,2023.0,1.0,0.0,Rabi
+Bhadradri Kothagudem,2023.0,3.0,0.0,Zaid
+Bhadradri Kothagudem,2023.0,4.0,0.0,Zaid
+Bhadradri Kothagudem,2023.0,5.0,0.0,Zaid
+Bhadradri Kothagudem,2023.0,6.0,0.0,Kharif
+Bhadradri Kothagudem,2023.0,7.0,0.0,Kharif
+Bhadradri Kothagudem,2023.0,8.0,0.0,Kharif
+Bhadradri Kothagudem,2023.0,9.0,0.0,Kharif
+Bhadradri Kothagudem,2023.0,10.0,0.0,Rabi
+Bhadradri Kothagudem,2023.0,11.0,0.0,Rabi
+Bhadradri Kothagudem,2023.0,12.0,0.0,Rabi
+Hanumakonda,2023.0,1.0,0.0,Rabi
+Hanumakonda,2023.0,3.0,0.0,Zaid
+Hanumakonda,2023.0,4.0,0.0,Zaid
+Hanumakonda,2023.0,5.0,0.0,Zaid
+Hanumakonda,2023.0,6.0,0.5,Kharif
+Hanumakonda,2023.0,7.0,0.0,Kharif
+Hanumakonda,2023.0,8.0,0.0,Kharif
+Hanumakonda,2023.0,9.0,0.0,Kharif
+Hanumakonda,2023.0,10.0,0.0,Rabi
+Hanumakonda,2023.0,11.0,0.0,Rabi
+Hanumakonda,2023.0,12.0,0.0,Rabi
+Hyderabad,2023.0,1.0,0.0,Rabi
+Hyderabad,2023.0,3.0,0.0,Zaid
+Hyderabad,2023.0,4.0,0.0,Zaid
+Hyderabad,2023.0,5.0,0.0,Zaid
+Hyderabad,2023.0,6.0,1.2,Kharif
+Hyderabad,2023.0,7.0,0.2,Kharif
+Hyderabad,2023.0,8.0,0.0,Kharif
+Hyderabad,2023.0,9.0,0.0,Kharif
+Hyderabad,2023.0,10.0,0.0,Rabi
+Hyderabad,2023.0,11.0,0.0,Rabi
+Hyderabad,2023.0,12.0,0.0,Rabi
+Jagtial,2023.0,1.0,0.0,Rabi
+Jagtial,2023.0,3.0,0.0,Zaid
+Jagtial,2023.0,4.0,0.0,Zaid
+Jagtial,2023.0,5.0,1.1,Zaid
+Jagtial,2023.0,6.0,0.0,Kharif
+Jagtial,2023.0,7.0,0.0,Kharif
+Jagtial,2023.0,8.0,0.0,Kharif
+Jagtial,2023.0,9.0,0.0,Kharif
+Jagtial,2023.0,10.0,0.0,Rabi
+Jagtial,2023.0,11.0,0.0,Rabi
+Jagtial,2023.0,12.0,0.0,Rabi
+Jangaon,2023.0,1.0,0.0,Rabi
+Jangaon,2023.0,3.0,0.0,Zaid
+Jangaon,2023.0,4.0,0.0,Zaid
+Jangaon,2023.0,5.0,0.0,Zaid
+Jangaon,2023.0,6.0,25.099999999999998,Kharif
+Jangaon,2023.0,7.0,0.0,Kharif
+Jangaon,2023.0,8.0,0.0,Kharif
+Jangaon,2023.0,9.0,0.0,Kharif
+Jangaon,2023.0,10.0,0.0,Rabi
+Jangaon,2023.0,11.0,0.0,Rabi
+Jangaon,2023.0,12.0,0.0,Rabi
+Jayashankar,2023.0,1.0,0.0,Rabi
+Jayashankar,2023.0,3.0,0.0,Zaid
+Jayashankar,2023.0,4.0,0.0,Zaid
+Jayashankar,2023.0,5.0,0.0,Zaid
+Jayashankar,2023.0,6.0,0.0,Kharif
+Jayashankar,2023.0,7.0,0.0,Kharif
+Jayashankar,2023.0,8.0,0.0,Kharif
+Jayashankar,2023.0,9.0,0.0,Kharif
+Jayashankar,2023.0,10.0,0.0,Rabi
+Jayashankar,2023.0,11.0,0.0,Rabi
+Jayashankar,2023.0,12.0,0.0,Rabi
+Jogulamba Gadwal,2023.0,1.0,0.0,Rabi
+Jogulamba Gadwal,2023.0,3.0,0.0,Zaid
+Jogulamba Gadwal,2023.0,4.0,0.0,Zaid
+Jogulamba Gadwal,2023.0,5.0,0.0,Zaid
+Jogulamba Gadwal,2023.0,6.0,0.0,Kharif
+Jogulamba Gadwal,2023.0,7.0,0.0,Kharif
+Jogulamba Gadwal,2023.0,8.0,0.0,Kharif
+Jogulamba Gadwal,2023.0,9.0,0.0,Kharif
+Jogulamba Gadwal,2023.0,10.0,0.0,Rabi
+Jogulamba Gadwal,2023.0,11.0,0.0,Rabi
+Jogulamba Gadwal,2023.0,12.0,0.0,Rabi
+Kamareddy,2023.0,1.0,0.0,Rabi
+Kamareddy,2023.0,3.0,0.0,Zaid
+Kamareddy,2023.0,4.0,0.0,Zaid
+Kamareddy,2023.0,5.0,0.0,Zaid
+Kamareddy,2023.0,6.0,0.0,Kharif
+Kamareddy,2023.0,7.0,0.0,Kharif
+Kamareddy,2023.0,8.0,0.0,Kharif
+Kamareddy,2023.0,9.0,0.0,Kharif
+Kamareddy,2023.0,10.0,0.0,Rabi
+Kamareddy,2023.0,11.0,0.0,Rabi
+Kamareddy,2023.0,12.0,0.0,Rabi
+Karimnagar,2023.0,1.0,0.0,Rabi
+Karimnagar,2023.0,3.0,0.0,Zaid
+Karimnagar,2023.0,4.0,0.0,Zaid
+Karimnagar,2023.0,5.0,0.0,Zaid
+Karimnagar,2023.0,6.0,0.0,Kharif
+Karimnagar,2023.0,7.0,0.0,Kharif
+Karimnagar,2023.0,8.0,0.0,Kharif
+Karimnagar,2023.0,9.0,0.0,Kharif
+Karimnagar,2023.0,10.0,0.0,Rabi
+Karimnagar,2023.0,11.0,0.0,Rabi
+Karimnagar,2023.0,12.0,0.0,Rabi
+Khammam,2023.0,1.0,0.0,Rabi
+Khammam,2023.0,3.0,0.0,Zaid
+Khammam,2023.0,4.0,0.0,Zaid
+Khammam,2023.0,5.0,0.0,Zaid
+Khammam,2023.0,6.0,0.4,Kharif
+Khammam,2023.0,7.0,0.0,Kharif
+Khammam,2023.0,8.0,0.0,Kharif
+Khammam,2023.0,9.0,0.0,Kharif
+Khammam,2023.0,10.0,0.0,Rabi
+Khammam,2023.0,11.0,0.0,Rabi
+Khammam,2023.0,12.0,0.0,Rabi
+Kumuram Bheem,2023.0,1.0,0.0,Rabi
+Kumuram Bheem,2023.0,3.0,0.0,Zaid
+Kumuram Bheem,2023.0,4.0,0.0,Zaid
+Kumuram Bheem,2023.0,5.0,0.0,Zaid
+Kumuram Bheem,2023.0,6.0,2.0,Kharif
+Kumuram Bheem,2023.0,7.0,0.0,Kharif
+Kumuram Bheem,2023.0,8.0,0.0,Kharif
+Kumuram Bheem,2023.0,9.0,0.0,Kharif
+Kumuram Bheem,2023.0,10.0,0.0,Rabi
+Kumuram Bheem,2023.0,11.0,0.0,Rabi
+Kumuram Bheem,2023.0,12.0,0.0,Rabi
+Mahabubabad,2023.0,1.0,0.0,Rabi
+Mahabubabad,2023.0,3.0,0.0,Zaid
+Mahabubabad,2023.0,4.0,0.0,Zaid
+Mahabubabad,2023.0,5.0,0.0,Zaid
+Mahabubabad,2023.0,6.0,63.2,Kharif
+Mahabubabad,2023.0,7.0,1.1,Kharif
+Mahabubabad,2023.0,8.0,0.0,Kharif
+Mahabubabad,2023.0,9.0,0.0,Kharif
+Mahabubabad,2023.0,10.0,0.0,Rabi
+Mahabubabad,2023.0,11.0,0.0,Rabi
+Mahabubabad,2023.0,12.0,0.0,Rabi
+Mahabubnagar,2023.0,1.0,0.0,Rabi
+Mahabubnagar,2023.0,3.0,0.0,Zaid
+Mahabubnagar,2023.0,4.0,0.0,Zaid
+Mahabubnagar,2023.0,5.0,0.0,Zaid
+Mahabubnagar,2023.0,6.0,0.0,Kharif
+Mahabubnagar,2023.0,7.0,0.0,Kharif
+Mahabubnagar,2023.0,8.0,0.0,Kharif
+Mahabubnagar,2023.0,9.0,0.0,Kharif
+Mahabubnagar,2023.0,10.0,0.0,Rabi
+Mahabubnagar,2023.0,11.0,0.0,Rabi
+Mancherial,2023.0,1.0,0.0,Rabi
+Mancherial,2023.0,3.0,0.0,Zaid
+Mancherial,2023.0,4.0,0.0,Zaid
+Mancherial,2023.0,5.0,0.0,Zaid
+Mancherial,2023.0,6.0,0.0,Kharif
+Mancherial,2023.0,7.0,0.0,Kharif
+Mancherial,2023.0,8.0,0.0,Kharif
+Mancherial,2023.0,9.0,0.0,Kharif
+Mancherial,2023.0,10.0,0.0,Rabi
+Mancherial,2023.0,11.0,0.0,Rabi
+Mancherial,2023.0,12.0,0.0,Rabi
+Medak,2023.0,1.0,2.9,Rabi
+Medak,2023.0,3.0,0.0,Zaid
+Medak,2023.0,4.0,0.0,Zaid
+Medak,2023.0,5.0,0.0,Zaid
+Medak,2023.0,6.0,0.0,Kharif
+Medak,2023.0,7.0,0.0,Kharif
+Medak,2023.0,8.0,0.0,Kharif
+Medak,2023.0,9.0,0.0,Kharif
+Medak,2023.0,10.0,0.0,Rabi
+Medak,2023.0,11.0,0.0,Rabi
+Medak,2023.0,12.0,0.0,Rabi
+Medchal-Malkajgiri,2023.0,1.0,0.0,Rabi
+Medchal-Malkajgiri,2023.0,3.0,0.0,Zaid
+Medchal-Malkajgiri,2023.0,4.0,0.0,Zaid
+Medchal-Malkajgiri,2023.0,5.0,0.0,Zaid
+Medchal-Malkajgiri,2023.0,6.0,8.9,Kharif
+Medchal-Malkajgiri,2023.0,7.0,7.4,Kharif
+Medchal-Malkajgiri,2023.0,8.0,0.0,Kharif
+Medchal-Malkajgiri,2023.0,9.0,0.0,Kharif
+Medchal-Malkajgiri,2023.0,10.0,0.0,Rabi
+Medchal-Malkajgiri,2023.0,11.0,0.0,Rabi
+Medchal-Malkajgiri,2023.0,12.0,0.0,Rabi
+Mulugu,2023.0,1.0,0.0,Rabi
+Mulugu,2023.0,3.0,0.0,Zaid
+Mulugu,2023.0,4.0,0.0,Zaid
+Mulugu,2023.0,5.0,0.0,Zaid
+Mulugu,2023.0,6.0,0.3,Kharif
+Mulugu,2023.0,7.0,0.0,Kharif
+Mulugu,2023.0,8.0,0.0,Kharif
+Mulugu,2023.0,9.0,0.0,Kharif
+Mulugu,2023.0,10.0,0.0,Rabi
+Mulugu,2023.0,11.0,0.0,Rabi
+Mulugu,2023.0,12.0,0.0,Rabi
+Nagarkurnool,2023.0,1.0,0.0,Rabi
+Nagarkurnool,2023.0,3.0,0.0,Zaid
+Nagarkurnool,2023.0,4.0,0.0,Zaid
+Nagarkurnool,2023.0,5.0,0.0,Zaid
+Nagarkurnool,2023.0,6.0,2.0,Kharif
+Nagarkurnool,2023.0,7.0,0.0,Kharif
+Nagarkurnool,2023.0,8.0,0.0,Kharif
+Nagarkurnool,2023.0,9.0,0.0,Kharif
+Nagarkurnool,2023.0,10.0,0.0,Rabi
+Nagarkurnool,2023.0,11.0,0.0,Rabi
+Nagarkurnool,2023.0,12.0,0.0,Rabi
+Nalgonda,2023.0,1.0,0.0,Rabi
+Nalgonda,2023.0,3.0,0.0,Zaid
+Nalgonda,2023.0,4.0,0.0,Zaid
+Nalgonda,2023.0,5.0,4.9,Zaid
+Nalgonda,2023.0,6.0,32.5,Kharif
+Nalgonda,2023.0,7.0,4.7,Kharif
+Nalgonda,2023.0,8.0,0.0,Kharif
+Nalgonda,2023.0,9.0,0.0,Kharif
+Nalgonda,2023.0,10.0,0.0,Rabi
+Nalgonda,2023.0,11.0,0.0,Rabi
+Nalgonda,2023.0,12.0,0.0,Rabi
+Narayanpet,2023.0,1.0,0.0,Rabi
+Narayanpet,2023.0,3.0,0.0,Zaid
+Narayanpet,2023.0,4.0,0.0,Zaid
+Narayanpet,2023.0,5.0,0.0,Zaid
+Narayanpet,2023.0,6.0,0.0,Kharif
+Narayanpet,2023.0,7.0,0.0,Kharif
+Narayanpet,2023.0,8.0,0.0,Kharif
+Narayanpet,2023.0,9.0,0.0,Kharif
+Narayanpet,2023.0,10.0,0.0,Rabi
+Narayanpet,2023.0,11.0,0.0,Rabi
+Narayanpet,2023.0,12.0,0.0,Rabi
+Nirmal,2023.0,1.0,0.0,Rabi
+Nirmal,2023.0,3.0,0.0,Zaid
+Nirmal,2023.0,4.0,0.0,Zaid
+Nirmal,2023.0,5.0,0.0,Zaid
+Nirmal,2023.0,6.0,0.0,Kharif
+Nirmal,2023.0,7.0,0.0,Kharif
+Nirmal,2023.0,8.0,0.0,Kharif
+Nirmal,2023.0,9.0,0.0,Kharif
+Nirmal,2023.0,10.0,0.0,Rabi
+Nirmal,2023.0,11.0,0.0,Rabi
+Nirmal,2023.0,12.0,0.0,Rabi
+Nizamabad,2023.0,1.0,0.0,Rabi
+Nizamabad,2023.0,3.0,0.0,Zaid
+Nizamabad,2023.0,4.0,0.0,Zaid
+Nizamabad,2023.0,5.0,0.0,Zaid
+Nizamabad,2023.0,6.0,1.3,Kharif
+Nizamabad,2023.0,7.0,0.0,Kharif
+Nizamabad,2023.0,8.0,0.0,Kharif
+Nizamabad,2023.0,9.0,0.0,Kharif
+Nizamabad,2023.0,10.0,0.0,Rabi
+Nizamabad,2023.0,11.0,0.0,Rabi
+Nizamabad,2023.0,12.0,0.0,Rabi
+Peddapalli,2023.0,1.0,0.0,Rabi
+Peddapalli,2023.0,3.0,0.0,Zaid
+Peddapalli,2023.0,4.0,0.0,Zaid
+Peddapalli,2023.0,5.0,25.7,Zaid
+Peddapalli,2023.0,6.0,1.1,Kharif
+Peddapalli,2023.0,7.0,0.0,Kharif
+Peddapalli,2023.0,8.0,0.0,Kharif
+Peddapalli,2023.0,9.0,0.0,Kharif
+Peddapalli,2023.0,10.0,0.0,Rabi
+Peddapalli,2023.0,11.0,0.0,Rabi
+Peddapalli,2023.0,12.0,0.0,Rabi
+Rajanna Sircilla,2023.0,1.0,0.0,Rabi
+Rajanna Sircilla,2023.0,3.0,0.0,Zaid
+Rajanna Sircilla,2023.0,4.0,0.0,Zaid
+Rajanna Sircilla,2023.0,5.0,0.0,Zaid
+Rajanna Sircilla,2023.0,6.0,0.4,Kharif
+Rajanna Sircilla,2023.0,7.0,0.0,Kharif
+Rajanna Sircilla,2023.0,8.0,0.0,Kharif
+Rajanna Sircilla,2023.0,9.0,0.0,Kharif
+Rajanna Sircilla,2023.0,10.0,0.0,Rabi
+Rajanna Sircilla,2023.0,11.0,0.0,Rabi
+Rajanna Sircilla,2023.0,12.0,0.0,Rabi
+Rangareddy,2023.0,1.0,0.1,Rabi
+Rangareddy,2023.0,3.0,0.0,Zaid
+Rangareddy,2023.0,4.0,0.0,Zaid
+Rangareddy,2023.0,5.0,0.0,Zaid
+Rangareddy,2023.0,6.0,7.3,Kharif
+Rangareddy,2023.0,7.0,8.5,Kharif
+Rangareddy,2023.0,8.0,0.0,Kharif
+Rangareddy,2023.0,9.0,0.0,Kharif
+Rangareddy,2023.0,10.0,0.0,Rabi
+Rangareddy,2023.0,11.0,0.0,Rabi
+Rangareddy,2023.0,12.0,0.0,Rabi
+Sangareddy,2023.0,1.0,24.3,Rabi
+Sangareddy,2023.0,3.0,0.0,Zaid
+Sangareddy,2023.0,4.0,0.0,Zaid
+Sangareddy,2023.0,5.0,0.0,Zaid
+Sangareddy,2023.0,6.0,0.0,Kharif
+Sangareddy,2023.0,7.0,0.0,Kharif
+Sangareddy,2023.0,8.0,0.0,Kharif
+Sangareddy,2023.0,9.0,0.0,Kharif
+Sangareddy,2023.0,10.0,0.0,Rabi
+Sangareddy,2023.0,11.0,0.0,Rabi
+Sangareddy,2023.0,12.0,0.0,Rabi
+Siddipet,2023.0,1.0,0.0,Rabi
+Siddipet,2023.0,3.0,0.0,Zaid
+Siddipet,2023.0,4.0,0.0,Zaid
+Siddipet,2023.0,5.0,0.0,Zaid
+Siddipet,2023.0,6.0,0.2,Kharif
+Siddipet,2023.0,7.0,0.0,Kharif
+Siddipet,2023.0,8.0,0.0,Kharif
+Siddipet,2023.0,9.0,0.0,Kharif
+Siddipet,2023.0,10.0,0.0,Rabi
+Siddipet,2023.0,11.0,0.0,Rabi
+Siddipet,2023.0,12.0,0.0,Rabi
+Suryapet,2023.0,1.0,0.0,Rabi
+Suryapet,2023.0,3.0,0.0,Zaid
+Suryapet,2023.0,4.0,0.0,Zaid
+Suryapet,2023.0,5.0,0.0,Zaid
+Suryapet,2023.0,6.0,37.1,Kharif
+Suryapet,2023.0,7.0,0.6,Kharif
+Suryapet,2023.0,8.0,0.0,Kharif
+Suryapet,2023.0,9.0,0.0,Kharif
+Suryapet,2023.0,10.0,0.0,Rabi
+Suryapet,2023.0,11.0,0.0,Rabi
+Suryapet,2023.0,12.0,0.0,Rabi
+Vikarabad,2023.0,1.0,0.0,Rabi
+Vikarabad,2023.0,3.0,0.0,Zaid
+Vikarabad,2023.0,4.0,0.0,Zaid
+Vikarabad,2023.0,5.0,0.0,Zaid
+Vikarabad,2023.0,6.0,1.4,Kharif
+Vikarabad,2023.0,7.0,0.0,Kharif
+Vikarabad,2023.0,8.0,0.0,Kharif
+Vikarabad,2023.0,9.0,0.0,Kharif
+Vikarabad,2023.0,10.0,0.0,Rabi
+Vikarabad,2023.0,11.0,0.0,Rabi
+Vikarabad,2023.0,12.0,0.0,Rabi
+Wanaparthy,2023.0,1.0,0.0,Rabi
+Wanaparthy,2023.0,3.0,0.0,Zaid
+Wanaparthy,2023.0,4.0,0.0,Zaid
+Wanaparthy,2023.0,5.0,0.0,Zaid
+Wanaparthy,2023.0,6.0,0.0,Kharif
+Wanaparthy,2023.0,7.0,0.0,Kharif
+Wanaparthy,2023.0,8.0,0.0,Kharif
+Wanaparthy,2023.0,9.0,0.0,Kharif
+Wanaparthy,2023.0,10.0,0.0,Rabi
+Wanaparthy,2023.0,11.0,0.0,Rabi
+Wanaparthy,2023.0,12.0,0.0,Rabi
+Warangal,2023.0,1.0,0.0,Rabi
+Warangal,2023.0,3.0,0.0,Zaid
+Warangal,2023.0,4.0,0.0,Zaid
+Warangal,2023.0,5.0,0.0,Zaid
+Warangal,2023.0,6.0,18.3,Kharif
+Warangal,2023.0,7.0,0.0,Kharif
+Warangal,2023.0,8.0,0.0,Kharif
+Warangal,2023.0,9.0,0.0,Kharif
+Warangal,2023.0,10.0,0.0,Rabi
+Warangal,2023.0,11.0,0.0,Rabi
+Warangal,2023.0,12.0,0.0,Rabi
+Yadadri Bhuvanagiri,2023.0,1.0,0.0,Rabi
+Yadadri Bhuvanagiri,2023.0,3.0,0.0,Zaid
+Yadadri Bhuvanagiri,2023.0,4.0,0.0,Zaid
+Yadadri Bhuvanagiri,2023.0,5.0,0.0,Zaid
+Yadadri Bhuvanagiri,2023.0,6.0,74.7,Kharif
+Yadadri Bhuvanagiri,2023.0,7.0,9.4,Kharif
+Yadadri Bhuvanagiri,2023.0,8.0,0.5,Kharif
+Yadadri Bhuvanagiri,2023.0,9.0,0.0,Kharif
+Yadadri Bhuvanagiri,2023.0,10.0,0.0,Rabi
+Yadadri Bhuvanagiri,2023.0,11.0,0.0,Rabi
+Yadadri Bhuvanagiri,2023.0,12.0,0.0,Rabi
+Adilabad,2024.0,1.0,2.7,Rabi
+Bhadradri Kothagudem,2024.0,1.0,4.6,Rabi
+Hanumakonda,2024.0,1.0,4.5,Rabi
+Hyderabad,2024.0,1.0,1.2,Rabi
+Jagtial,2024.0,1.0,0.0,Rabi
+Jangaon,2024.0,1.0,0.0,Rabi
+Jayashankar,2024.0,1.0,0.2,Rabi
+Jogulamba Gadwal,2024.0,1.0,0.0,Rabi
+Kamareddy,2024.0,1.0,0.0,Rabi
+Karimnagar,2024.0,1.0,0.8,Rabi
+Khammam,2024.0,1.0,0.0,Rabi
+Kumuram Bheem,2024.0,1.0,14.5,Rabi
+Mahabubabad,2024.0,1.0,0.0,Rabi
+Mahabubnagar,2024.0,1.0,0.0,Rabi
+Mancherial,2024.0,1.0,0.2,Rabi
+Medak,2024.0,1.0,0.1,Rabi
+Medchal-Malkajgiri,2024.0,1.0,0.0,Rabi
+Mulugu,2024.0,1.0,0.0,Rabi
+Nagarkurnool,2024.0,1.0,0.0,Rabi
+Nalgonda,2024.0,1.0,0.9,Rabi
+Narayanpet,2024.0,1.0,0.0,Rabi
+Nirmal,2024.0,1.0,0.0,Rabi
+Nizamabad,2024.0,1.0,0.0,Rabi
+Peddapalli,2024.0,1.0,0.0,Rabi
+Rajanna Sircilla,2024.0,1.0,0.0,Rabi
+Rangareddy,2024.0,1.0,0.4,Rabi
+Sangareddy,2024.0,1.0,0.5,Rabi
+Siddipet,2024.0,1.0,0.0,Rabi
+Suryapet,2024.0,1.0,0.0,Rabi
+Vikarabad,2024.0,1.0,0.0,Rabi
+Wanaparthy,2024.0,1.0,0.0,Rabi
+Warangal,2024.0,1.0,0.0,Rabi
+Yadadri Bhuvanagiri,2024.0,1.0,0.39999999999999997,Rabi
+Adilabad,2025.0,1.0,0.0,Rabi
+Nalgonda,2025.0,1.0,4.5,Rabi
+Adilabad,2023.0,7.0,12876.1,Kharif
+Bhadradri Kothagudem,2023.0,7.0,13767.7,Kharif
+Hanumakonda,2023.0,7.0,10123.6,Kharif
+Hyderabad,2023.0,7.0,5560.1,Kharif
+Jagtial,2023.0,7.0,13760.4,Kharif
+Jangaon,2023.0,7.0,7145.4,Kharif
+Jayashankar,2023.0,7.0,8880.8,Kharif
+Jogulamba Gadwal,2023.0,7.0,2487.8,Kharif
+Kamareddy,2023.0,7.0,13131.8,Kharif
+Karimnagar,2023.0,7.0,10441.9,Kharif
+Khammam,2023.0,7.0,8744.7,Kharif
+Kumuram Bheem,2023.0,7.0,9042.1,Kharif
+Mahabubabad,2023.0,7.0,10418.6,Kharif
+Mahabubnagar,2023.0,7.0,4811.0,Kharif
+Mancherial,2023.0,7.0,10057.3,Kharif
+Medak,2023.0,7.0,10986.3,Kharif
+Medchal-Malkajgiri,2023.0,7.0,5936.0,Kharif
+Mulugu,2023.0,7.0,7013.900000000001,Kharif
+Nagarkurnool,2023.0,7.0,3354.1,Kharif
+Nalgonda,2023.0,7.0,4938.1,Kharif
+Narayanpet,2023.0,7.0,3586.8,Kharif
+Nirmal,2023.0,7.0,14647.6,Kharif
+Nizamabad,2023.0,7.0,22488.4,Kharif
+Peddapalli,2023.0,7.0,8899.6,Kharif
+Rajanna Sircilla,2023.0,7.0,7946.0,Kharif
+Rangareddy,2023.0,7.0,8307.3,Kharif
+Sangareddy,2023.0,7.0,12265.6,Kharif
+Siddipet,2023.0,7.0,13830.0,Kharif
+Suryapet,2023.0,7.0,6639.3,Kharif
+Vikarabad,2023.0,7.0,8707.9,Kharif
+Wanaparthy,2023.0,7.0,3948.7,Kharif
+Warangal,2023.0,7.0,10139.9,Kharif
+Yadadri Bhuvanagiri,2023.0,7.0,5706.0,Kharif
+Adilabad,2023.0,6.0,1561.8,Kharif
+Bhadradri Kothagudem,2023.0,6.0,1719.7,Kharif
+Hanumakonda,2023.0,6.0,582.6,Kharif
+Hyderabad,2023.0,6.0,1042.3,Kharif
+Jagtial,2023.0,6.0,863.2,Kharif
+Jangaon,2023.0,6.0,990.2,Kharif
+Jayashankar,2023.0,6.0,560.2,Kharif
+Jogulamba Gadwal,2023.0,6.0,633.4,Kharif
+Kamareddy,2023.0,6.0,1475.2,Kharif
+Karimnagar,2023.0,6.0,541.5,Kharif
+Khammam,2023.0,6.0,1000.8,Kharif
+Kumuram Bheem,2023.0,6.0,1620.7,Kharif
+Mahabubabad,2023.0,6.0,1383.1,Kharif
+Mahabubnagar,2023.0,6.0,890.8,Kharif
+Mancherial,2023.0,6.0,1379.3,Kharif
+Medak,2023.0,6.0,2086.5,Kharif
+Medchal-Malkajgiri,2023.0,6.0,1195.0,Kharif
+Mulugu,2023.0,6.0,559.8,Kharif
+Nagarkurnool,2023.0,6.0,1342.6,Kharif
+Nalgonda,2023.0,6.0,2761.7,Kharif
+Narayanpet,2023.0,6.0,939.0,Kharif
+Nirmal,2023.0,6.0,1562.2,Kharif
+Nizamabad,2023.0,6.0,2206.3,Kharif
+Peddapalli,2023.0,6.0,593.7,Kharif
+Rajanna Sircilla,2023.0,6.0,603.4,Kharif
+Rangareddy,2023.0,6.0,2222.1,Kharif
+Sangareddy,2023.0,6.0,2923.8,Kharif
+Siddipet,2023.0,6.0,2006.0,Kharif
+Suryapet,2023.0,6.0,1392.5,Kharif
+Vikarabad,2023.0,6.0,1930.4,Kharif
+Wanaparthy,2023.0,6.0,709.1,Kharif
+Warangal,2023.0,6.0,862.6,Kharif
+Yadadri Bhuvanagiri,2023.0,6.0,1423.0,Kharif
+Adilabad,2023.0,3.0,289.1,Zaid
+Bhadradri Kothagudem,2023.0,3.0,2180.6,Zaid
+Hanumakonda,2023.0,3.0,753.5,Zaid
+Hyderabad,2023.0,3.0,718.0,Zaid
+Jagtial,2023.0,3.0,482.7,Zaid
+Jangaon,2023.0,3.0,773.8,Zaid
+Jayashankar,2023.0,3.0,491.59999999999997,Zaid
+Jogulamba Gadwal,2023.0,3.0,262.0,Zaid
+Kamareddy,2023.0,3.0,778.0,Zaid
+Karimnagar,2023.0,3.0,985.0,Zaid
+Khammam,2023.0,3.0,1224.8,Zaid
+Kumuram Bheem,2023.0,3.0,341.6,Zaid
+Mahabubabad,2023.0,3.0,1357.1,Zaid
+Mahabubnagar,2023.0,3.0,588.4,Zaid
+Mancherial,2023.0,3.0,402.9,Zaid
+Medak,2023.0,3.0,855.3000000000001,Zaid
+Medchal-Malkajgiri,2023.0,3.0,749.4,Zaid
+Mulugu,2023.0,3.0,678.0,Zaid
+Nagarkurnool,2023.0,3.0,282.0,Zaid
+Nalgonda,2023.0,3.0,612.9,Zaid
+Narayanpet,2023.0,3.0,221.2,Zaid
+Nirmal,2023.0,3.0,248.70000000000002,Zaid
+Nizamabad,2023.0,3.0,322.1,Zaid
+Peddapalli,2023.0,3.0,709.0,Zaid
+Rajanna Sircilla,2023.0,3.0,562.6,Zaid
+Rangareddy,2023.0,3.0,1007.5,Zaid
+Sangareddy,2023.0,3.0,1544.6,Zaid
+Siddipet,2023.0,3.0,1167.9,Zaid
+Suryapet,2023.0,3.0,532.9,Zaid
+Vikarabad,2023.0,3.0,906.0,Zaid
+Wanaparthy,2023.0,3.0,410.6,Zaid
+Warangal,2023.0,3.0,946.1,Zaid
+Yadadri Bhuvanagiri,2023.0,3.0,741.3,Zaid
+Adilabad,2024.0,3.0,322.90000000000003,Zaid
+Bhadradri Kothagudem,2024.0,3.0,5.3,Zaid
+Hanumakonda,2024.0,3.0,22.5,Zaid
+Hyderabad,2024.0,3.0,3.4000000000000004,Zaid
+Jagtial,2024.0,3.0,47.7,Zaid
+Jangaon,2024.0,3.0,5.5,Zaid
+Jayashankar,2024.0,3.0,61.8,Zaid
+Jogulamba Gadwal,2024.0,3.0,0.0,Zaid
+Kamareddy,2024.0,3.0,560.5,Zaid
+Karimnagar,2024.0,3.0,256.2,Zaid
+Khammam,2024.0,3.0,2.8,Zaid
+Kumuram Bheem,2024.0,3.0,268.90000000000003,Zaid
+Mahabubabad,2024.0,3.0,11.3,Zaid
+Mahabubnagar,2024.0,3.0,3.0,Zaid
+Mancherial,2024.0,3.0,46.0,Zaid
+Medak,2024.0,3.0,401.8,Zaid
+Medchal-Malkajgiri,2024.0,3.0,2.6,Zaid
+Mulugu,2024.0,3.0,29.4,Zaid
+Nagarkurnool,2024.0,3.0,0.0,Zaid
+Nalgonda,2024.0,3.0,5.7,Zaid
+Narayanpet,2024.0,3.0,0.4,Zaid
+Nirmal,2024.0,3.0,37.9,Zaid
+Nizamabad,2024.0,3.0,361.2,Zaid
+Peddapalli,2024.0,3.0,56.5,Zaid
+Rajanna Sircilla,2024.0,3.0,333.5,Zaid
+Rangareddy,2024.0,3.0,39.1,Zaid
+Sangareddy,2024.0,3.0,325.4,Zaid
+Siddipet,2024.0,3.0,298.2,Zaid
+Suryapet,2024.0,3.0,1.3,Zaid
+Vikarabad,2024.0,3.0,43.4,Zaid
+Wanaparthy,2024.0,3.0,0.0,Zaid
+Warangal,2024.0,3.0,15.6,Zaid
+Yadadri Bhuvanagiri,2024.0,3.0,24.2,Zaid
+Adilabad,2023.0,5.0,1220.7,Zaid
+Bhadradri Kothagudem,2023.0,5.0,1819.3,Zaid
+Hanumakonda,2023.0,5.0,1318.7,Zaid
+Hyderabad,2023.0,5.0,1521.1,Zaid
+Jagtial,2023.0,5.0,1552.7,Zaid
+Jangaon,2023.0,5.0,1086.5,Zaid
+Jayashankar,2023.0,5.0,713.8,Zaid
+Jogulamba Gadwal,2023.0,5.0,802.5,Zaid
+Kamareddy,2023.0,5.0,1840.4,Zaid
+Karimnagar,2023.0,5.0,1175.7,Zaid
+Khammam,2023.0,5.0,1528.7,Zaid
+Kumuram Bheem,2023.0,5.0,1010.0,Zaid
+Mahabubabad,2023.0,5.0,996.3,Zaid
+Mahabubnagar,2023.0,5.0,531.3,Zaid
+Mancherial,2023.0,5.0,1394.0,Zaid
+Medak,2023.0,5.0,1199.8,Zaid
+Medchal-Malkajgiri,2023.0,5.0,1125.5,Zaid
+Mulugu,2023.0,5.0,420.0,Zaid
+Nagarkurnool,2023.0,5.0,1151.7,Zaid
+Nalgonda,2023.0,5.0,2110.8,Zaid
+Narayanpet,2023.0,5.0,345.0,Zaid
+Nirmal,2023.0,5.0,808.6,Zaid
+Nizamabad,2023.0,5.0,2234.4,Zaid
+Peddapalli,2023.0,5.0,1059.8,Zaid
+Rajanna Sircilla,2023.0,5.0,969.1,Zaid
+Rangareddy,2023.0,5.0,1601.0,Zaid
+Sangareddy,2023.0,5.0,1923.8,Zaid
+Siddipet,2023.0,5.0,1303.3,Zaid
+Suryapet,2023.0,5.0,1083.0,Zaid
+Vikarabad,2023.0,5.0,974.0,Zaid
+Wanaparthy,2023.0,5.0,1170.1,Zaid
+Warangal,2023.0,5.0,1213.4,Zaid
+Yadadri Bhuvanagiri,2023.0,5.0,1246.4,Zaid
+Adilabad,2023.0,11.0,594.6,Rabi
+Bhadradri Kothagudem,2023.0,11.0,732.9,Rabi
+Hanumakonda,2023.0,11.0,230.4,Rabi
+Hyderabad,2023.0,11.0,314.0,Rabi
+Jagtial,2023.0,11.0,66.0,Rabi
+Jangaon,2023.0,11.0,197.5,Rabi
+Jayashankar,2023.0,11.0,114.9,Rabi
+Jogulamba Gadwal,2023.0,11.0,223.2,Rabi
+Kamareddy,2023.0,11.0,494.0,Rabi
+Karimnagar,2023.0,11.0,76.5,Rabi
+Khammam,2023.0,11.0,541.0,Rabi
+Kumuram Bheem,2023.0,11.0,129.1,Rabi
+Mahabubabad,2023.0,11.0,565.3,Rabi
+Mahabubnagar,2023.0,11.0,214.5,Rabi
+Mancherial,2023.0,11.0,87.60000000000001,Rabi
+Medak,2023.0,11.0,590.5,Rabi
+Medchal-Malkajgiri,2023.0,11.0,263.3,Rabi
+Mulugu,2023.0,11.0,228.1,Rabi
+Nagarkurnool,2023.0,11.0,118.3,Rabi
+Nalgonda,2023.0,11.0,1061.9,Rabi
+Narayanpet,2023.0,11.0,84.8,Rabi
+Nirmal,2023.0,11.0,641.4,Rabi
+Nizamabad,2023.0,11.0,952.6,Rabi
+Peddapalli,2023.0,11.0,15.1,Rabi
+Rajanna Sircilla,2023.0,11.0,93.4,Rabi
+Rangareddy,2023.0,11.0,498.1,Rabi
+Sangareddy,2023.0,11.0,924.7,Rabi
+Siddipet,2023.0,11.0,269.0,Rabi
+Suryapet,2023.0,11.0,791.1,Rabi
+Vikarabad,2023.0,11.0,337.8,Rabi
+Wanaparthy,2023.0,11.0,202.0,Rabi
+Warangal,2023.0,11.0,256.7,Rabi
+Yadadri Bhuvanagiri,2023.0,11.0,492.8,Rabi
+Adilabad,2023.0,10.0,166.7,Rabi
+Bhadradri Kothagudem,2023.0,10.0,265.1,Rabi
+Hanumakonda,2023.0,10.0,55.8,Rabi
+Hyderabad,2023.0,10.0,5.1,Rabi
+Jagtial,2023.0,10.0,47.4,Rabi
+Jangaon,2023.0,10.0,58.3,Rabi
+Jayashankar,2023.0,10.0,114.4,Rabi
+Jogulamba Gadwal,2023.0,10.0,3.6,Rabi
+Kamareddy,2023.0,10.0,181.4,Rabi
+Karimnagar,2023.0,10.0,81.0,Rabi
+Khammam,2023.0,10.0,157.6,Rabi
+Kumuram Bheem,2023.0,10.0,160.4,Rabi
+Mahabubabad,2023.0,10.0,215.7,Rabi
+Mahabubnagar,2023.0,10.0,60.5,Rabi
+Mancherial,2023.0,10.0,114.9,Rabi
+Medak,2023.0,10.0,15.3,Rabi
+Medchal-Malkajgiri,2023.0,10.0,0.4,Rabi
+Mulugu,2023.0,10.0,39.6,Rabi
+Nagarkurnool,2023.0,10.0,261.2,Rabi
+Nalgonda,2023.0,10.0,210.9,Rabi
+Narayanpet,2023.0,10.0,136.5,Rabi
+Nirmal,2023.0,10.0,27.5,Rabi
+Nizamabad,2023.0,10.0,269.7,Rabi
+Peddapalli,2023.0,10.0,26.3,Rabi
+Rajanna Sircilla,2023.0,10.0,97.39999999999999,Rabi
+Rangareddy,2023.0,10.0,48.2,Rabi
+Sangareddy,2023.0,10.0,72.1,Rabi
+Siddipet,2023.0,10.0,57.7,Rabi
+Suryapet,2023.0,10.0,187.9,Rabi
+Vikarabad,2023.0,10.0,78.3,Rabi
+Wanaparthy,2023.0,10.0,28.6,Rabi
+Warangal,2023.0,10.0,142.1,Rabi
+Yadadri Bhuvanagiri,2023.0,10.0,113.4,Rabi
+Adilabad,2023.0,9.0,5038.6,Kharif
+Bhadradri Kothagudem,2023.0,9.0,3905.1,Kharif
+Hanumakonda,2023.0,9.0,2722.2,Kharif
+Hyderabad,2023.0,9.0,4889.3,Kharif
+Jagtial,2023.0,9.0,5334.5,Kharif
+Jangaon,2023.0,9.0,1734.3999999999999,Kharif
+Jayashankar,2023.0,9.0,3428.7,Kharif
+Jogulamba Gadwal,2023.0,9.0,854.7,Kharif
+Kamareddy,2023.0,9.0,6557.3,Kharif
+Karimnagar,2023.0,9.0,3032.8,Kharif
+Khammam,2023.0,9.0,3061.0,Kharif
+Kumuram Bheem,2023.0,9.0,4794.0,Kharif
+Mahabubabad,2023.0,9.0,2577.8,Kharif
+Mahabubnagar,2023.0,9.0,3269.4,Kharif
+Mancherial,2023.0,9.0,5181.3,Kharif
+Medak,2023.0,9.0,6157.4,Kharif
+Medchal-Malkajgiri,2023.0,9.0,3629.0,Kharif
+Mulugu,2023.0,9.0,2732.6,Kharif
+Nagarkurnool,2023.0,9.0,3038.1,Kharif
+Nalgonda,2023.0,9.0,5328.1,Kharif
+Narayanpet,2023.0,9.0,1878.2,Kharif
+Nirmal,2023.0,9.0,5430.5,Kharif
+Nizamabad,2023.0,9.0,9885.7,Kharif
+Peddapalli,2023.0,9.0,3528.9,Kharif
+Rajanna Sircilla,2023.0,9.0,3794.0,Kharif
+Rangareddy,2023.0,9.0,5604.0,Kharif
+Sangareddy,2023.0,9.0,7886.9,Kharif
+Siddipet,2023.0,9.0,5968.0,Kharif
+Suryapet,2023.0,9.0,3567.3,Kharif
+Vikarabad,2023.0,9.0,5012.3,Kharif
+Wanaparthy,2023.0,9.0,2115.2,Kharif
+Warangal,2023.0,9.0,2322.0,Kharif
+Yadadri Bhuvanagiri,2023.0,9.0,2266.2,Kharif
