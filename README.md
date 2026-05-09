@@ -1,4 +1,4 @@
-# Crop Yield Prediction Using Machine Learning
+# Crop Yield Prediction Using AI Approach
 
 This project predicts crop yield using:
 - Real-time weather data
