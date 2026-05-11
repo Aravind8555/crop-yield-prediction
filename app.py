@@ -340,7 +340,7 @@ elif st.session_state.page == "prediction":
     col1, col2, col3 = st.columns([1, 1.2, 6])
 
     with col1:
-        back_btn = st.button("⬅ Back", key="back_btn")
+        back_btn = st.button("⬅ Back to Home", key="back_btn")
 
     if back_btn:
         st.session_state.page = "home"
