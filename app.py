@@ -87,21 +87,22 @@ st.markdown("""
 
 /* BUTTON */
 
-.next-btn button {
-    width: 100%;
-    height: 75px;
-    border-radius: 20px;
-    border: none;
-    background: linear-gradient(135deg,#2e7d32,#43a047);
-    color: white;
-    font-size: 28px;
+div[data-testid="stButton"] button[kind="secondary"] {
+    height: 80px;
+    font-size: 32px;
     font-weight: bold;
-    transition: 0.4s ease;
+    border-radius: 22px;
+    background: linear-gradient(135deg,#1b5e20,#43a047);
+    color: white;
+    border: none;
+    box-shadow: 0px 8px 20px rgba(46,125,50,0.35);
+    transition: 0.3s ease;
 }
 
-.next-btn button:hover {
-    transform: scale(1.03);
-    letter-spacing: 1px;
+div[data-testid="stButton"] button[kind="secondary"]:hover {
+    transform: scale(1.04);
+    background: linear-gradient(135deg,#0d4715,#2e7d32);
+    color: white;
 }
 
 /* HOME ENTRY */
@@ -305,7 +306,13 @@ if st.session_state.page == "home":
 
     # NEXT BUTTON
     st.markdown('<div class="next-btn">', unsafe_allow_html=True)
-    next_clicked = st.button("➡ Next - Open Crop Yield Prediction")
+    col1, col2, col3 = st.columns([1,3,1])
+
+    with col2:
+        next_clicked = st.button(
+            "➡ Next - Open Crop Yield Prediction",
+            key="next_button"
+        )
 
     if next_clicked:
     
@@ -326,12 +333,18 @@ if st.session_state.page == "home":
     st.markdown('</div>', unsafe_allow_html=True)
 
 elif st.session_state.page == "prediction":
+
     st.markdown('<div class="prediction-page">', unsafe_allow_html=True)
+
     # BACK BUTTON
-    if st.button("⬅ Back To Home"):
+    col1, col2, col3 = st.columns([1, 1.2, 6])
+
+    with col1:
+        back_btn = st.button("⬅ Back", key="back_btn")
+
+    if back_btn:
         st.session_state.page = "home"
         st.rerun()
-    
     # ==========================================
     # PREDICTION PAGE TITLE
     # ==========================================
@@ -616,18 +629,21 @@ elif st.session_state.page == "prediction":
     
     .stButton > button {
         width: 100%;
-        height: 65px;
-        font-size: 24px;
+        height: 45px;
+        font-size: 26px;
         font-weight: bold;
-        background-color: #2e7d32;
+        background: linear-gradient(135deg,#1b5e20,#43a047);
         color: white;
-        border-radius: 14px;
+        border-radius: 18px;
         border: none;
+        box-shadow: 0px 6px 18px rgba(0,0,0,0.15);
+        transition: 0.3s ease;
     }
     
     .stButton > button:hover {
-        background-color: #1b5e20;
+        background: linear-gradient(135deg,#0d4715,#2e7d32);
         color: white;
+        transform: scale(1.03);
     }
     
     .captcha-box {
